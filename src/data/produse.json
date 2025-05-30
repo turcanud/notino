@@ -1,0 +1,2952 @@
+{
+  "par": [
+    {
+      "id": 1,
+      "promotie": "HIT",
+      "poza": "src/assets/products/par/product1.png",
+      "nume": "Balsam-spumă pentru neutralizarea tonurilor de galben",
+      "categorie": "Conditioner",
+      "volum": "250ml",
+      "pret": "301 MDL",
+      "caracteristici": {
+        "brand": "Fanola",
+        "seria": "no yellow",
+        "scop": "decolorare, împotriva îngălbenirii",
+        "tip_produs": "condiţioner pentru păr",
+        "volum": "250ml",
+        "tip_de_par": "blond",
+        "tara": "Italia"
+      },
+      "recenzii": [
+        {
+          "autor": "Ioana123",
+          "data": "2022-11-02",
+          "rating": 4,
+          "comentariu": "Un produs bun, dar nu am observat o diferență semnificativă în neutralizarea tonurilor de galben."
+        },
+        {
+          "autor": "Victoria",
+          "data": "2022-11-05",
+          "rating": 3,
+          "comentariu": "Nu am fost foarte impresionată de acest produs. Poate că aș încerca altceva data viitoare."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "promotie": "HIT",
+      "poza": "src/assets/products/par/product2.png",
+      "nume": "Balsam bifazic pentru neutralizarea culorilor de galben",
+      "categorie": "Conditioner",
+      "volum": "150ml",
+      "pret": "361 MDL",
+      "caracteristici": {
+        "brand": "Fanola",
+        "seria": "no yellow",
+        "scop": "protecţia culorii părului, împotriva îngălbenirii",
+        "tip_produs": "condiţioner pentru păr",
+        "volum": "150ml",
+        "tip_de_par": "blond",
+        "tara": "Italia"
+      },
+      "recenzii": [
+        {
+          "autor": "Iulia",
+          "data": "2022-02-01",
+          "rating": 5,
+          "comentariu": "Un produs excelent! A ajutat foarte mult la menținerea culorii părului meu blond."
+        },
+        {
+          "autor": "Ana",
+          "data": "2021-01-25",
+          "rating": 3,
+          "comentariu": "Nu am observat o diferență semnificativă în neutralizarea tonurilor de galben. Poate că aș încerca altceva data viitoare."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "promotie": "HIT",
+      "poza": "src/assets/products/par/product3.png",
+      "nume": "Balsam nutritiv, color support pentru blond",
+      "categorie": "Conditioner",
+      "volum": "250ml",
+      "pret": "684 MDL",
+
+      "caracteristici": {
+        "brand": "Davines",
+        "seria": "heart of glass",
+        "scop": "nutriţie, produse pentru strălucire, protecţia culorii părului, revitalizare",
+        "tip_produs": "condiţioner pentru păr",
+        "volum": "250ml",
+        "tip_de_par": "blond",
+        "tara": "Italia"
+      },
+      "recenzii": [
+        {
+          "autor": "Margareta",
+          "data": "2025-03-01",
+          "rating": 4,
+          "comentariu": "Un produs bun, dar nu am observat o diferență semnificativă în neutralizarea tonurilor de galben."
+        },
+        {
+          "autor": "Alina",
+          "data": "2025-03-05",
+          "rating": 3,
+          "comentariu": "Nu am fost foarte impresionată de acest produs. Poate că aș încerca altceva data viitoare."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "promotie": "HIT",
+      "poza": "src/assets/products/par/product4.png",
+      "nume": "Soluție fără clătire pentru întărirea părului",
+      "categorie": "Treatment",
+      "volum": "150ml",
+      "pret": "688 MDL",
+
+      "caracteristici": {
+        "brand": "Matrix",
+        "seria": "total results unbreak my blonde",
+        "scop": "revitalizare, întărire",
+        "tip_produs": "condiţioner pentru păr",
+        "volum": "150ml",
+        "tip_de_par": "blond",
+        "tara": "Spania"
+      },
+      "recenzii": [
+        {
+          "autor": "Liliana",
+          "data": "2024-12-25",
+          "rating": 3,
+          "comentariu": "Un produs bun, dar nu am observat o diferență semnificativă în neutralizarea tonurilor de galben."
+        },
+        {
+          "autor": "Georgeta",
+          "data": "2024-12-30",
+          "rating": 4,
+          "comentariu": "Un produs excelent! A ajutat foarte mult la menținerea culorii părului meu blond."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "promotie": "HIT",
+      "poza": "src/assets/products/par/product5.png",
+      "nume": "Balsam pentru păr blond și gri",
+      "categorie": "Treatment",
+      "volum": "250ml",
+      "pret": "699 MDL",
+
+      "caracteristici": {
+        "brand": "Rene Furterer",
+        "seria": "okara",
+        "scop": "inmuiere, produse pentru strălucire, protecţia culorii părului, revitalizare",
+        "tip_produs": "condiţioner pentru păr",
+        "volum": "250ml",
+        "tip_de_par": "blond",
+        "tara": "Franţa"
+      },
+      "recenzii": [
+        {
+          "autor": "Veronica",
+          "data": "2024-07-15",
+          "rating": 5,
+          "comentariu": "Un produs excelent! A ajutat foarte mult la menținerea culorii părului meu blond."
+        },
+        {
+          "autor": "Bianca",
+          "data": "2024-07-20",
+          "rating": 5,
+          "comentariu": "Un produs excelent! A ajutat foarte mult la menținerea culorii părului meu blond."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "promotie": "HIT",
+      "poza": "src/assets/products/par/product6.png",
+      "nume": "Balsam pentru păr",
+      "categorie": "Klorane Blond Highlights Conditioner",
+      "volum": "200ml",
+      "pret": "386 MDL",
+
+      "caracteristici": {
+        "brand": "Klorane",
+        "seria": "conditioner",
+        "scop": "decolorare, hidratare",
+        "tip_produs": "condiţioner pentru păr",
+        "volum": "200ml",
+        "tip_de_par": "blond",
+        "tara": "Franţa"
+      },
+      "recenzii": [
+        {
+          "autor": "Gabriela",
+          "data": "2025-08-10",
+          "rating": 3,
+          "comentariu": "Un produs bun, dar nu am observat o diferență semnificativă în neutralizarea tonurilor de galben."
+        },
+        {
+          "autor": "Anca",
+          "data": "2025-08-15",
+          "rating": 5,
+          "comentariu": "Un produs excelent! A ajutat foarte mult la menținerea culorii părului meu blond."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "promotie": "HIT",
+      "poza": "src/assets/products/par/product7.png",
+      "nume": "Șampon regenerant cu cheratină",
+      "categorie": "Inebrya Ice Cream Keratin",
+      "volum": "100ml",
+      "pret": "83 MDL",
+
+      "caracteristici": {
+        "brand": "inebrya",
+        "seria": "keratin",
+        "scop": "hidratare, nutriţie, revitalizare",
+        "tip_produs": "șampon",
+        "volum": "100ml",
+        "tip_de_par": "deteriorat",
+        "tara": "Italia"
+      },
+      "recenzii": [
+        {
+          "autor": "Catalina",
+          "data": "2024-04-06",
+          "rating": 5,
+          "comentariu": "Am folosit acest șampon nu doar o dată și îmi place foarte mult. De data aceasta, am decis să cumpăr sticla de un litru. Singurul dezavantaj este capacul. "
+        },
+        {
+          "autor": "Anca",
+          "data": "2025-08-15",
+          "rating": 5,
+          "comentariu": "Mulțumesc pentru livrarea atât de promptă! Sunt foarte mulțumită de produs și mi-a plăcut în mod deosebit cadoul - un pieptene!"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "promotie": "DEAL",
+      "poza": "src/assets/products/par/product8.png",
+      "nume": "Șampon-Scrub anti-mătreață pentru curățare profundă",
+      "categorie": "Anti-Dandruff Scrub",
+      "volum": "250ml",
+      "pret": "407 MDL",
+
+      "caracteristici": {
+        "brand": "Vichy",
+        "seria": "dercos",
+        "scop": "antimătreaţă, peeling, purificare, împotriva iritaţiei",
+        "tip_produs": "șampon",
+        "volum": "250ml",
+        "tip_de_par": "deteriorat",
+        "tara": "Franţa"
+      },
+      "recenzii": [
+        {
+          "autor": "Nicoleta",
+          "data": "2024-03-30",
+          "rating": 4,
+          "comentariu": "Am folosit acest șampon timp de jumătate de an și scalpul meu se simte curat și plăcut. Părul meu nu cade și rămâne curat pentru o perioadă lungă de timp."
+        },
+        {
+          "autor": "Anca",
+          "data": "2025-08-15",
+          "rating": 5,
+          "comentariu": "Aceasta este o șampon excelent împotriva mătreții. Din când în când am probleme cu mătreața, iar asta îmi provoacă mâncărimi ale scalpului și pierderea părului. "
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "promotie": "DEAL",
+      "poza": "src/assets/products/par/product9.png",
+      "nume": "Șampon intensiv regenerator",
+      "categorie": "Intense Repair Shampoo",
+      "volum": "250ml",
+      "pret": "222 MDL",
+
+      "caracteristici": {
+        "brand": "Wella Professionals",
+        "seria": "fusion",
+        "scop": "purificare, revitalizare",
+        "tip_produs": "șampon",
+        "volum": "250ml",
+        "tip_de_par": "deteriorat",
+        "tara": "Elveţia"
+      },
+      "recenzii": [
+        {
+          "autor": "Corina",
+          "data": "2024-11-30",
+          "rating": 4,
+          "comentariu": "Există o dezavantaj - acesta determină scalpul să devină gras într-un timp scurt. De obicei, îmi spăl părul la fiecare două zile, dar cu Fusion, am simțit nevoia să-l spăl zilnic, din nefericire."
+        },
+        {
+          "autor": "Andreea",
+          "data": "2025-09-12",
+          "rating": 5,
+          "comentariu": "Am încercat masca de restaurare intensivă Wella Professionals Fusion și a funcționat minunat pentru mine."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "promotie": "DEAL",
+      "poza": "src/assets/products/par/product10.png",
+      "nume": "Mască regenerantă cu extract de ovăz pentru păr",
+      "categorie": "Brelil Numero Total Repair Mask",
+      "volum": "300ml",
+      "pret": "125 MDL",
+
+      "caracteristici": {
+        "brand": "Brelil",
+        "seria": "fusion",
+        "scop": "nutriţie, purificare, revitalizare",
+        "tip_produs": "mască pentru păr",
+        "volum": "300ml",
+        "tip_de_par": "deteriorat",
+        "tara": "Italia"
+      },
+      "recenzii": [
+        {
+          "autor": "Otilia",
+          "data": "2023-02-20",
+          "rating": 5,
+          "comentariu": "Am folosit șamponul și masca din această serie de mult timp. De obicei, le cumpăr de pe Makeup. Sunt foarte mulțumită. "
+        },
+        {
+          "autor": "Crionela",
+          "data": "2024-01-10",
+          "rating": 4,
+          "comentariu": "Acest șampon este cu adevărat minunat! Are un miros plăcut și lasă părul meu moale și strălucitor. "
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "promotie": "HIT",
+      "poza": "src/assets/products/par/product11.png",
+      "nume": "L'Oreal Professionnel Absolut Repair Gold",
+      "categorie": "Mască de păr",
+      "volum": "500ml",
+      "pret": "751 MDL",
+
+      "caracteristici": {
+        "brand": "L'Oreal Professionnel",
+        "seria": "absolut repair",
+        "scop": "nutriţie, revitalizare, întăriree",
+        "tip_produs": "mască pentru păr",
+        "volum": "500ml",
+        "tip_de_par": "deteriorat",
+        "tara": "Spania"
+      },
+      "recenzii": [
+        {
+          "autor": "Adriana",
+          "data": "2024-05-12",
+          "rating": 5,
+          "comentariu": "Această linie de îngrijire a părului este absolut uimitoare! Mirosul este foarte plăcut și, după utilizare, părul meu se simte la fel de neted ca după o mască de keratină."
+        },
+        {
+          "autor": "Crionela",
+          "data": "2024-01-10",
+          "rating": 4,
+          "comentariu": "Sunt surprinsa de calitatea acestui produs. Părul meu arată și se simte mult mai bine după utilizare."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "promotie": "HIT",
+      "poza": "src/assets/products/par/product12.png",
+      "nume": "Șampon pentru păr vopsit",
+      "categorie": "For Colored and Treated Hair",
+      "volum": "300ml",
+      "pret": "215 MDL",
+
+      "caracteristici": {
+        "brand": "Echosline",
+        "seria": "colorcarer",
+        "scop": "nutriţie, revitalizare, întăriree",
+        "tip_produs": "şampon",
+        "volum": "300ml",
+        "tip_de_par": "deteriorat",
+        "tara": "Italia"
+      },
+      "recenzii": [
+        {
+          "autor": "Maria",
+          "data": "2024-06-20",
+          "rating": 3,
+          "comentariu": "Este un produs bun, dar nu am observat o diferență semnificativă în neutralizarea tonurilor de galben."
+        },
+        {
+          "autor": "Galina",
+          "data": "2024-06-09",
+          "rating": 4,
+          "comentariu": "Un produs excelent! A ajutat foarte mult la menținerea culorii părului meu blond."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "promotie": "DEAL",
+      "poza": "src/assets/products/par/product13.png",
+      "nume": "Șampon profesional pentru curățarea părului gras",
+      "categorie": "Scalp Advanced Anti-Oiliness",
+      "volum": "300ml",
+      "pret": "352 MDL",
+
+      "caracteristici": {
+        "brand": "L'Oreal Professionnel",
+        "seria": "scalp advanced",
+        "scop": "purificare, revitalizare",
+        "tip_produs": "şampon",
+        "volum": "300ml",
+        "tip_de_par": "creț",
+        "tara": "Spania"
+      },
+      "recenzii": [
+        {
+          "autor": "Maria",
+          "data": "2024-06-20",
+          "rating": 3,
+          "comentariu": "Este un produs bun, dar nu am observat o diferență semnificativă în neutralizarea tonurilor de galben."
+        },
+        {
+          "autor": "Galina",
+          "data": "2024-06-09",
+          "rating": 4,
+          "comentariu": "Un produs excelent! A ajutat foarte mult la menținerea culorii părului meu blond."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "promotie": "HIT",
+      "poza": "src/assets/products/par/product14.png",
+      "nume": "Șampon pentru păr gras și sensibil",
+      "categorie": "Specifique Bain Divalent Shampoo",
+      "volum": "250ml",
+      "pret": "499 MDL",
+
+      "caracteristici": {
+        "brand": "Kerastase",
+        "seria": "scalp advanced",
+        "scop": "purificare, revitalizare",
+        "tip_produs": "şampon",
+        "volum": "300ml",
+        "tip_de_par": "creț",
+        "tara": "Spania"
+      },
+      "recenzii": [
+        {
+          "autor": "Violeta",
+          "data": "2025-02-18",
+          "rating": 4,
+          "comentariu": "Șamponul curăță delicat scalpul sensibil și reglează producția de sebum. Părul rămâne ușor, moale și mai puțin gras între spălări."
+        },
+        {
+          "autor": "Olga",
+          "data": "2025-03-24",
+          "rating": 4,
+          "comentariu": "Are o formulă blândă, fără parfum puternic, ideală pentru scalpul iritat. Totuși, efectul de prospețime se menține doar câteva zile."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "promotie": "NEW",
+      "poza": "src/assets/products/par/product15.png",
+      "nume": "Șampon pentru uz zilnic",
+      "categorie": "American Crew Daily Cleansing",
+      "volum": "450ml",
+      "pret": "378 MDL",
+
+      "caracteristici": {
+        "brand": "American Crew",
+        "seria": "classic",
+        "scop": "hidratare, purificare",
+        "tip_produs": "şampon",
+        "volum": "450ml",
+        "tip_de_par": "creț",
+        "tara": "SUA"
+      },
+      "recenzii": [
+        {
+          "autor": "Violeta",
+          "data": "2025-02-18",
+          "rating": 3,
+          "comentariu": "Curăță bine părul și are o textură plăcută, dar nu oferă hidratare suficientă. Este potrivit pentru utilizare frecventă, dar fără efecte notabile."
+        },
+        {
+          "autor": "Olga",
+          "data": "2025-03-24",
+          "rating": 4,
+          "comentariu": "Un șampon decent pentru spălări zilnice, fără iritații sau reziduuri. Totuși, lasă părul puțin uscat și fără volum."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "promotie": "HIT",
+      "poza": "src/assets/products/par/product16.png",
+      "nume": "Șampon revigorant",
+      "categorie": "CP-1 Cool Mint Shampoo",
+      "volum": "100ml",
+      "pret": "97 MDL",
+
+      "caracteristici": {
+        "brand": "Esthetic House",
+        "seria": "cp-1",
+        "scop": "antimătreaţă, produse pentru strălucire, purificare, revitalizare, reîmprospătare, împotriva căderii părului, împotriva inflamaţiilor",
+        "tip_produs": "şampon",
+        "volum": "100ml",
+        "tip_de_par": "creț",
+        "tara": "Coreea de Sud"
+      },
+      "recenzii": [
+        {
+          "autor": "Marina",
+          "data": "2024-08-20",
+          "rating": 3,
+          "comentariu": "Oferă o senzație plăcută de prospețime și curăță foarte bine scalpul. Ideal pentru diminețile în care ai nevoie de un plus de energie."
+        },
+        {
+          "autor": "Irina",
+          "data": "2025-03-24",
+          "rating": 4,
+          "comentariu": "Are un miros mentolat revigorant și lasă părul curat și ușor. Nu încarcă firul de păr, dar efectul nu durează toată ziua."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "promotie": "DEAL",
+      "poza": "src/assets/products/par/product17.png",
+      "nume": "Bain Prevention Specifique Shampoo",
+      "categorie": "Șampon",
+      "volum": "250ml",
+      "pret": "688 MDL",
+
+      "caracteristici": {
+        "brand": "Kerastase",
+        "seria": "specifique",
+        "scop": "împotriva căderii părului",
+        "tip_produs": "şampon",
+        "volum": "250ml",
+        "tip_de_par": "creț",
+        "tara": "Spania"
+      },
+      "recenzii": [
+        {
+          "autor": "Iris",
+          "data": "2024-09-01",
+          "rating": 2,
+          "comentariu": "Șamponul are o textură plăcută și lasă scalpul curat, dar nu am observat îmbunătățiri majore în reducerea căderii părului."
+        },
+        {
+          "autor": "Daria",
+          "data": "2024-12-09",
+          "rating": 3,
+          "comentariu": "Este delicat cu scalpul și miroase plăcut, însă rezultatele sunt mai slabe decât mă așteptam pentru acest preț."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "promotie": "HIT",
+      "poza": "src/assets/products/par/product18.png",
+      "nume": "Peeling Dixidox De Luxe N 1.3",
+      "categorie": "Dixidox DeLuxe Antiseborrheic Peeling",
+      "volum": "200ml",
+      "pret": "818 MDL",
+
+      "caracteristici": {
+        "brand": "Simone DSD De Luxe",
+        "seria": "antiseborrheic treatment",
+        "scop": "antimătreaţă, hidratare, purificare, împotriva seboreei",
+        "tip_produs": "peeling pentru scalp",
+        "volum": "200ml",
+        "tip_de_par": "creț",
+        "tara": "Spania"
+      },
+      "recenzii": [
+        {
+          "autor": "Iris",
+          "data": "2024-09-01",
+          "rating": 5,
+          "comentariu": "Curăță excelent scalpul și reduce vizibil excesul de sebum încă de la primele utilizări. Lasă o senzație de prospețime și îmbunătățește absorbția tratamentelor ulterioare."
+        },
+        {
+          "autor": "Daria",
+          "data": "2024-12-09",
+          "rating": 5,
+          "comentariu": "Un produs profesional care exfoliază delicat, dar eficient, fără să irite scalpul. Părul rămâne curat mai mult timp, iar mâncărimea dispare aproape complet."
+        }
+      ]
+    }
+  ],
+  "corp": [
+    {
+      "id": 100,
+      "promotie": "DEAL",
+      "poza": "src/assets/products/corp/product100.png",
+      "nume": "Smart Shower Gel",
+      "categorie": "Gel de duș",
+      "volum": "250ml",
+      "pret": 298,
+
+      "caracteristici": {
+        "brand": "Sister's Aroma",
+        "seria": "body care",
+        "scop": "hidratare, nutriţie, purificare, tonifiere, împotriva inflamaţiilor",
+        "tip_produs": "gel pentru duş",
+        "volum": "250ml",
+        "tara": "Ucraina"
+      },
+      "recenzii": [
+        {
+          "autor": "Marionela",
+          "data": "2024-08-12",
+          "rating": 4,
+          "comentariu": "Are un parfum fresh și lasă pielea curată și hidratată. Textura este plăcută, dar mi-ar fi plăcut să facă mai multă spumă."
+        },
+        {
+          "autor": "Ionescu",
+          "data": "2023-09-15",
+          "rating": 4,
+          "comentariu": "Gel de duș eficient și revigorant, perfect pentru utilizare zilnică. Ambalajul este practic, însă prețul e puțin cam ridicat."
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "promotie": "DEAL",
+      "poza": "src/assets/products/corp/product101.png",
+      "nume": "Gel de duș Prospețimea lemongrass-ului",
+      "categorie": "Bath Care Lemongrass And Oil",
+      "volum": "250ml",
+      "pret": 115,
+
+      "caracteristici": {
+        "brand": "NIVEA",
+        "seria": "bath care",
+        "scop": "purificare",
+        "tip_produs": "gel pentru duş",
+        "volum": "250ml",
+        "tara": "Germania"
+      },
+      "recenzii": [
+        {
+          "autor": "Iulia Moraru",
+          "data": "2024-08-15",
+          "rating": 4,
+          "comentariu": "Mirosul de lemongrass este revigorant și energizant, perfect pentru dimineți. Curăță bine pielea, dar nu oferă foarte multă hidratare."
+        },
+        {
+          "autor": "Aurica",
+          "data": "2024-09-05",
+          "rating": 4,
+          "comentariu": "Textura ușoară și parfumul proaspăt transformă dușul într-o experiență plăcută. Ar fi fost ideal dacă persistau mai mult notele citrice pe piele."
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "promotie": "DEAL",
+      "poza": "src/assets/products/corp/product102.png",
+      "nume": "The Ritual of Karma Foaming Shower Gel",
+      "categorie": "Gel de duș",
+      "volum": "200ml",
+      "pret": 197,
+
+      "caracteristici": {
+        "brand": "Rituals",
+        "seria": "the ritual of karma",
+        "scop": "hidratare, nutriţie",
+        "tip_produs": "gel pentru duş",
+        "volum": "200ml",
+        "tara": "Olanda"
+      },
+      "recenzii": [
+        {
+          "autor": "Barbara",
+          "data": "2024-10-10",
+          "rating": 4,
+          "comentariu": "Spuma este fină și bogată, iar parfumul este relaxant și plăcut. Totuși, mi-ar fi plăcut ca mirosul să persiste mai mult pe piele."
+        },
+        {
+          "autor": "Actavia",
+          "data": "2024-09-18",
+          "rating": 4,
+          "comentariu": "Un gel de duș spumos și delicat cu pielea, perfect pentru ritualul de seară. Ambalajul e elegant, dar se consumă destul de repede."
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "promotie": "HIT",
+      "poza": "src/assets/products/corp/product103.png",
+      "nume": "Gel de curățare pentru corp, cu acid salicilic",
+      "categorie": "Gel de duș",
+      "volum": "250ml",
+      "pret": "240 MDL",
+
+      "caracteristici": {
+        "brand": "Q+A",
+        "seria": "face care",
+        "scop": "purificare",
+        "tip_produs": "gel pentru duş",
+        "volum": "250ml",
+        "tara": "Marea Britanie"
+      },
+      "recenzii": [
+        {
+          "autor": "Patricia",
+          "data": "2024-10-11",
+          "rating": 4,
+          "comentariu": "Curăță eficient impuritățile și ajută la prevenirea iritațiilor, lăsând pielea fină și fără senzație de uscăciune."
+        },
+        {
+          "autor": "Iris",
+          "data": "2024-09-18",
+          "rating": 4,
+          "comentariu": "Formula cu acid salicilic exfoliază delicat și reduce imperfecțiunile, fiind ideal pentru pielea predispusă la coșuri și pete."
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "promotie": "DEAL",
+      "poza": "src/assets/products/corp/product104.png",
+      "nume": "Gel de duș parfumat Rose Wine",
+      "categorie": "MAREVE",
+      "volum": "250ml",
+      "pret": "140 MDL",
+
+      "caracteristici": {
+        "brand": "MAREVE",
+        "seria": "îngrijirea corpului",
+        "scop": "aromatizare, hidratare, nutriţie, purificare",
+        "tip_produs": "gel pentru duş",
+        "volum": "250ml",
+        "tara": "Ucraina"
+      },
+      "recenzii": [
+        {
+          "autor": "Ana",
+          "data": "2024-10-11",
+          "rating": 4,
+          "comentariu": "Curăță eficient impuritățile și ajută la prevenirea iritațiilor, lăsând pielea fină și fără senzație de uscăciune."
+        },
+        {
+          "autor": "Ioana",
+          "data": "2024-09-18",
+          "rating": 4,
+          "comentariu": "Formula cu acid salicilic exfoliază delicat și reduce imperfecțiunile, fiind ideal pentru pielea predispusă la coșuri și pete."
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "promotie": "DEAL",
+      "poza": "src/assets/products/corp/product105.png",
+      "nume": "Șampon și gel de duș, 2 în 1, cu fructe",
+      "categorie": "Red Fruits Shampoo & Body Wash",
+      "volum": "500ml",
+      "pret": "289 MDL",
+
+      "caracteristici": {
+        "brand": "Bioearth",
+        "seria": "family",
+        "scop": "purificare",
+        "tip_produs": "gel pentru duş",
+        "volum": "500ml",
+        "tara": "Italia"
+      },
+      "recenzii": [
+        {
+          "autor": "Gabriela",
+          "data": "2024-11-19",
+          "rating": 3,
+          "comentariu": "Are un miros plăcut de fructe, dar nu curăță foarte bine părul și pielea, așa că trebuie să folosesc mai mult produs."
+        },
+        {
+          "autor": "Cristina",
+          "data": "2024-01-19",
+          "rating": 4,
+          "comentariu": "Textura e ok și ambalajul arată bine, însă nu am simțit un efect de hidratare sau revitalizare după utilizare."
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "promotie": "HIT",
+      "poza": "src/assets/products/corp/product106.png",
+      "nume": "Scrub de corp cu acizi Exfoliator Body Scrub",
+      "categorie": "face care",
+      "volum": "250ml",
+      "pret": "302 MDL",
+
+      "caracteristici": {
+        "brand": "Q+A",
+        "seria": "face care",
+        "scop": "efect de exfoliere, peeling, purificare",
+        "tip_produs": "scrub pentru corp",
+        "volum": "250ml",
+        "tara": "Marea Britanie"
+      },
+      "recenzii": [
+        {
+          "autor": "Alina",
+          "data": "2024-05-29",
+          "rating": 4,
+          "comentariu": "Exfoliază eficient și lasă pielea fină și luminoasă, fără senzația de uscăciune. Mi-ar fi plăcut să aibă un parfum mai persistent."
+        },
+        {
+          "autor": "Ioana4",
+          "data": "2023-06-20",
+          "rating": 3,
+          "comentariu": "Textura gel-ului cu particule fine este plăcută, iar pielea se simte revigorată după fiecare folosire. Recomand pentru o exfoliere delicată."
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "promotie": "HIT",
+      "poza": "src/assets/products/corp/product107.png",
+      "nume": "Scrub de stimulare pentru corp",
+      "categorie": "Purify Stimulating Body Scrub",
+      "volum": "250ml",
+      "pret": "325 MDL",
+
+      "caracteristici": {
+        "brand": "Alma K.",
+        "seria": "body care",
+        "scop": "anticelulitic, peeling, purificare",
+        "tip_produs": "scrub pentru corp",
+        "volum": "250ml",
+        "tara": "Israel"
+      },
+      "recenzii": [
+        {
+          "autor": "Roxana",
+          "data": "2024-04-28",
+          "rating": 4,
+          "comentariu": "Scrubul are o textură plăcută și revigorantă, lăsând pielea moale și revitalizată după fiecare aplicare."
+        },
+        {
+          "autor": "Oana",
+          "data": "2023-07-31",
+          "rating": 4,
+          "comentariu": "Exfolierea este eficientă, iar senzația de prospețime persistă mult timp. Aș prefera totuși un parfum puțin mai puternic."
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "promotie": "HIT",
+      "poza": "src/assets/products/corp/product108.png",
+      "nume": "Scrub de față și corp pentru îndepărtarea impurităților",
+      "categorie": "Derma Skin Clear Anti-Blemish Scrub",
+      "volum": "150ml",
+      "pret": "212 MDL",
+
+      "caracteristici": {
+        "brand": "NIVEA",
+        "seria": "derma skin clear",
+        "scop": "blocarea porilor, purificare, împotriva punctelor negre",
+        "tip_produs": "scrub pentru corp",
+        "volum": "150ml",
+        "tara": "Germania"
+      },
+      "recenzii": [
+        {
+          "autor": "BiancaT",
+          "data": "2024-07-21",
+          "rating": 4,
+          "comentariu": "Este bun pentru utilizare ocazională, dar particulele sunt cam abrazive pentru față. Funcționează mai bine pe corp"
+        },
+        {
+          "autor": "Larisa",
+          "data": "2024-03-10",
+          "rating": 4,
+          "comentariu": "Curăță bine, însă nu am observat o îmbunătățire semnificativă a aspectului pielii. Mirosul este plăcut, dar discret."
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "promotie": "HIT",
+      "poza": "src/assets/products/corp/product109.png",
+      "nume": "Rituals The Ritual of Ayurveda Body Scrub",
+      "categorie": "scrub pentru corp",
+      "volum": "300g",
+      "pret": "350 MDL",
+
+      "caracteristici": {
+        "brand": "Rituals",
+        "seria": "the ritual of ayurveda",
+        "scop": "nutriţie, produse pentru strălucire, purificare",
+        "tip_produs": "scrub pentru corp",
+        "volum": "300g",
+        "tara": "Olanda"
+      },
+      "recenzii": [
+        {
+          "autor": "Camelia",
+          "data": "2024-02-06",
+          "rating": 4,
+          "comentariu": "Are un parfum relaxant și o textură fină care lasă pielea netedă. Este un scrub blând, potrivit pentru momente de răsfăț."
+        },
+        {
+          "autor": "Sorina",
+          "data": "2024-03-10",
+          "rating": 4,
+          "comentariu": "Exfoliază eficient fără să usuce pielea, iar ambalajul este elegant. Aș fi preferat totuși ca efectul să fie mai de durată."
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "promotie": "NEW",
+      "poza": "src/assets/products/corp/product110.png",
+      "nume": "Scrub de sare cu efect hidratant pentru corp",
+      "categorie": "Body Scrub Salt",
+      "volum": "250ml",
+      "pret": "140 MDL",
+
+      "caracteristici": {
+        "brand": "Energy of Vitamins",
+        "seria": "produse pentru îngrijirea corpului",
+        "scop": "hidratare, nutriţie, purificare",
+        "tip_produs": "scrub pentru corp",
+        "volum": "250ml",
+        "tara": "Ucraina"
+      },
+      "recenzii": [
+        {
+          "autor": "Daniela",
+          "data": "2024-09-07",
+          "rating": 4,
+          "comentariu": "Scrubul exfoliază bine și lasă pielea catifelată și hidratată. Sarea se topește ușor, dar ar putea avea un miros mai intens."
+        },
+        {
+          "autor": "Alexandra",
+          "data": "2024-07-15",
+          "rating": 3,
+          "comentariu": "Textura este plăcută, dar nu am observat o diferență semnificativă în hidratarea pielii. Mirosul este subtil, dar nu foarte persistent."
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "promotie": "HIT",
+      "poza": "src/assets/products/corp/product111.png",
+      "nume": "Exfoliant pentru corp Tropical Glow",
+      "categorie": "Tree Hut Firming Sugar Scrub",
+      "volum": "510g",
+      "pret": "399 MDL",
+
+      "caracteristici": {
+        "brand": "Tree Hut",
+        "seria": "body care",
+        "scop": "peeling, produse pentru strălucire, purificare",
+        "tip_produs": "scrub pentru corp",
+        "volum": "510g",
+        "tara": "Ucraina"
+      },
+      "recenzii": [
+        {
+          "autor": "Oana",
+          "data": "2024-05-09",
+          "rating": 5,
+          "comentariu": "Are un miros exotic foarte plăcut și lasă pielea netedă și luminoasă. Particulele exfoliante sunt eficiente, dar blânde."
+        },
+        {
+          "autor": "Daniel",
+          "data": "2024-04-19",
+          "rating": 3,
+          "comentariu": "Un scrub plăcut, cu o textură cremoasă și parfum de vacanță. Mi-ar fi plăcut să persiste mai mult aroma pe piele."
+        }
+      ]
+    }
+  ],
+  "parfumuri": [
+    {
+      "id": 200,
+      "promotie": "HIT",
+      "poza": "src/assets/products/parfumuri/product200.png",
+      "nume": "Green Tea",
+      "categorie": "Apa de parfum",
+      "volum": "30ml",
+      "pret": "255 MDL",
+
+      "caracteristici": {
+        "brand": "Elizabeth Arden",
+        "seria": "Green tea",
+        "tip_produs": "Apa de parfum",
+        "volum": "30ml",
+        "tara": "SUA",
+        "gen": "femei",
+        "tipuri_de_aromă": "citrice",
+        "note_de_varf": ["Bergamotă", "Coaja de portocală", "Lămâie"]
+      },
+      "recenzii": [
+        {
+          "autor": "Aliona",
+          "data": "2024-12-09",
+          "rating": 4,
+          "comentariu": "Foarte frumos pentru vară. Mirosul de bergamotă și lămâie răcorește plăcut vara, fără să fie sufocant. Luați varianta de 50 ml, deoarece se consumă rapid."
+        },
+        {
+          "autor": "Margareta",
+          "data": "2024-09-10",
+          "rating": 4,
+          "comentariu": "Foarte placut, dar putin prea dulce pentru gustul meu."
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "promotie": "HIT",
+      "poza": "src/assets/products/parfumuri/product201.png",
+      "nume": "CK One",
+      "categorie": "Apa de parfum",
+      "volum": "100ml",
+      "pret": "954 MDL",
+
+      "caracteristici": {
+        "brand": "Calvin Klein",
+        "seria": "ck one",
+        "tip_produs": "Apă de toaletă",
+        "volum": "100ml",
+        "tara": "Franţa",
+        "gen": "unisex",
+        "tipuri_de_aromă": "citrice",
+        "note_de_varf": ["Ananas", "Lămâie", "Cardamom"]
+      },
+      "recenzii": [
+        {
+          "autor": "Irina",
+          "data": "2024-02-10",
+          "rating": 4,
+          "comentariu": "Un parfum fresh, ușor și potrivit pentru zi cu zi. Îmi place versatilitatea lui, dar persistența nu e foarte mare."
+        },
+        {
+          "autor": "Teodora",
+          "data": "2024-09-19",
+          "rating": 4,
+          "comentariu": "Aroma este curată și unisex, perfectă pentru vară. Mi-ar fi plăcut să aibă o proiecție mai puternică."
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "promotie": "HIT",
+      "poza": "src/assets/products/parfumuri/product202.png",
+      "nume": "Azzaro Chrome",
+      "categorie": "Apa de toaletă",
+      "volum": "30ml",
+      "pret": "840 MDL",
+
+      "caracteristici": {
+        "brand": "Azzaro",
+        "seria": "chrome",
+        "tip_produs": "Apă de toaletă",
+        "volum": "30ml",
+        "tara": "Franţa",
+        "gen": "bărbați",
+        "tipuri_de_aromă": "citrice",
+        "note_de_varf": ["Bergamotă", "Citrice"]
+      },
+      "recenzii": [
+        {
+          "autor": "Mădălina",
+          "data": "2024-03-13",
+          "rating": 4,
+          "comentariu": "Un parfum masculin proaspăt și energizant, ideal pentru sezonul cald. Persistă decent, dar nu impresionează prin originalitate."
+        },
+        {
+          "autor": "Claudia",
+          "data": "2024-10-10",
+          "rating": 4,
+          "comentariu": "Are un miros curat, metalic, foarte plăcut pentru zi. Soțul meu îl poartă des, dar se estompează cam repede pe pielea lui."
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "promotie": "HIT",
+      "poza": "src/assets/products/parfumuri/product203.png",
+      "nume": "Paloma Picasso",
+      "categorie": "Apa de parfum",
+      "volum": "30ml",
+      "pret": "513 MDL",
+
+      "caracteristici": {
+        "brand": "Azzaro",
+        "seria": "eau",
+        "tip_produs": "apă de parfum",
+        "volum": "30ml",
+        "tara": "Franţa",
+        "gen": "femei",
+        "tipuri_de_aromă": "citrice",
+        "note_de_varf": ["Angelica", "Coriandru", "Trandafir", "Garoafă"]
+      },
+      "recenzii": [
+        {
+          "autor": "Adela",
+          "data": "2024-06-16",
+          "rating": 4,
+          "comentariu": "Un parfum elegant, intens și clasic, cu o notă distinctivă. Îl port cu plăcere seara, deși nu este pentru toate gusturile."
+        },
+        {
+          "autor": "Veronica",
+          "data": "2024-08-02",
+          "rating": 4,
+          "comentariu": "Aroma este sofisticată și matură, perfectă pentru femei puternice. Persistă bine, dar poate fi puțin prea puternic pentru zi."
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "promotie": "NEW",
+      "poza": "src/assets/products/parfumuri/product204.png",
+      "nume": "Club De Nuit Untold",
+      "categorie": "Apa de parfum",
+      "volum": "105ml",
+      "pret": "1210 MDL",
+
+      "caracteristici": {
+        "brand": "Armaf",
+        "seria": "club de nuit untold",
+        "tip_produs": "apă de parfum",
+        "volum": "105ml",
+        "tara": "Emiraterele Arabe Unite",
+        "gen": "bărbați",
+        "tipuri_de_aromă": "citrice",
+        "note_de_varf": ["Iasomie", "Şofran"]
+      },
+      "recenzii": [
+        {
+          "autor": "Adela",
+          "data": "2024-04-18",
+          "rating": 4,
+          "comentariu": "Un parfum elegant, intens și clasic, cu o notă distinctivă. Îl port cu plăcere seara, deși nu este pentru toate gusturile."
+        },
+        {
+          "autor": "Veronica",
+          "data": "2024-08-02",
+          "rating": 4,
+          "comentariu": "Aroma este sofisticată și matură, perfectă pentru femei puternice. Persistă bine, dar poate fi puțin prea puternic pentru zi."
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "promotie": "DEAL",
+      "poza": "src/assets/products/parfumuri/product205.png",
+      "nume": "Voce Viva Intensa",
+      "categorie": "Apa de parfum",
+      "volum": "50ml",
+      "pret": "1471 MDL",
+
+      "caracteristici": {
+        "brand": "Valentino",
+        "seria": "voce viva intensa",
+        "tip_produs": "apă de parfum",
+        "volum": "50ml",
+        "tara": "Italia",
+        "gen": "femei",
+        "tipuri_de_aromă": "citrice",
+        "note_de_varf": ["citrice", "pară"]
+      },
+      "recenzii": [
+        {
+          "autor": "Marina",
+          "data": "2024-04-19",
+          "rating": 4,
+          "comentariu": "Un parfum elegant, intens și clasic, cu o notă distinctivă. Îl port cu plăcere seara, deși nu este pentru toate gusturile."
+        },
+        {
+          "autor": "Victoria",
+          "data": "2024-09-22",
+          "rating": 4,
+          "comentariu": "Aroma este sofisticată și matură, perfectă pentru femei puternice. Persistă bine, dar poate fi puțin prea puternic pentru zi."
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "promotie": "HIT",
+      "poza": "src/assets/products/parfumuri/product206.png",
+      "nume": "Tommy Girl",
+      "categorie": "Apa de toaletă",
+      "volum": "30ml",
+      "pret": "407 MDL",
+
+      "caracteristici": {
+        "brand": "Tommy Hilfiger",
+        "seria": "tommy girls",
+        "tip_produs": "Apă de toaletă",
+        "volum": "30ml",
+        "tara": "SUA",
+        "gen": "femei",
+        "tipuri_de_aromă": "dulci",
+        "note_de_varf": [
+          "Camelia",
+          "Flori de măr",
+          "Mandarină",
+          "Coacăză neagră"
+        ]
+      },
+      "recenzii": [
+        {
+          "autor": "Raluca",
+          "data": "2025-04-19",
+          "rating": 4,
+          "comentariu": "Un parfum proaspăt, floral și energic, perfect pentru zi. Îl folosesc mai ales primăvara, dar nu persistă foarte mult."
+        },
+        {
+          "autor": "Simona",
+          "data": "2024-09-05",
+          "rating": 4,
+          "comentariu": "Aroma este tânără și jucăușă, ideală pentru o zi relaxată. Îmi place vibe-ul lui sport-chic, deși e ușor volatil pe pielea mea."
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "promotie": "HIT",
+      "poza": "src/assets/products/parfumuri/product207.png",
+      "nume": "La Vie est Belle L'Elixir",
+      "categorie": "Apa de parfum",
+      "volum": "30ml",
+      "pret": "1580 MDL",
+
+      "caracteristici": {
+        "brand": "Lancome",
+        "seria": "la vie est belle",
+        "tip_produs": "apă de parfum",
+        "volum": "30ml",
+        "tara": "Franţa",
+        "gen": "femei",
+        "tipuri_de_aromă": "dulci",
+        "note_de_varf": ["Coacăză neagră", "Pară", "Mandarină", "Portocală"]
+      },
+      "recenzii": [
+        {
+          "autor": "Monica",
+          "data": "2025-03-20",
+          "rating": 5,
+          "comentariu": "Persistă foarte bine și are o aromă caldă, elegantă. Totuși, e atât de popular încât nu mai pare la fel de special."
+        },
+        {
+          "autor": "Malina",
+          "data": "2024-09-09",
+          "rating": 5,
+          "comentariu": "Un parfum rafinat și senzual, perfect pentru seară. L-aș iubi și mai mult dacă nu ar deveni puțin copleșitor după câteva ore."
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "promotie": "HIT",
+      "poza": "src/assets/products/parfumuri/product208.png",
+      "nume": "Idole",
+      "categorie": "Apa de parfum",
+      "volum": "25ml",
+      "pret": "1175 MDL",
+
+      "caracteristici": {
+        "brand": "Lancome",
+        "seria": "idole",
+        "tip_produs": "apă de parfum",
+        "volum": "25ml",
+        "tara": "Franţa",
+        "gen": "femei",
+        "tipuri_de_aromă": "dulci",
+        "note_de_varf": ["Bergamotă", "Pară", "Trandafir"]
+      },
+      "recenzii": [
+        {
+          "autor": "Raluca",
+          "data": "2025-07-22",
+          "rating": 5,
+          "comentariu": "Un parfum modern, floral și curat, perfect pentru zi. Îmi place ambalajul elegant, dar persistența ar putea fi mai bună."
+        },
+        {
+          "autor": "Malina",
+          "data": "2024-09-09",
+          "rating": 5,
+          "comentariu": "Un parfum rafinat și senzual, perfect pentru seară. L-aș iubi și mai mult dacă nu ar deveni puțin copleșitor după câteva ore."
+        }
+      ]
+    },
+    {
+      "id": 209,
+      "promotie": "HIT",
+      "poza": "src/assets/products/parfumuri/product209.png",
+      "nume": "Toy 2 Bubble Gum",
+      "categorie": "Apa de toaletă",
+      "volum": "30ml",
+      "pret": "1025 MDL",
+
+      "caracteristici": {
+        "brand": "Moschino",
+        "seria": "toy 2 bubble gum",
+        "tip_produs": "apă de toaletă",
+        "volum": "30ml",
+        "tara": "Italia",
+        "gen": "femei",
+        "tipuri_de_aromă": "dulci",
+        "note_de_varf": ["Lămâie", "Ghimbir", "Piersică"]
+      },
+      "recenzii": [
+        {
+          "autor": "Bia M",
+          "data": "2025-08-28",
+          "rating": 5,
+          "comentariu": "Un parfum jucăuș și dulce, exact cum sugerează numele. Îl port cu plăcere în zilele relaxate, dar nu este foarte persistent."
+        },
+        {
+          "autor": "Alessia",
+          "data": "2024-10-19",
+          "rating": 5,
+          "comentariu": "Ambalajul este adorabil, iar aroma de gumă de mestecat e distractivă și tinerească. Poate deveni ușor prea dulce pentru unele gusturi."
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "promotie": "HIT",
+      "poza": "src/assets/products/parfumuri/product210.png",
+      "nume": "My Way Nectar",
+      "categorie": "Apă de parfum",
+      "volum": "30ml",
+      "pret": "1553 MDL",
+
+      "caracteristici": {
+        "brand": "Giorgio Armani",
+        "seria": "My Way Nectar",
+        "tip_produs": "apă de parfum",
+        "volum": "30ml",
+        "tara": "Italia",
+        "gen": "femei",
+        "tipuri_de_aromă": "dulci",
+        "note_de_varf": ["Pară", "Bergamotă"]
+      },
+      "recenzii": [
+        {
+          "autor": "Raluca",
+          "data": "2025-04-11",
+          "rating": 5,
+          "comentariu": "O aromă rafinată și feminină, perfectă pentru primăvară. Persistența este excelentă, iar flaconul e absolut superb."
+        },
+        {
+          "autor": "Iulia",
+          "data": "2025-05-01",
+          "rating": 5,
+          "comentariu": "Un parfum proaspăt și luminos, cu note florale fine și o bază dulce, delicată. Ideal pentru zi cu zi."
+        }
+      ]
+    },
+    {
+      "id": 211,
+      "promotie": "NEW",
+      "poza": "src/assets/products/parfumuri/product211.png",
+      "nume": "Bleu",
+      "categorie": "Apă de parfum",
+      "volum": "50ml",
+      "pret": "19075 MDL",
+
+      "caracteristici": {
+        "brand": "Rubeus Milano",
+        "seria": "Bleu",
+        "tip_produs": "apă de parfum",
+        "volum": "50ml",
+        "tara": "Italia",
+        "gen": "femei",
+        "tipuri_de_aromă": "dulci",
+        "note_de_varf": ["Mandarină", "Piper roz", "Note marine"]
+      },
+      "recenzii": [
+        {
+          "autor": "Mara",
+          "data": "2025-03-20",
+          "rating": 5,
+          "comentariu": "Un parfum sofisticat și modern, cu o prospețime aparte. Se menține foarte bine pe piele întreaga zi."
+        },
+        {
+          "autor": "Veronica",
+          "data": "2025-04-02",
+          "rating": 5,
+          "comentariu": "Un miros curat și elegant, cu un strop de mister. Ideal pentru ocazii speciale sau întâlniri importante."
+        }
+      ]
+    },
+    {
+      "id": 212,
+      "promotie": "HIT",
+      "poza": "src/assets/products/parfumuri/product212.png",
+      "nume": "Funny!",
+      "categorie": "Apă de toaletă",
+      "volum": "50ml",
+      "pret": "692 MDL",
+
+      "caracteristici": {
+        "brand": "Moschino",
+        "seria": "Funny!",
+        "tip_produs": "apă de toaletă",
+        "volum": "50ml",
+        "tara": "Italia",
+        "gen": "femei",
+        "tipuri_de_aromă": "florale",
+        "note_de_varf": ["Portocală amară", "Piper roz", "Coacăze roșii"]
+      },
+      "recenzii": [
+        {
+          "autor": "Irina",
+          "data": "2025-03-15",
+          "rating": 4,
+          "comentariu": "O aromă veselă și energizantă, perfectă pentru primăvară. Mi-ar fi plăcut să țină puțin mai mult."
+        },
+        {
+          "autor": "Bianca",
+          "data": "2025-04-07",
+          "rating": 4,
+          "comentariu": "Foarte feminin și jucăuș, cu o prospețime plăcută. Nu e foarte persistent, dar e ideal pentru zi."
+        }
+      ]
+    },
+    {
+      "id": 213,
+      "promotie": "HIT",
+      "poza": "src/assets/products/parfumuri/product213.png",
+      "nume": "This is Her!",
+      "categorie": "Apă de parfum",
+      "volum": "30ml",
+      "pret": "1395 MDL",
+
+      "caracteristici": {
+        "brand": "Zadig & Voltaire",
+        "seria": "This is Her!",
+        "tip_produs": "apă de parfum",
+        "volum": "30ml",
+        "tara": "Franța",
+        "gen": "femei",
+        "tipuri_de_aromă": "florale",
+        "note_de_varf": ["Piper roz", "Floare de mătase", "Jasmine Sambac"]
+      },
+      "recenzii": [
+        {
+          "autor": "Cristina L",
+          "data": "2025-04-25",
+          "rating": 5,
+          "comentariu": "Un parfum cald, cremos și ușor condimentat – îl port mereu în sezonul rece. Persistă excelent!"
+        },
+        {
+          "autor": "Andreea V",
+          "data": "2025-05-10",
+          "rating": 5,
+          "comentariu": "Foarte special și diferit față de altele. Aroma de vanilie și castan este absolut delicioasă!"
+        }
+      ]
+    },
+    {
+      "id": 214,
+      "promotie": "HIT",
+      "poza": "src/assets/products/parfumuri/product214.png",
+      "nume": "Light Blue",
+      "categorie": "Apă de toaletă",
+      "volum": "25ml",
+      "pret": "927 MDL",
+
+      "caracteristici": {
+        "brand": "Dolce & Gabbana",
+        "seria": "Light Blue",
+        "tip_produs": "apă de toaletă",
+        "volum": "25ml",
+        "tara": "Italia",
+        "gen": "femei",
+        "tipuri_de_aromă": "florale",
+        "note_de_varf": ["Lămâie siciliană", "Măr verde", "Clopoței"]
+      },
+      "recenzii": [
+        {
+          "autor": "Oana T",
+          "data": "2025-03-30",
+          "rating": 5,
+          "comentariu": "Un parfum revigorant și curat, perfect pentru vară. Mă face să mă simt energică și fresh toată ziua."
+        },
+        {
+          "autor": "Larisa M",
+          "data": "2025-04-18",
+          "rating": 5,
+          "comentariu": "Proaspăt și feminin, cu o aromă de citrice ideală pentru fiecare zi. Un clasic care nu dezamăgește!"
+        }
+      ]
+    },
+    {
+      "id": 215,
+      "promotie": "HIT",
+      "poza": "src/assets/products/parfumuri/product215.png",
+      "nume": "Nomade",
+      "categorie": "Apă de parfum",
+      "volum": "20ml",
+      "pret": "1174 MDL",
+
+      "caracteristici": {
+        "brand": "Chloé",
+        "seria": "Nomade",
+        "tip_produs": "apă de parfum",
+        "volum": "20ml",
+        "tara": "Franța",
+        "gen": "femei",
+        "tipuri_de_aromă": "florale",
+        "note_de_varf": ["Mirabelă", "Bergamotă", "Lămâie"]
+      },
+      "recenzii": [
+        {
+          "autor": "Adelina S",
+          "data": "2025-03-12",
+          "rating": 5,
+          "comentariu": "O combinație elegantă de fructe și note lemnoase. Îl consider ideal pentru femei independente și încrezătoare."
+        },
+        {
+          "autor": "Silvia P",
+          "data": "2025-04-05",
+          "rating": 5,
+          "comentariu": "Nomade e un parfum sofisticat și versatil. Îmi place cum evoluează pe piele și persistă ore întregi fără să fie copleșitor."
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "promotie": "HIT",
+      "poza": "src/assets/products/parfumuri/product216.png",
+      "nume": "Chloé",
+      "categorie": "Apă de parfum",
+      "volum": "30ml",
+      "pret": "1236 MDL",
+
+      "caracteristici": {
+        "brand": "Chloé",
+        "seria": "Chloé",
+        "tip_produs": "apă de parfum",
+        "volum": "30ml",
+        "tara": "Franța",
+        "gen": "femei",
+        "tipuri_de_aromă": "florale",
+        "note_de_varf": ["Bujor", "Litchi", "Frezie"]
+      },
+      "recenzii": [
+        {
+          "autor": "Diana R",
+          "data": "2025-03-28",
+          "rating": 5,
+          "comentariu": "Un parfum fin, romantic și extrem de feminin. Îl port de ani de zile și mereu primesc complimente."
+        },
+        {
+          "autor": "Teodora N",
+          "data": "2025-04-14",
+          "rating": 4,
+          "comentariu": "Elegant și delicat, dar parcă nu persistă atât de mult pe pielea mea. Totuși, e o alegere bună pentru zi."
+        }
+      ]
+    },
+    {
+      "id": 217,
+      "promotie": "HIT",
+      "poza": "src/assets/products/parfumuri/product217.png",
+      "nume": "Montblanc Signature",
+      "categorie": "Apă de parfum",
+      "volum": "30ml",
+      "pret": "873 MDL",
+
+      "caracteristici": {
+        "brand": "Montblanc",
+        "seria": "Signature",
+        "tip_produs": "apă de parfum",
+        "volum": "30ml",
+        "tara": "Germania",
+        "gen": "femei",
+        "tipuri_de_aromă": "florale",
+        "note_de_varf": ["Bergamotă", "Mandarină"]
+      },
+      "recenzii": [
+        {
+          "autor": "Elena P",
+          "data": "2025-04-18",
+          "rating": 5,
+          "comentariu": "Un parfum elegant, sofisticat, cu o persistență foarte bună. Îl recomand pentru ocazii speciale."
+        },
+        {
+          "autor": "Alexandra M",
+          "data": "2025-05-02",
+          "rating": 4,
+          "comentariu": "Foarte plăcut, aroma floral-orientală este delicată și caldă. M-ar fi încântat să fie puțin mai intens."
+        }
+      ]
+    }
+  ],
+  "machiaj_ochi": [
+    {
+      "id": 300,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_ochi/product300.png",
+      "nume": "Pure Volume Magic Brown Mascara",
+      "categorie": "Rimel",
+      "volum": "10ml",
+      "pret": "158 MDL",
+      "caracteristici": {
+        "brand": "Catrice",
+        "seria": "ochi",
+        "culoare": "maro",
+        "tip_produs": "mascara",
+        "volum": "10ml",
+        "tara": "Germania",
+        "scop": "definire, volum, alungire"
+      },
+      "recenzii": [
+        {
+          "autor": "Aliona",
+          "data": "2024-12-09",
+          "rating": 4,
+          "comentariu": "Mascara oferă un volum frumos și alungire naturală, iar culoarea maro este perfectă pentru un look de zi cu zi."
+        },
+        {
+          "autor": "Margareta",
+          "data": "2024-09-10",
+          "rating": 4,
+          "comentariu": "Îmi place textura ușoară și faptul că nu se întărește prea repede, însă aș fi vrut o rezistență mai bună la umiditate."
+        }
+      ]
+    },
+    {
+      "id": 301,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_ochi/product301.png",
+      "nume": "Glam&Doll False Lashes Mascara",
+      "categorie": "Rimel",
+      "volum": "9.5ml",
+      "pret": "220 MDL",
+
+      "caracteristici": {
+        "brand": "Catrice",
+        "seria": "Glam&Doll",
+        "culoare": "negru",
+        "tip_produs": "mascara",
+        "volum": "9.5ml",
+        "tara": "Germania",
+        "scop": "volum, definire, efect gene false"
+      },
+      "recenzii": [
+        {
+          "autor": "Anca M",
+          "data": "2025-04-10",
+          "rating": 4,
+          "comentariu": "Oferă volum și alungire frumoasă genelor, iar peria curbată facilitează o aplicare ușoară."
+        },
+        {
+          "autor": "Maria D",
+          "data": "2025-04-15",
+          "rating": 4,
+          "comentariu": "Textura este densă, culoarea neagră intensă, iar efectul de gene false este vizibil, fără să încarce."
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_ochi/product302.png",
+      "nume": "Lash Sensational",
+      "categorie": "Rimel",
+      "volum": "9.5ml",
+      "pret": "195 MDL",
+
+      "caracteristici": {
+        "brand": "Maybelline New York",
+        "seria": "Lash Sensational",
+        "culoare": "negru",
+        "tip_produs": "mascara",
+        "volum": "9.5ml",
+        "tara": "SUA",
+        "scop": "volum, alungire, definire"
+      },
+      "recenzii": [
+        {
+          "autor": "Irina C",
+          "data": "2025-03-20",
+          "rating": 5,
+          "comentariu": "Îmi place mult! Oferă volum impresionant și alungire fără să încarce genele. Se aplică ușor și rezistă bine toată ziua."
+        },
+        {
+          "autor": "Simona B",
+          "data": "2025-04-05",
+          "rating": 5,
+          "comentariu": "Cel mai bun rimel pe care l-am încercat! Genele arată dese și definite, iar formula nu se întărește rapid."
+        }
+      ]
+    },
+    {
+      "id": 303,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_ochi/product303.png",
+      "nume": "Paris Telescopic Mascara",
+      "categorie": "Rimel",
+      "volum": "6.5ml",
+      "pret": "210 MDL",
+
+      "caracteristici": {
+        "brand": "L'Oreal",
+        "seria": "Paris Telescopic",
+        "culoare": "negru",
+        "tip_produs": "mascara",
+        "volum": "6.5ml",
+        "tara": "Franța",
+        "scop": "alungire, definire"
+      },
+      "recenzii": [
+        {
+          "autor": "Adriana F",
+          "data": "2025-02-28",
+          "rating": 4,
+          "comentariu": "Alungește genele frumos și le definește delicat. Nu creează aglomerări, dar mi-ar fi plăcut o rezistență mai mare la umiditate."
+        },
+        {
+          "autor": "Cristina L",
+          "data": "2025-03-15",
+          "rating": 4,
+          "comentariu": "Formula e ușoară, se aplică uniform, iar peria subțire ajută la separarea genelor. Ideal pentru un look natural."
+        }
+      ]
+    },
+    {
+      "id": 304,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_ochi/product304.png",
+      "nume": "Lash Sensational Sky High",
+      "categorie": "Rimel",
+      "volum": "10ml",
+      "pret": "220 MDL",
+
+      "caracteristici": {
+        "brand": "Maybelline New York",
+        "seria": "Lash Sensational",
+        "culoare": "negru",
+        "tip_produs": "mascara",
+        "volum": "10ml",
+        "tara": "SUA",
+        "scop": "alungire, volum, definire"
+      },
+      "recenzii": [
+        {
+          "autor": "Raluca M",
+          "data": "2025-05-10",
+          "rating": 5,
+          "comentariu": "Un rimel excelent pentru volum și alungire. Formula este ușoară, nu încarcă genele și rezistă foarte bine întreaga zi."
+        },
+        {
+          "autor": "Denisa T",
+          "data": "2025-05-15",
+          "rating": 5,
+          "comentariu": "Impresionant! Genele mele arată mult mai lungi și pline, iar peria flexibilă face aplicarea extrem de facilă."
+        }
+      ]
+    },
+    {
+      "id": 305,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_ochi/product305.png",
+      "nume": "Lash Idole Mascara",
+      "categorie": "Rimel",
+      "volum": "7ml",
+      "pret": "420 MDL",
+
+      "caracteristici": {
+        "brand": "Lancôme",
+        "seria": "Lash Idole",
+        "culoare": "negru",
+        "tip_produs": "mascara",
+        "volum": "7ml",
+        "tara": "Franța",
+        "scop": "volum, alungire, definire"
+      },
+      "recenzii": [
+        {
+          "autor": "Gabriela S",
+          "data": "2025-04-12",
+          "rating": 5,
+          "comentariu": "Formula este ușoară, dar foarte eficientă. Oferă gene pline și bine definite fără să le încarce."
+        },
+        {
+          "autor": "Ioana V",
+          "data": "2025-04-20",
+          "rating": 5,
+          "comentariu": "Peria ergonomică ajută la o aplicare precisă, iar rezistența produsului este excelentă pe tot parcursul zilei."
+        }
+      ]
+    },
+    {
+      "id": 306,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_ochi/product306.png",
+      "nume": "Division Re-loaded Palette",
+      "categorie": "Paletă pentru machiaj",
+      "volum": "12 culori",
+      "pret": "380 MDL",
+
+      "caracteristici": {
+        "brand": "Division",
+        "seria": "Re-loaded",
+        "tip_produs": "paletă pentru machiaj",
+        "culori": 12,
+        "tara": "Germania",
+        "scop": "culori intense, rezistență îndelungată"
+      },
+      "recenzii": [
+        {
+          "autor": "Alina P",
+          "data": "2025-03-30",
+          "rating": 4,
+          "comentariu": "Fardurile au o pigmentare bună și se aplică ușor. Culorile sunt vibrante și rezistă bine pe pleoape."
+        },
+        {
+          "autor": "Mara D",
+          "data": "2025-04-12",
+          "rating": 4,
+          "comentariu": "Paleta este versatilă și potrivită pentru machiaje de zi și seară. Mi-ar fi plăcut să fie inclusă o pensulă."
+        }
+      ]
+    },
+    {
+      "id": 307,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_ochi/product307.png",
+      "nume": "The Rose Edition Eyeshadow Palette Essence",
+      "categorie": "Paletă pentru machiaj",
+      "volum": "15 culori",
+      "pret": "280 MDL",
+
+      "caracteristici": {
+        "brand": "Essence",
+        "seria": "The Rose Edition",
+        "tip_produs": "paletă pentru machiaj",
+        "culori": 15,
+        "tara": "Germania",
+        "scop": "pigmentare intensă, nuanțe naturale și pastelate"
+      },
+      "recenzii": [
+        {
+          "autor": "Elena M",
+          "data": "2025-03-22",
+          "rating": 4,
+          "comentariu": "Paleta are o selecție frumoasă de nuanțe roz și neutre. Pigmentarea este bună, iar fardurile se aplică ușor."
+        },
+        {
+          "autor": "Larisa T",
+          "data": "2025-04-02",
+          "rating": 4,
+          "comentariu": "Ideală pentru machiaje de zi cu zi. Nuanțele sunt delicate și potrivite pentru un look natural."
+        }
+      ]
+    },
+    {
+      "id": 308,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_ochi/product308.png",
+      "nume": "Brow Sculpt Kit Makeup Revolution",
+      "categorie": "Kit sprâncene",
+      "volum": "5g",
+      "pret": "180 MDL",
+
+      "caracteristici": {
+        "brand": "Makeup Revolution",
+        "seria": "Brow Sculpt",
+        "tip_produs": "kit sprâncene",
+        "culori": "2 nuanțe",
+        "tara": "UK",
+        "scop": "definire, umplere, modelare sprâncene"
+      },
+      "recenzii": [
+        {
+          "autor": "Andreea T",
+          "data": "2025-04-18",
+          "rating": 4,
+          "comentariu": "Kitul oferă o definire bună și culori naturale. Durabil și ușor de aplicat."
+        },
+        {
+          "autor": "Bianca F",
+          "data": "2025-04-25",
+          "rating": 4,
+          "comentariu": "Perfect pentru machiajul zilnic. Textura e fină și se lucrează ușor cu pensula inclusă."
+        }
+      ]
+    },
+    {
+      "id": 309,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_ochi/product309.png",
+      "nume": "Forever Flawless Dynamic",
+      "categorie": "Paletă pentru machiaj",
+      "volum": "14 culori",
+      "pret": "350 MDL",
+
+      "caracteristici": {
+        "brand": "Makeup Revolution",
+        "seria": "Forever Flawless",
+        "tip_produs": "paletă pentru machiaj",
+        "culori": 14,
+        "tara": "UK",
+        "scop": "pigmentare intensă, culori versatile"
+      },
+      "recenzii": [
+        {
+          "autor": "Monica R",
+          "data": "2025-05-05",
+          "rating": 5,
+          "comentariu": "Pigmentarea este excelentă, iar culorile sunt foarte versatile. Ideală pentru orice tip de machiaj."
+        },
+        {
+          "autor": "Irina D",
+          "data": "2025-05-12",
+          "rating": 5,
+          "comentariu": "Paleta este ușor de folosit și culorile se combină perfect. Mă bucur că am ales-o!"
+        }
+      ]
+    },
+    {
+      "id": 310,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_ochi/product310.png",
+      "nume": "Pro Palette TopFace",
+      "categorie": "Paletă pentru machiaj",
+      "volum": "10 culori",
+      "pret": "320 MDL",
+
+      "caracteristici": {
+        "brand": "TopFace",
+        "seria": "Pro Palette",
+        "tip_produs": "paletă pentru machiaj",
+        "culori": 10,
+        "tara": "Polonia",
+        "scop": "culori intense, finisaj mat și shimmer"
+      },
+      "recenzii": [
+        {
+          "autor": "Dana S",
+          "data": "2025-04-10",
+          "rating": 4,
+          "comentariu": "Culorile sunt intense și se aplică ușor. Paleta este perfectă pentru machiaje variate."
+        },
+        {
+          "autor": "Mihnea V",
+          "data": "2025-04-20",
+          "rating": 4,
+          "comentariu": "Bună pigmentare și rezistență, recomand pentru utilizarea zilnică."
+        }
+      ]
+    },
+    {
+      "id": 311,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_ochi/product311.png",
+      "nume": "Masterpiece Nude Eyeshadow Palette",
+      "categorie": "Paletă pentru machiaj",
+      "volum": "12 culori",
+      "pret": "400 MDL",
+
+      "caracteristici": {
+        "brand": "Max Factor",
+        "seria": "Masterpiece Nude",
+        "tip_produs": "paletă pentru machiaj",
+        "culori": 12,
+        "tara": "SUA",
+        "scop": "nuanțe naturale, pigmentare intensă"
+      },
+      "recenzii": [
+        {
+          "autor": "Cristina M",
+          "data": "2025-03-25",
+          "rating": 5,
+          "comentariu": "Paleta are nuanțe perfecte pentru machiajul de zi cu zi. Pigmentarea este foarte bună și rezistă."
+        },
+        {
+          "autor": "Ioana L",
+          "data": "2025-04-05",
+          "rating": 5,
+          "comentariu": "Culorile sunt ușor de combinat și foarte versatile. Îmi place textura fină a fardurilor."
+        }
+      ]
+    },
+    {
+      "id": 312,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_ochi/product312.png",
+      "nume": "Calligraph Pro Precise 24h Matt Liner Waterproof",
+      "categorie": "Eyeliner",
+      "volum": "1.2ml",
+      "pret": "198 MDL",
+
+      "caracteristici": {
+        "brand": "Maybelline New York",
+        "seria": "Calligraph Pro",
+        "tip_produs": "eyeliner",
+        "volum": "1.2ml",
+        "tara": "SUA",
+        "forma": "carioca"
+      },
+      "recenzii": [
+        {
+          "autor": "Andreea M",
+          "data": "2025-04-14",
+          "rating": 5,
+          "comentariu": "Extrem de precis și rezistent pe tot parcursul zilei. Se aplică ușor și nu se întinde."
+        },
+        {
+          "autor": "Roxana C",
+          "data": "2025-04-22",
+          "rating": 4,
+          "comentariu": "Bun pentru un machiaj de zi, însă la apărare intensă poate necesita retușuri."
+        }
+      ]
+    },
+    {
+      "id": 313,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_ochi/product313.png",
+      "nume": "Lasting Drama Gel Eyeliner",
+      "categorie": "Eyeliner",
+      "volum": "2.5g",
+      "pret": "190 MDL",
+
+      "caracteristici": {
+        "brand": "Maybelline New York",
+        "seria": "Lasting Drama",
+        "tip_produs": "eyeliner",
+        "volum": "2.5g",
+        "tara": "SUA",
+        "forma": "gel"
+      },
+      "recenzii": [
+        {
+          "autor": "Mihaela G",
+          "data": "2025-04-02",
+          "rating": 4,
+          "comentariu": "Textura gel este cremoasă și ușor de aplicat cu pensula. Rezistă bine întreaga zi."
+        },
+        {
+          "autor": "Sonia D",
+          "data": "2025-04-10",
+          "rating": 3,
+          "comentariu": "Este intens și rezistent, dar se usucă rapid în recipient dacă nu este bine închis."
+        }
+      ]
+    },
+    {
+      "id": 314,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_ochi/product314.png",
+      "nume": "Waterproof Variete Eyeliner",
+      "categorie": "Eyeliner",
+      "volum": "4ml",
+      "pret": "120 MDL",
+
+      "caracteristici": {
+        "brand": "Eveline Cosmetics",
+        "seria": "Variete",
+        "tip_produs": "eyeliner",
+        "volum": "4ml",
+        "tara": "Polonia",
+        "forma": "lichid"
+      },
+      "recenzii": [
+        {
+          "autor": "Valeria N",
+          "data": "2025-03-28",
+          "rating": 5,
+          "comentariu": "Foarte precis și intens negru! Se usucă rapid și nu se întinde deloc."
+        },
+        {
+          "autor": "Georgiana P",
+          "data": "2025-04-06",
+          "rating": 4,
+          "comentariu": "Pensula e fină și ușor de manevrat. Îmi place mult rezistența la apă."
+        }
+      ]
+    },
+    {
+      "id": 315,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_ochi/product315.png",
+      "nume": "Renaissance Flick Eyeliner",
+      "categorie": "Eyeliner",
+      "volum": "1.8ml",
+      "pret": "165 MDL",
+
+      "caracteristici": {
+        "brand": "Makeup Revolution",
+        "seria": "Renaissance",
+        "tip_produs": "eyeliner",
+        "volum": "1.8ml",
+        "tara": "UK",
+        "forma": "carioca"
+      },
+      "recenzii": [
+        {
+          "autor": "Anca D",
+          "data": "2025-04-12",
+          "rating": 4,
+          "comentariu": "Arată foarte elegant, iar vârful este precis. Se aplică ușor, dar nu e chiar ultra-rezistent."
+        },
+        {
+          "autor": "Livia M",
+          "data": "2025-04-18",
+          "rating": 5,
+          "comentariu": "Textură fină și control excelent. Îmi place designul stilou, oferă o aplicare controlată."
+        }
+      ]
+    },
+    {
+      "id": 316,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_ochi/product316.png",
+      "nume": "Cabaret Première Eyeliner",
+      "categorie": "Eyeliner",
+      "volum": "0.5ml",
+      "pret": "149 MDL",
+
+      "caracteristici": {
+        "brand": "Vivienne Sabó",
+        "seria": "Cabaret Première",
+        "tip_produs": "eyeliner",
+        "volum": "0.5ml",
+        "tara": "Franța",
+        "forma": "lichid"
+      },
+      "recenzii": [
+        {
+          "autor": "Elena V",
+          "data": "2025-04-03",
+          "rating": 5,
+          "comentariu": "Ușor de aplicat, cu o culoare intensă și un finisaj mat foarte frumos. Ideal pentru look-uri clasice."
+        },
+        {
+          "autor": "Sorina M",
+          "data": "2025-04-11",
+          "rating": 5,
+          "comentariu": "Rezistă impecabil întreaga zi și vârful aplicatorului e perfect pentru linii fine."
+        }
+      ]
+    },
+    {
+      "id": 317,
+      "promotie": "NEW",
+      "poza": "src/assets/products/machiaj_ochi/product317.png",
+      "nume": "Celebrities Eyeliner",
+      "categorie": "Eyeliner",
+      "volum": "3ml",
+      "pret": "125 MDL",
+
+      "caracteristici": {
+        "brand": "Eveline Cosmetics",
+        "seria": "Celebrities",
+        "tip_produs": "eyeliner",
+        "volum": "3ml",
+        "tara": "Polonia",
+        "forma": "lichid"
+      },
+      "recenzii": [
+        {
+          "autor": "Raluca F",
+          "data": "2025-04-08",
+          "rating": 4,
+          "comentariu": "Aplicatorul este subțire și precis, iar culoarea are un luciu frumos. Rezistență moderată."
+        },
+        {
+          "autor": "Bianca T",
+          "data": "2025-04-16",
+          "rating": 4,
+          "comentariu": "Un eyeliner bun pentru prețul lui. Se usucă repede și nu curge."
+        }
+      ]
+    },
+    {
+      "id": 318,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_ochi/product318.png",
+      "nume": "Opal Eyeshadows Trio Perl Silk",
+      "categorie": "Fard pentru ochi",
+      "volum": "5g",
+      "pret": "90 MDL",
+
+      "caracteristici": {
+        "brand": "Paese",
+        "seria": "Opal Eyeshadows",
+        "tip_produs": "fard pentru ochi",
+        "volum": "5g",
+        "tara": "Polonia",
+        "culoare": "negru",
+        "efect": "sclipitor"
+      },
+      "recenzii": [
+        {
+          "autor": "Irina M",
+          "data": "2025-04-05",
+          "rating": 5,
+          "comentariu": "Textura fină și strălucirea subtilă îl fac ideal pentru un look de seară. Se blenduiește frumos."
+        },
+        {
+          "autor": "Larisa D",
+          "data": "2025-04-13",
+          "rating": 4,
+          "comentariu": "Culoarea neagră cu sclipiri este superbă, dar necesită bază pentru o rezistență mai bună."
+        }
+      ]
+    },
+    {
+      "id": 319,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_ochi/product319.png",
+      "nume": "Jumbo Eye Pencil",
+      "categorie": "Fard pentru ochi",
+      "volum": "5g",
+      "pret": "110 MDL",
+
+      "caracteristici": {
+        "brand": "NYX Professional Makeup",
+        "seria": "Jumbo",
+        "tip_produs": "fard pentru ochi",
+        "volum": "5g",
+        "tara": "SUA",
+        "culoare": "alb perlat",
+        "efect": "sclipitor"
+      },
+      "recenzii": [
+        {
+          "autor": "Natalia S",
+          "data": "2025-04-10",
+          "rating": 4,
+          "comentariu": "Foarte versatil, poate fi folosit ca bază sau ca iluminator. Se întinde bine, dar e puțin moale."
+        },
+        {
+          "autor": "Cristina V",
+          "data": "2025-04-17",
+          "rating": 5,
+          "comentariu": "Culoare intensă și ușor de aplicat. Ideal pentru colțul intern al ochilor."
+        }
+      ]
+    },
+    {
+      "id": 320,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_ochi/product320.png",
+      "nume": "Diorshow 5 Couleurs Eyeshadow Palette",
+      "categorie": "Fard pentru ochi",
+      "volum": "7g",
+      "pret": "2618 MDL",
+
+      "caracteristici": {
+        "brand": "Dior",
+        "seria": "Diorshow",
+        "tip_produs": "fard pentru ochi",
+        "volum": "7g",
+        "tara": "Franța",
+        "culoare": "tonuri mixte",
+        "efect": "satinat"
+      },
+      "recenzii": [
+        {
+          "autor": "Ana B",
+          "data": "2025-04-06",
+          "rating": 5,
+          "comentariu": "Textura este luxoasă, se aplică perfect și culorile sunt rafinate. Merită fiecare leu."
+        },
+        {
+          "autor": "Otilia M",
+          "data": "2025-04-15",
+          "rating": 5,
+          "comentariu": "Ambalaj elegant, pigmentație excelentă și nuanțe ideale pentru zi și seară."
+        }
+      ]
+    },
+    {
+      "id": 321,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_ochi/product321.png",
+      "nume": "Luxe Rich Sparkle Eye Shadow",
+      "categorie": "Fard pentru ochi",
+      "volum": "2.5g",
+      "pret": "869 MDL",
+
+      "caracteristici": {
+        "brand": "Bobbi Brown",
+        "seria": "Luxe",
+        "tip_produs": "fard pentru ochi",
+        "volum": "2.5g",
+        "tara": "SUA",
+        "culoare": "champagne",
+        "efect": "sclipitor"
+      },
+      "recenzii": [
+        {
+          "autor": "Veronica L",
+          "data": "2025-04-08",
+          "rating": 4,
+          "comentariu": "Foarte elegant și strălucitor, perfect pentru evenimente speciale. Puțin cam scump pentru cantitate."
+        },
+        {
+          "autor": "Camelia R",
+          "data": "2025-04-19",
+          "rating": 5,
+          "comentariu": "Textura este superbă, se aplică ușor cu degetul și rezistă ore întregi fără să se adune."
+        }
+      ]
+    },
+    {
+      "id": 322,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_ochi/product322.png",
+      "nume": "Kashmir Eyeshadow Mono Matt",
+      "categorie": "Fard pentru ochi",
+      "volum": "5g",
+      "pret": "86 MDL",
+
+      "caracteristici": {
+        "brand": "Kashmir",
+        "seria": "Mono",
+        "tip_produs": "fard pentru ochi",
+        "volum": "5g",
+        "tara": "Polonia",
+        "culoare": "bej",
+        "efect": "mat"
+      },
+      "recenzii": [
+        {
+          "autor": "Anca P",
+          "data": "2025-04-10",
+          "rating": 4,
+          "comentariu": "Culoare mată, pigmentare bună pentru prețul accesibil. Ideal pentru machiaj de zi."
+        },
+        {
+          "autor": "Ioana V",
+          "data": "2025-04-15",
+          "rating": 4,
+          "comentariu": "Se aplică ușor și se estompează bine, dar nu e foarte rezistent fără bază."
+        }
+      ]
+    },
+    {
+      "id": 323,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_ochi/product323.png",
+      "nume": "Long-Wear Cream Shadow Stick Duo",
+      "categorie": "Fard pentru ochi",
+      "volum": "1.6g",
+      "pret": "854 MDL",
+
+      "caracteristici": {
+        "brand": "Bobbi Brown",
+        "seria": "Long-Wear",
+        "tip_produs": "fard pentru ochi",
+        "volum": "1.6g",
+        "tara": "SUA",
+        "culoare": "duo (beige și maro)",
+        "efect": "cremos"
+      },
+      "recenzii": [
+        {
+          "autor": "Elena T",
+          "data": "2025-04-07",
+          "rating": 5,
+          "comentariu": "Textură cremoasă, ușor de aplicat și blenduit. Culorile sunt versatile pentru machiajul zilnic."
+        },
+        {
+          "autor": "Marina S",
+          "data": "2025-04-16",
+          "rating": 4,
+          "comentariu": "Rezistență bună pe parcursul zilei, dar aș prefera un ambalaj mai practic."
+        }
+      ]
+    }
+  ],
+  "machiaj_buze": [
+    {
+      "id": 400,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_buze/product400.png",
+      "nume": "Rouge Volupte Candy Glaze",
+      "categorie": "Balsam de buze",
+      "volum": "3.2g",
+      "pret": "995 MDL",
+
+      "caracteristici": {
+        "brand": "Yves Saint Laurent",
+        "seria": "buze",
+        "tip_produs": "balsam de buze",
+        "volum": "3.2g",
+        "tara": "Franţa",
+        "culoare": "coral"
+      },
+      "recenzii": [
+        {
+          "autor": "Veronica L",
+          "data": "2025-04-07",
+          "rating": 5,
+          "comentariu": "Textura este foarte hidratantă, iar culoarea coral este perfectă pentru primăvară. Îmi place mult!"
+        },
+        {
+          "autor": "Marina S",
+          "data": "2025-04-16",
+          "rating": 4,
+          "comentariu": "Un balsam excelent, dar prețul este cam mare pentru cantitate. Totuși, merită!"
+        }
+      ]
+    },
+    {
+      "id": 401,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_buze/product401.png",
+      "nume": "Rouge Volupte Candy Glaze",
+      "categorie": "Balsam de buze",
+      "volum": "3.1g",
+      "pret": "905 MDL",
+
+      "caracteristici": {
+        "brand": "Yves Saint Laurent",
+        "seria": "buze",
+        "tip_produs": "balsam de buze",
+        "volum": "3.1g",
+        "tara": "Franţa",
+        "culoare": "coral"
+      },
+      "recenzii": [
+        {
+          "autor": "Veronica L",
+          "data": "2025-04-07",
+          "rating": 5,
+          "comentariu": "Textura este foarte hidratantă, iar culoarea coral este perfectă pentru primăvară. Îmi place mult!"
+        },
+        {
+          "autor": "Marina S",
+          "data": "2025-04-16",
+          "rating": 4,
+          "comentariu": "Un balsam excelent, dar prețul este cam mare pentru cantitate. Totuși, merită!"
+        }
+      ]
+    },
+    {
+      "id": 402,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_buze/product402.png",
+      "nume": "Lip Care Tint Balm",
+      "categorie": "Balsam de buze",
+      "volum": "4g",
+      "pret": "47 MDL",
+
+      "caracteristici": {
+        "brand": "Colour Intense",
+        "seria": "buze",
+        "tip_produs": "balsam de buze",
+        "volum": "4g",
+        "tara": "Necunoscut",
+        "culoare": "natural"
+      },
+      "recenzii": [
+        {
+          "autor": "Andreea M",
+          "data": "2025-04-10",
+          "rating": 4,
+          "comentariu": "Un balsam accesibil, hidratant și cu o culoare delicată. Ideal pentru uz zilnic."
+        },
+        {
+          "autor": "Cristina P",
+          "data": "2025-04-12",
+          "rating": 3,
+          "comentariu": "Îmi place textura, dar mi-aș fi dorit o persistență mai mare a culorii."
+        }
+      ]
+    },
+    {
+      "id": 403,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_buze/product403.png",
+      "nume": "Lip Gloss Ziaja",
+      "categorie": "Gloss de buze",
+      "volum": "12ml",
+      "pret": "94 MDL",
+
+      "caracteristici": {
+        "brand": "Ziaja",
+        "seria": "buze",
+        "tip_produs": "gloss de buze",
+        "volum": "12ml",
+        "tara": "Polonia",
+        "culoare": "transparent"
+      },
+      "recenzii": [
+        {
+          "autor": "Raluca S",
+          "data": "2025-04-10",
+          "rating": 4,
+          "comentariu": "Un gloss plăcut, cu textură ușoară și luciu frumos, dar trebuie reaplicat frecvent."
+        },
+        {
+          "autor": "Andreea T",
+          "data": "2025-04-14",
+          "rating": 4,
+          "comentariu": "Îmi place cum hidratează buzele, iar prețul este foarte accesibil."
+        }
+      ]
+    },
+    {
+      "id": 404,
+      "promotie": "NEW",
+      "poza": "src/assets/products/machiaj_buze/product404.png",
+      "nume": "Kiss Kiss Bee Glow Tint Balm",
+      "categorie": "Balsam de buze",
+      "volum": "3.2g",
+      "pret": "800 MDL",
+
+      "caracteristici": {
+        "brand": "Guerlain",
+        "seria": "Kiss Kiss",
+        "tip_produs": "balsam de buze",
+        "volum": "3.2g",
+        "tara": "Franța",
+        "culoare": "roz"
+      },
+      "recenzii": [
+        {
+          "autor": "Elena M",
+          "data": "2025-04-11",
+          "rating": 5,
+          "comentariu": "Hidratează excelent buzele și oferă o nuanță naturală și delicată. Îl ador!"
+        },
+        {
+          "autor": "Anca D",
+          "data": "2025-04-15",
+          "rating": 4,
+          "comentariu": "Frumos și delicat, însă ar putea avea o persistență mai mare."
+        }
+      ]
+    },
+    {
+      "id": 405,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_buze/product405.png",
+      "nume": "Lip Gloss Ziaja",
+      "categorie": "Gloss de buze",
+      "volum": "12ml",
+      "pret": "94 MDL",
+
+      "caracteristici": {
+        "brand": "Ziaja",
+        "seria": "buze",
+        "tip_produs": "gloss de buze",
+        "volum": "12ml",
+        "tara": "Polonia",
+        "culoare": "transparent"
+      },
+      "recenzii": [
+        {
+          "autor": "Raluca S",
+          "data": "2025-04-10",
+          "rating": 4,
+          "comentariu": "Un gloss plăcut, cu textură ușoară și luciu frumos, dar trebuie reaplicat frecvent."
+        },
+        {
+          "autor": "Andreea T",
+          "data": "2025-04-14",
+          "rating": 4,
+          "comentariu": "Îmi place cum hidratează buzele, iar prețul este foarte accesibil."
+        }
+      ]
+    },
+    {
+      "id": 406,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_buze/product406.png",
+      "nume": "Lipfinity",
+      "categorie": "ruj de buze",
+      "volum": "3.2g",
+      "pret": "181 MDL",
+
+      "caracteristici": {
+        "brand": "Max Factor",
+        "seria": "buze",
+        "tip_produs": "ruj de buze",
+        "volum": "3.2g",
+        "tara": "Necunoscut",
+        "culoare": "diverse"
+      },
+      "recenzii": [
+        {
+          "autor": "Ioana V",
+          "data": "2025-04-20",
+          "rating": 4,
+          "comentariu": "Rezistență bună și culoare intensă, perfect pentru zilele lungi."
+        },
+        {
+          "autor": "Maria D",
+          "data": "2025-04-22",
+          "rating": 3,
+          "comentariu": "Îmi place nuanța, dar mi se pare puțin uscat pe buze."
+        }
+      ]
+    },
+    {
+      "id": 407,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_buze/product407.png",
+      "nume": "Paris Color Riche",
+      "categorie": "ruj de buze",
+      "volum": "3.5g",
+      "pret": "175 MDL",
+
+      "caracteristici": {
+        "brand": "L'Oreal",
+        "seria": "buze",
+        "tip_produs": "ruj de buze",
+        "volum": "3.5g",
+        "tara": "Franța",
+        "culoare": "variate"
+      },
+      "recenzii": [
+        {
+          "autor": "Ana M",
+          "data": "2025-04-18",
+          "rating": 5,
+          "comentariu": "Textură cremoasă și hidratare excelentă. Îmi place foarte mult!"
+        },
+        {
+          "autor": "Elena P",
+          "data": "2025-04-20",
+          "rating": 4,
+          "comentariu": "Culoarea este frumoasă, dar se consumă destul de repede."
+        }
+      ]
+    },
+    {
+      "id": 408,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_buze/product408.png",
+      "nume": "Longstay Liquid Matte Lipstick",
+      "categorie": "ruj de buze",
+      "volum": "5.5ml",
+      "pret": "108 MDL",
+
+      "caracteristici": {
+        "brand": "Golden Rose",
+        "seria": "buze",
+        "tip_produs": "ruj de buze",
+        "volum": "5.5ml",
+        "tara": "Turcia",
+        "culoare": "mat"
+      },
+      "recenzii": [
+        {
+          "autor": "Irina C",
+          "data": "2025-04-21",
+          "rating": 5,
+          "comentariu": "Rezistență mare și nuanțe superbe. Recomand pentru machiajul de zi cu zi."
+        },
+        {
+          "autor": "Mara V",
+          "data": "2025-04-23",
+          "rating": 4,
+          "comentariu": "Textura e plăcută, dar uneori usucă puțin buzele."
+        }
+      ]
+    },
+    {
+      "id": 409,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_buze/product409.png",
+      "nume": "Addict Refillable Lipstick",
+      "categorie": "ruj de buze",
+      "volum": "3.2g",
+      "pret": "728 MDL",
+
+      "caracteristici": {
+        "brand": "Dior",
+        "seria": "Addict",
+        "tip_produs": "ruj de buze",
+        "volum": "3.2g",
+        "tara": "Franța",
+        "culoare": "diverse"
+      },
+      "recenzii": [
+        {
+          "autor": "Andreea M",
+          "data": "2025-04-25",
+          "rating": 5,
+          "comentariu": "Ruj cu o textură minunată și culori vibrante. Îl ador!"
+        },
+        {
+          "autor": "Laura P",
+          "data": "2025-04-27",
+          "rating": 4,
+          "comentariu": "Elegant și de calitate, însă prețul este ridicat."
+        }
+      ]
+    },
+    {
+      "id": 410,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_buze/product410.png",
+      "nume": "Rouge Edition Velvet Lipstick",
+      "categorie": "ruj de buze",
+      "volum": "7.7ml",
+      "pret": "171 MDL",
+      "caracteristici": {
+        "brand": "Bourjois",
+        "seria": "buze",
+        "tip_produs": "ruj de buze",
+        "volum": "7.7ml",
+        "tara": "Franța",
+        "culoare": "mat"
+      },
+      "recenzii": [
+        {
+          "autor": "Cristina F",
+          "data": "2025-04-26",
+          "rating": 5,
+          "comentariu": "Textură catifelată și culoare intensă. Rezistă bine pe buze."
+        },
+        {
+          "autor": "Monica D",
+          "data": "2025-04-28",
+          "rating": 4,
+          "comentariu": "Îmi place foarte mult, doar că ar putea avea o durată mai mare."
+        }
+      ]
+    },
+    {
+      "id": 411,
+      "promotie": "NEW",
+      "poza": "src/assets/products/machiaj_buze/product411.png",
+      "nume": "Velvet Matte Lipstick",
+      "categorie": "ruj de buze",
+      "volum": "4.2g",
+      "pret": "72 MDL",
+      "caracteristici": {
+        "brand": "Golden Rose",
+        "seria": "buze",
+        "tip_produs": "ruj de buze",
+        "volum": "4.2g",
+        "tara": "Turcia",
+        "culoare": "mat"
+      },
+      "recenzii": [
+        {
+          "autor": "Gabriela T",
+          "data": "2025-04-29",
+          "rating": 4,
+          "comentariu": "Un ruj accesibil cu finisaj mat plăcut, dar uneori usucă buzele."
+        },
+        {
+          "autor": "Mihai S",
+          "data": "2025-05-01",
+          "rating": 3,
+          "comentariu": "Culoarea e frumoasă, dar durata nu e foarte mare."
+        }
+      ]
+    },
+    {
+      "id": 412,
+      "promotie": "NEW",
+      "poza": "src/assets/products/machiaj_buze/product412.png",
+      "nume": "Juicy Bomb Shiny Lipgloss Essence",
+      "categorie": "luciu de buze",
+      "volum": "10ml",
+      "pret": "55 MDL",
+      "caracteristici": {
+        "brand": "Essence",
+        "seria": "buze",
+        "tip_produs": "luciu de buze",
+        "volum": "10ml",
+        "tara": "Germania",
+        "culoare": "lucios"
+      },
+      "recenzii": [
+        {
+          "autor": "Sofia M",
+          "data": "2025-05-02",
+          "rating": 4,
+          "comentariu": "Gloss cu un luciu plăcut și hidratant, perfect pentru zi."
+        },
+        {
+          "autor": "Ioana P",
+          "data": "2025-05-03",
+          "rating": 3,
+          "comentariu": "Îmi place textura, dar trebuie reaplicat des."
+        }
+      ]
+    },
+    {
+      "id": 413,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_buze/product413.png",
+      "nume": "Hydra Kiss Lip Oil",
+      "categorie": "luciu de buze",
+      "volum": "4ml",
+      "pret": "128 MDL",
+      "caracteristici": {
+        "brand": "Essence",
+        "seria": "buze",
+        "tip_produs": "luciu de buze",
+        "volum": "4ml",
+        "tara": "Germania",
+        "culoare": "transparent"
+      },
+      "recenzii": [
+        {
+          "autor": "Larisa V",
+          "data": "2025-05-04",
+          "rating": 5,
+          "comentariu": "Foarte hidratant și plăcut la aplicare, ideal pentru buze uscate."
+        },
+        {
+          "autor": "Andreea S",
+          "data": "2025-05-06",
+          "rating": 4,
+          "comentariu": "Textura uleiului este fină, dar îmi doresc o aromă mai intensă."
+        }
+      ]
+    },
+    {
+      "id": 414,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_buze/product414.png",
+      "nume": "Extreme Shine Volume Lipgloss",
+      "categorie": "luciu de buze",
+      "volum": "5.5ml",
+      "pret": "95 MDL",
+      "caracteristici": {
+        "brand": "Extreme Shine",
+        "seria": "buze",
+        "tip_produs": "luciu de buze",
+        "volum": "5.5ml",
+        "tara": "Italia",
+        "culoare": "lucios"
+      },
+      "recenzii": [
+        {
+          "autor": "Raluca D",
+          "data": "2025-05-07",
+          "rating": 5,
+          "comentariu": "Gloss cu efect volumizant și luciu intens, foarte mulțumită!"
+        },
+        {
+          "autor": "Cristina A",
+          "data": "2025-05-09",
+          "rating": 4,
+          "comentariu": "Îmi place textura, dar ar putea avea o persistență mai mare."
+        }
+      ]
+    },
+    {
+      "id": 415,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_buze/product415.png",
+      "nume": "Glossin' Glow Tinted Lip Oil",
+      "categorie": "luciu de buze",
+      "volum": "3.2g",
+      "pret": "166 MDL",
+      "caracteristici": {
+        "brand": "Catrice",
+        "seria": "buze",
+        "tip_produs": "luciu de buze",
+        "volum": "3.2g",
+        "tara": "Germania",
+        "culoare": "nuanțat"
+      },
+      "recenzii": [
+        {
+          "autor": "Alina M",
+          "data": "2025-05-10",
+          "rating": 5,
+          "comentariu": "Oferă un luciu frumos și o hidratare excelentă."
+        },
+        {
+          "autor": "Elena T",
+          "data": "2025-05-12",
+          "rating": 4,
+          "comentariu": "Textura e plăcută, dar nuanța ar putea fi mai intensă."
+        }
+      ]
+    },
+    {
+      "id": 416,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_buze/product416.png",
+      "nume": "Makeup Butter Gloss",
+      "categorie": "luciu de buze",
+      "volum": "7ml",
+      "pret": "120 MDL",
+      "caracteristici": {
+        "brand": "NYX Professional Makeup",
+        "seria": "buze",
+        "tip_produs": "luciu de buze",
+        "volum": "7ml",
+        "tara": "SUA",
+        "culoare": "cremos"
+      },
+      "recenzii": [
+        {
+          "autor": "Dana C",
+          "data": "2025-05-13",
+          "rating": 5,
+          "comentariu": "Luciu cremos și confortabil, ideal pentru utilizarea zilnică."
+        },
+        {
+          "autor": "Andreea R",
+          "data": "2025-05-15",
+          "rating": 4,
+          "comentariu": "Îmi place textura, dar aș fi vrut o durată mai mare."
+        }
+      ]
+    },
+    {
+      "id": 417,
+      "promotie": "HIT",
+      "poza": "src/assets/products/machiaj_buze/product417.png",
+      "nume": "Lip Comfort Oil",
+      "categorie": "luciu de buze",
+      "volum": "7ml",
+      "pret": "520 MDL",
+      "caracteristici": {
+        "brand": "Clarins",
+        "seria": "buze",
+        "tip_produs": "luciu de buze",
+        "volum": "7ml",
+        "tara": "Franța",
+        "culoare": "transparent"
+      },
+      "recenzii": [
+        {
+          "autor": "Eliza M",
+          "data": "2025-05-16",
+          "rating": 5,
+          "comentariu": "Hidratează intens și oferă un luciu natural plăcut."
+        },
+        {
+          "autor": "Ioana B",
+          "data": "2025-05-18",
+          "rating": 4,
+          "comentariu": "Textura e plăcută, dar aș fi vrut o aromă mai persistentă."
+        }
+      ]
+    }
+  ]
+}
