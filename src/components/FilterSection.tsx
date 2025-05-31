@@ -51,7 +51,7 @@ export function FilterSection({
 
   return (
     <Form {...form}>
-      <form className="rounded-lg shadow-sm px-6 sm:px-14 py-4 mt-1 sm:mt-11">
+      <form className="rounded-lg shadow-md px-6 sm:px-14 py-4 mt-1 sm:mt-11 h-fit">
         <FormField
           control={form.control}
           name="types"
