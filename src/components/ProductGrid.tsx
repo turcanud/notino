@@ -1,7 +1,7 @@
-import {MakeupProduct} from "@/types";
+import {BaseProduct} from "@/types";
 import ProductCard from "./ProductCard";
 
-export function ProductGrid({products}: {products: MakeupProduct[]}) {
+export function ProductGrid({products}: {products: BaseProduct[]}) {
   return (
     <div className="">
       <h2 className="text-lg font-semibold mb-4">

@@ -22,7 +22,7 @@ export default async function page() {
       </div>
       <Separator />
       <h1 className="uppercase text-center text-xl sm:text-2xl lg:text-3xl font-bold mt-6">
-        Păr
+        Parfumuri
       </h1>
       <ProductBrowser<"parfumuri"> products={products} />
     </div>
