@@ -1,8 +1,10 @@
 import type {Metadata} from "next";
+import {poppins, inter} from "@/lib/fonts";
 import "./globals.css";
 import Navigation from "@/components/Navigation";
 import Footer from "@/components/Footer";
 import {ThemeProvider} from "@/components/theme-provider";
+import {Toaster} from "@/components/ui/sonner";
 
 export const metadata: Metadata = {
   title: "Notino",
@@ -16,7 +18,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className={`antialiased`}>
+      <body className={`antialiased ${poppins.variable} ${inter.variable}`}>
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
@@ -25,6 +27,7 @@ export default function RootLayout({
           <Navigation />
           {children}
           <Footer />
+          <Toaster />
         </ThemeProvider>
       </body>
     </html>

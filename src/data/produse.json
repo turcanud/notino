@@ -3,7 +3,7 @@
     {
       "id": 1,
       "promotie": "HIT",
-      "poza": "src/assets/products/par/product1.png",
+      "poza": "/assets/products/par/product1.png",
       "nume": "Balsam-spumă pentru neutralizarea tonurilor de galben",
       "categorie": "Conditioner",
       "volum": "250ml",
@@ -35,7 +35,7 @@
     {
       "id": 2,
       "promotie": "HIT",
-      "poza": "src/assets/products/par/product2.png",
+      "poza": "/assets/products/par/product2.png",
       "nume": "Balsam bifazic pentru neutralizarea culorilor de galben",
       "categorie": "Conditioner",
       "volum": "150ml",
@@ -67,7 +67,7 @@
     {
       "id": 3,
       "promotie": "HIT",
-      "poza": "src/assets/products/par/product3.png",
+      "poza": "/assets/products/par/product3.png",
       "nume": "Balsam nutritiv, color support pentru blond",
       "categorie": "Conditioner",
       "volum": "250ml",
@@ -100,7 +100,7 @@
     {
       "id": 4,
       "promotie": "HIT",
-      "poza": "src/assets/products/par/product4.png",
+      "poza": "/assets/products/par/product4.png",
       "nume": "Soluție fără clătire pentru întărirea părului",
       "categorie": "Treatment",
       "volum": "150ml",
@@ -133,7 +133,7 @@
     {
       "id": 5,
       "promotie": "HIT",
-      "poza": "src/assets/products/par/product5.png",
+      "poza": "/assets/products/par/product5.png",
       "nume": "Balsam pentru păr blond și gri",
       "categorie": "Treatment",
       "volum": "250ml",
@@ -166,7 +166,7 @@
     {
       "id": 6,
       "promotie": "HIT",
-      "poza": "src/assets/products/par/product6.png",
+      "poza": "/assets/products/par/product6.png",
       "nume": "Balsam pentru păr",
       "categorie": "Klorane Blond Highlights Conditioner",
       "volum": "200ml",
@@ -199,7 +199,7 @@
     {
       "id": 7,
       "promotie": "HIT",
-      "poza": "src/assets/products/par/product7.png",
+      "poza": "/assets/products/par/product7.png",
       "nume": "Șampon regenerant cu cheratină",
       "categorie": "Inebrya Ice Cream Keratin",
       "volum": "100ml",
@@ -232,7 +232,7 @@
     {
       "id": 8,
       "promotie": "DEAL",
-      "poza": "src/assets/products/par/product8.png",
+      "poza": "/assets/products/par/product8.png",
       "nume": "Șampon-Scrub anti-mătreață pentru curățare profundă",
       "categorie": "Anti-Dandruff Scrub",
       "volum": "250ml",
@@ -265,7 +265,7 @@
     {
       "id": 9,
       "promotie": "DEAL",
-      "poza": "src/assets/products/par/product9.png",
+      "poza": "/assets/products/par/product9.png",
       "nume": "Șampon intensiv regenerator",
       "categorie": "Intense Repair Shampoo",
       "volum": "250ml",
@@ -298,7 +298,7 @@
     {
       "id": 10,
       "promotie": "DEAL",
-      "poza": "src/assets/products/par/product10.png",
+      "poza": "/assets/products/par/product10.png",
       "nume": "Mască regenerantă cu extract de ovăz pentru păr",
       "categorie": "Brelil Numero Total Repair Mask",
       "volum": "300ml",
@@ -331,7 +331,7 @@
     {
       "id": 11,
       "promotie": "HIT",
-      "poza": "src/assets/products/par/product11.png",
+      "poza": "/assets/products/par/product11.png",
       "nume": "L'Oreal Professionnel Absolut Repair Gold",
       "categorie": "Mască de păr",
       "volum": "500ml",
@@ -364,7 +364,7 @@
     {
       "id": 12,
       "promotie": "HIT",
-      "poza": "src/assets/products/par/product12.png",
+      "poza": "/assets/products/par/product12.png",
       "nume": "Șampon pentru păr vopsit",
       "categorie": "For Colored and Treated Hair",
       "volum": "300ml",
@@ -397,7 +397,7 @@
     {
       "id": 13,
       "promotie": "DEAL",
-      "poza": "src/assets/products/par/product13.png",
+      "poza": "/assets/products/par/product13.png",
       "nume": "Șampon profesional pentru curățarea părului gras",
       "categorie": "Scalp Advanced Anti-Oiliness",
       "volum": "300ml",
@@ -430,7 +430,7 @@
     {
       "id": 14,
       "promotie": "HIT",
-      "poza": "src/assets/products/par/product14.png",
+      "poza": "/assets/products/par/product14.png",
       "nume": "Șampon pentru păr gras și sensibil",
       "categorie": "Specifique Bain Divalent Shampoo",
       "volum": "250ml",
@@ -463,7 +463,7 @@
     {
       "id": 15,
       "promotie": "NEW",
-      "poza": "src/assets/products/par/product15.png",
+      "poza": "/assets/products/par/product15.png",
       "nume": "Șampon pentru uz zilnic",
       "categorie": "American Crew Daily Cleansing",
       "volum": "450ml",
@@ -496,7 +496,7 @@
     {
       "id": 16,
       "promotie": "HIT",
-      "poza": "src/assets/products/par/product16.png",
+      "poza": "/assets/products/par/product16.png",
       "nume": "Șampon revigorant",
       "categorie": "CP-1 Cool Mint Shampoo",
       "volum": "100ml",
@@ -529,7 +529,7 @@
     {
       "id": 17,
       "promotie": "DEAL",
-      "poza": "src/assets/products/par/product17.png",
+      "poza": "/assets/products/par/product17.png",
       "nume": "Bain Prevention Specifique Shampoo",
       "categorie": "Șampon",
       "volum": "250ml",
@@ -562,7 +562,7 @@
     {
       "id": 18,
       "promotie": "HIT",
-      "poza": "src/assets/products/par/product18.png",
+      "poza": "/assets/products/par/product18.png",
       "nume": "Peeling Dixidox De Luxe N 1.3",
       "categorie": "Dixidox DeLuxe Antiseborrheic Peeling",
       "volum": "200ml",
@@ -597,7 +597,7 @@
     {
       "id": 100,
       "promotie": "DEAL",
-      "poza": "src/assets/products/corp/product100.png",
+      "poza": "/assets/products/corp/product100.png",
       "nume": "Smart Shower Gel",
       "categorie": "Gel de duș",
       "volum": "250ml",
@@ -629,7 +629,7 @@
     {
       "id": 101,
       "promotie": "DEAL",
-      "poza": "src/assets/products/corp/product101.png",
+      "poza": "/assets/products/corp/product101.png",
       "nume": "Gel de duș Prospețimea lemongrass-ului",
       "categorie": "Bath Care Lemongrass And Oil",
       "volum": "250ml",
@@ -661,7 +661,7 @@
     {
       "id": 102,
       "promotie": "DEAL",
-      "poza": "src/assets/products/corp/product102.png",
+      "poza": "/assets/products/corp/product102.png",
       "nume": "The Ritual of Karma Foaming Shower Gel",
       "categorie": "Gel de duș",
       "volum": "200ml",
@@ -693,7 +693,7 @@
     {
       "id": 103,
       "promotie": "HIT",
-      "poza": "src/assets/products/corp/product103.png",
+      "poza": "/assets/products/corp/product103.png",
       "nume": "Gel de curățare pentru corp, cu acid salicilic",
       "categorie": "Gel de duș",
       "volum": "250ml",
@@ -725,7 +725,7 @@
     {
       "id": 104,
       "promotie": "DEAL",
-      "poza": "src/assets/products/corp/product104.png",
+      "poza": "/assets/products/corp/product104.png",
       "nume": "Gel de duș parfumat Rose Wine",
       "categorie": "MAREVE",
       "volum": "250ml",
@@ -757,7 +757,7 @@
     {
       "id": 105,
       "promotie": "DEAL",
-      "poza": "src/assets/products/corp/product105.png",
+      "poza": "/assets/products/corp/product105.png",
       "nume": "Șampon și gel de duș, 2 în 1, cu fructe",
       "categorie": "Red Fruits Shampoo & Body Wash",
       "volum": "500ml",
@@ -789,7 +789,7 @@
     {
       "id": 106,
       "promotie": "HIT",
-      "poza": "src/assets/products/corp/product106.png",
+      "poza": "/assets/products/corp/product106.png",
       "nume": "Scrub de corp cu acizi Exfoliator Body Scrub",
       "categorie": "face care",
       "volum": "250ml",
@@ -821,7 +821,7 @@
     {
       "id": 107,
       "promotie": "HIT",
-      "poza": "src/assets/products/corp/product107.png",
+      "poza": "/assets/products/corp/product107.png",
       "nume": "Scrub de stimulare pentru corp",
       "categorie": "Purify Stimulating Body Scrub",
       "volum": "250ml",
@@ -853,7 +853,7 @@
     {
       "id": 108,
       "promotie": "HIT",
-      "poza": "src/assets/products/corp/product108.png",
+      "poza": "/assets/products/corp/product108.png",
       "nume": "Scrub de față și corp pentru îndepărtarea impurităților",
       "categorie": "Derma Skin Clear Anti-Blemish Scrub",
       "volum": "150ml",
@@ -885,7 +885,7 @@
     {
       "id": 109,
       "promotie": "HIT",
-      "poza": "src/assets/products/corp/product109.png",
+      "poza": "/assets/products/corp/product109.png",
       "nume": "Rituals The Ritual of Ayurveda Body Scrub",
       "categorie": "scrub pentru corp",
       "volum": "300g",
@@ -917,7 +917,7 @@
     {
       "id": 110,
       "promotie": "NEW",
-      "poza": "src/assets/products/corp/product110.png",
+      "poza": "/assets/products/corp/product110.png",
       "nume": "Scrub de sare cu efect hidratant pentru corp",
       "categorie": "Body Scrub Salt",
       "volum": "250ml",
@@ -949,7 +949,7 @@
     {
       "id": 111,
       "promotie": "HIT",
-      "poza": "src/assets/products/corp/product111.png",
+      "poza": "/assets/products/corp/product111.png",
       "nume": "Exfoliant pentru corp Tropical Glow",
       "categorie": "Tree Hut Firming Sugar Scrub",
       "volum": "510g",
@@ -983,7 +983,7 @@
     {
       "id": 200,
       "promotie": "HIT",
-      "poza": "src/assets/products/parfumuri/product200.png",
+      "poza": "/assets/products/parfumuri/product200.png",
       "nume": "Green Tea",
       "categorie": "Apa de parfum",
       "volum": "30ml",
@@ -1017,7 +1017,7 @@
     {
       "id": 201,
       "promotie": "HIT",
-      "poza": "src/assets/products/parfumuri/product201.png",
+      "poza": "/assets/products/parfumuri/product201.png",
       "nume": "CK One",
       "categorie": "Apa de parfum",
       "volum": "100ml",
@@ -1051,7 +1051,7 @@
     {
       "id": 202,
       "promotie": "HIT",
-      "poza": "src/assets/products/parfumuri/product202.png",
+      "poza": "/assets/products/parfumuri/product202.png",
       "nume": "Azzaro Chrome",
       "categorie": "Apa de toaletă",
       "volum": "30ml",
@@ -1085,7 +1085,7 @@
     {
       "id": 203,
       "promotie": "HIT",
-      "poza": "src/assets/products/parfumuri/product203.png",
+      "poza": "/assets/products/parfumuri/product203.png",
       "nume": "Paloma Picasso",
       "categorie": "Apa de parfum",
       "volum": "30ml",
@@ -1119,7 +1119,7 @@
     {
       "id": 204,
       "promotie": "NEW",
-      "poza": "src/assets/products/parfumuri/product204.png",
+      "poza": "/assets/products/parfumuri/product204.png",
       "nume": "Club De Nuit Untold",
       "categorie": "Apa de parfum",
       "volum": "105ml",
@@ -1153,7 +1153,7 @@
     {
       "id": 205,
       "promotie": "DEAL",
-      "poza": "src/assets/products/parfumuri/product205.png",
+      "poza": "/assets/products/parfumuri/product205.png",
       "nume": "Voce Viva Intensa",
       "categorie": "Apa de parfum",
       "volum": "50ml",
@@ -1187,7 +1187,7 @@
     {
       "id": 206,
       "promotie": "HIT",
-      "poza": "src/assets/products/parfumuri/product206.png",
+      "poza": "/assets/products/parfumuri/product206.png",
       "nume": "Tommy Girl",
       "categorie": "Apa de toaletă",
       "volum": "30ml",
@@ -1226,7 +1226,7 @@
     {
       "id": 207,
       "promotie": "HIT",
-      "poza": "src/assets/products/parfumuri/product207.png",
+      "poza": "/assets/products/parfumuri/product207.png",
       "nume": "La Vie est Belle L'Elixir",
       "categorie": "Apa de parfum",
       "volum": "30ml",
@@ -1260,7 +1260,7 @@
     {
       "id": 208,
       "promotie": "HIT",
-      "poza": "src/assets/products/parfumuri/product208.png",
+      "poza": "/assets/products/parfumuri/product208.png",
       "nume": "Idole",
       "categorie": "Apa de parfum",
       "volum": "25ml",
@@ -1294,7 +1294,7 @@
     {
       "id": 209,
       "promotie": "HIT",
-      "poza": "src/assets/products/parfumuri/product209.png",
+      "poza": "/assets/products/parfumuri/product209.png",
       "nume": "Toy 2 Bubble Gum",
       "categorie": "Apa de toaletă",
       "volum": "30ml",
@@ -1328,7 +1328,7 @@
     {
       "id": 210,
       "promotie": "HIT",
-      "poza": "src/assets/products/parfumuri/product210.png",
+      "poza": "/assets/products/parfumuri/product210.png",
       "nume": "My Way Nectar",
       "categorie": "Apă de parfum",
       "volum": "30ml",
@@ -1362,7 +1362,7 @@
     {
       "id": 211,
       "promotie": "NEW",
-      "poza": "src/assets/products/parfumuri/product211.png",
+      "poza": "/assets/products/parfumuri/product211.png",
       "nume": "Bleu",
       "categorie": "Apă de parfum",
       "volum": "50ml",
@@ -1396,7 +1396,7 @@
     {
       "id": 212,
       "promotie": "HIT",
-      "poza": "src/assets/products/parfumuri/product212.png",
+      "poza": "/assets/products/parfumuri/product212.png",
       "nume": "Funny!",
       "categorie": "Apă de toaletă",
       "volum": "50ml",
@@ -1430,7 +1430,7 @@
     {
       "id": 213,
       "promotie": "HIT",
-      "poza": "src/assets/products/parfumuri/product213.png",
+      "poza": "/assets/products/parfumuri/product213.png",
       "nume": "This is Her!",
       "categorie": "Apă de parfum",
       "volum": "30ml",
@@ -1464,7 +1464,7 @@
     {
       "id": 214,
       "promotie": "HIT",
-      "poza": "src/assets/products/parfumuri/product214.png",
+      "poza": "/assets/products/parfumuri/product214.png",
       "nume": "Light Blue",
       "categorie": "Apă de toaletă",
       "volum": "25ml",
@@ -1498,7 +1498,7 @@
     {
       "id": 215,
       "promotie": "HIT",
-      "poza": "src/assets/products/parfumuri/product215.png",
+      "poza": "/assets/products/parfumuri/product215.png",
       "nume": "Nomade",
       "categorie": "Apă de parfum",
       "volum": "20ml",
@@ -1532,7 +1532,7 @@
     {
       "id": 216,
       "promotie": "HIT",
-      "poza": "src/assets/products/parfumuri/product216.png",
+      "poza": "/assets/products/parfumuri/product216.png",
       "nume": "Chloé",
       "categorie": "Apă de parfum",
       "volum": "30ml",
@@ -1566,7 +1566,7 @@
     {
       "id": 217,
       "promotie": "HIT",
-      "poza": "src/assets/products/parfumuri/product217.png",
+      "poza": "/assets/products/parfumuri/product217.png",
       "nume": "Montblanc Signature",
       "categorie": "Apă de parfum",
       "volum": "30ml",
@@ -1602,7 +1602,7 @@
     {
       "id": 300,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_ochi/product300.png",
+      "poza": "/assets/products/machiaj_ochi/product300.png",
       "nume": "Pure Volume Magic Brown Mascara",
       "categorie": "Rimel",
       "volum": "10ml",
@@ -1634,7 +1634,7 @@
     {
       "id": 301,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_ochi/product301.png",
+      "poza": "/assets/products/machiaj_ochi/product301.png",
       "nume": "Glam&Doll False Lashes Mascara",
       "categorie": "Rimel",
       "volum": "9.5ml",
@@ -1667,7 +1667,7 @@
     {
       "id": 302,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_ochi/product302.png",
+      "poza": "/assets/products/machiaj_ochi/product302.png",
       "nume": "Lash Sensational",
       "categorie": "Rimel",
       "volum": "9.5ml",
@@ -1700,7 +1700,7 @@
     {
       "id": 303,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_ochi/product303.png",
+      "poza": "/assets/products/machiaj_ochi/product303.png",
       "nume": "Paris Telescopic Mascara",
       "categorie": "Rimel",
       "volum": "6.5ml",
@@ -1733,7 +1733,7 @@
     {
       "id": 304,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_ochi/product304.png",
+      "poza": "/assets/products/machiaj_ochi/product304.png",
       "nume": "Lash Sensational Sky High",
       "categorie": "Rimel",
       "volum": "10ml",
@@ -1766,7 +1766,7 @@
     {
       "id": 305,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_ochi/product305.png",
+      "poza": "/assets/products/machiaj_ochi/product305.png",
       "nume": "Lash Idole Mascara",
       "categorie": "Rimel",
       "volum": "7ml",
@@ -1799,7 +1799,7 @@
     {
       "id": 306,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_ochi/product306.png",
+      "poza": "/assets/products/machiaj_ochi/product306.png",
       "nume": "Division Re-loaded Palette",
       "categorie": "Paletă pentru machiaj",
       "volum": "12 culori",
@@ -1831,7 +1831,7 @@
     {
       "id": 307,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_ochi/product307.png",
+      "poza": "/assets/products/machiaj_ochi/product307.png",
       "nume": "The Rose Edition Eyeshadow Palette Essence",
       "categorie": "Paletă pentru machiaj",
       "volum": "15 culori",
@@ -1863,7 +1863,7 @@
     {
       "id": 308,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_ochi/product308.png",
+      "poza": "/assets/products/machiaj_ochi/product308.png",
       "nume": "Brow Sculpt Kit Makeup Revolution",
       "categorie": "Kit sprâncene",
       "volum": "5g",
@@ -1895,7 +1895,7 @@
     {
       "id": 309,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_ochi/product309.png",
+      "poza": "/assets/products/machiaj_ochi/product309.png",
       "nume": "Forever Flawless Dynamic",
       "categorie": "Paletă pentru machiaj",
       "volum": "14 culori",
@@ -1927,7 +1927,7 @@
     {
       "id": 310,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_ochi/product310.png",
+      "poza": "/assets/products/machiaj_ochi/product310.png",
       "nume": "Pro Palette TopFace",
       "categorie": "Paletă pentru machiaj",
       "volum": "10 culori",
@@ -1959,7 +1959,7 @@
     {
       "id": 311,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_ochi/product311.png",
+      "poza": "/assets/products/machiaj_ochi/product311.png",
       "nume": "Masterpiece Nude Eyeshadow Palette",
       "categorie": "Paletă pentru machiaj",
       "volum": "12 culori",
@@ -1991,7 +1991,7 @@
     {
       "id": 312,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_ochi/product312.png",
+      "poza": "/assets/products/machiaj_ochi/product312.png",
       "nume": "Calligraph Pro Precise 24h Matt Liner Waterproof",
       "categorie": "Eyeliner",
       "volum": "1.2ml",
@@ -2023,7 +2023,7 @@
     {
       "id": 313,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_ochi/product313.png",
+      "poza": "/assets/products/machiaj_ochi/product313.png",
       "nume": "Lasting Drama Gel Eyeliner",
       "categorie": "Eyeliner",
       "volum": "2.5g",
@@ -2055,7 +2055,7 @@
     {
       "id": 314,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_ochi/product314.png",
+      "poza": "/assets/products/machiaj_ochi/product314.png",
       "nume": "Waterproof Variete Eyeliner",
       "categorie": "Eyeliner",
       "volum": "4ml",
@@ -2087,7 +2087,7 @@
     {
       "id": 315,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_ochi/product315.png",
+      "poza": "/assets/products/machiaj_ochi/product315.png",
       "nume": "Renaissance Flick Eyeliner",
       "categorie": "Eyeliner",
       "volum": "1.8ml",
@@ -2119,7 +2119,7 @@
     {
       "id": 316,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_ochi/product316.png",
+      "poza": "/assets/products/machiaj_ochi/product316.png",
       "nume": "Cabaret Première Eyeliner",
       "categorie": "Eyeliner",
       "volum": "0.5ml",
@@ -2151,7 +2151,7 @@
     {
       "id": 317,
       "promotie": "NEW",
-      "poza": "src/assets/products/machiaj_ochi/product317.png",
+      "poza": "/assets/products/machiaj_ochi/product317.png",
       "nume": "Celebrities Eyeliner",
       "categorie": "Eyeliner",
       "volum": "3ml",
@@ -2183,7 +2183,7 @@
     {
       "id": 318,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_ochi/product318.png",
+      "poza": "/assets/products/machiaj_ochi/product318.png",
       "nume": "Opal Eyeshadows Trio Perl Silk",
       "categorie": "Fard pentru ochi",
       "volum": "5g",
@@ -2216,7 +2216,7 @@
     {
       "id": 319,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_ochi/product319.png",
+      "poza": "/assets/products/machiaj_ochi/product319.png",
       "nume": "Jumbo Eye Pencil",
       "categorie": "Fard pentru ochi",
       "volum": "5g",
@@ -2249,7 +2249,7 @@
     {
       "id": 320,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_ochi/product320.png",
+      "poza": "/assets/products/machiaj_ochi/product320.png",
       "nume": "Diorshow 5 Couleurs Eyeshadow Palette",
       "categorie": "Fard pentru ochi",
       "volum": "7g",
@@ -2282,7 +2282,7 @@
     {
       "id": 321,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_ochi/product321.png",
+      "poza": "/assets/products/machiaj_ochi/product321.png",
       "nume": "Luxe Rich Sparkle Eye Shadow",
       "categorie": "Fard pentru ochi",
       "volum": "2.5g",
@@ -2315,7 +2315,7 @@
     {
       "id": 322,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_ochi/product322.png",
+      "poza": "/assets/products/machiaj_ochi/product322.png",
       "nume": "Kashmir Eyeshadow Mono Matt",
       "categorie": "Fard pentru ochi",
       "volum": "5g",
@@ -2348,7 +2348,7 @@
     {
       "id": 323,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_ochi/product323.png",
+      "poza": "/assets/products/machiaj_ochi/product323.png",
       "nume": "Long-Wear Cream Shadow Stick Duo",
       "categorie": "Fard pentru ochi",
       "volum": "1.6g",
@@ -2383,7 +2383,7 @@
     {
       "id": 400,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_buze/product400.png",
+      "poza": "/assets/products/machiaj_buze/product400.png",
       "nume": "Rouge Volupte Candy Glaze",
       "categorie": "Balsam de buze",
       "volum": "3.2g",
@@ -2415,7 +2415,7 @@
     {
       "id": 401,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_buze/product401.png",
+      "poza": "/assets/products/machiaj_buze/product401.png",
       "nume": "Rouge Volupte Candy Glaze",
       "categorie": "Balsam de buze",
       "volum": "3.1g",
@@ -2447,7 +2447,7 @@
     {
       "id": 402,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_buze/product402.png",
+      "poza": "/assets/products/machiaj_buze/product402.png",
       "nume": "Lip Care Tint Balm",
       "categorie": "Balsam de buze",
       "volum": "4g",
@@ -2479,7 +2479,7 @@
     {
       "id": 403,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_buze/product403.png",
+      "poza": "/assets/products/machiaj_buze/product403.png",
       "nume": "Lip Gloss Ziaja",
       "categorie": "Gloss de buze",
       "volum": "12ml",
@@ -2511,7 +2511,7 @@
     {
       "id": 404,
       "promotie": "NEW",
-      "poza": "src/assets/products/machiaj_buze/product404.png",
+      "poza": "/assets/products/machiaj_buze/product404.png",
       "nume": "Kiss Kiss Bee Glow Tint Balm",
       "categorie": "Balsam de buze",
       "volum": "3.2g",
@@ -2543,7 +2543,7 @@
     {
       "id": 405,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_buze/product405.png",
+      "poza": "/assets/products/machiaj_buze/product405.png",
       "nume": "Lip Gloss Ziaja",
       "categorie": "Gloss de buze",
       "volum": "12ml",
@@ -2575,7 +2575,7 @@
     {
       "id": 406,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_buze/product406.png",
+      "poza": "/assets/products/machiaj_buze/product406.png",
       "nume": "Lipfinity",
       "categorie": "ruj de buze",
       "volum": "3.2g",
@@ -2607,7 +2607,7 @@
     {
       "id": 407,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_buze/product407.png",
+      "poza": "/assets/products/machiaj_buze/product407.png",
       "nume": "Paris Color Riche",
       "categorie": "ruj de buze",
       "volum": "3.5g",
@@ -2639,7 +2639,7 @@
     {
       "id": 408,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_buze/product408.png",
+      "poza": "/assets/products/machiaj_buze/product408.png",
       "nume": "Longstay Liquid Matte Lipstick",
       "categorie": "ruj de buze",
       "volum": "5.5ml",
@@ -2671,7 +2671,7 @@
     {
       "id": 409,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_buze/product409.png",
+      "poza": "/assets/products/machiaj_buze/product409.png",
       "nume": "Addict Refillable Lipstick",
       "categorie": "ruj de buze",
       "volum": "3.2g",
@@ -2703,7 +2703,7 @@
     {
       "id": 410,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_buze/product410.png",
+      "poza": "/assets/products/machiaj_buze/product410.png",
       "nume": "Rouge Edition Velvet Lipstick",
       "categorie": "ruj de buze",
       "volum": "7.7ml",
@@ -2734,7 +2734,7 @@
     {
       "id": 411,
       "promotie": "NEW",
-      "poza": "src/assets/products/machiaj_buze/product411.png",
+      "poza": "/assets/products/machiaj_buze/product411.png",
       "nume": "Velvet Matte Lipstick",
       "categorie": "ruj de buze",
       "volum": "4.2g",
@@ -2765,7 +2765,7 @@
     {
       "id": 412,
       "promotie": "NEW",
-      "poza": "src/assets/products/machiaj_buze/product412.png",
+      "poza": "/assets/products/machiaj_buze/product412.png",
       "nume": "Juicy Bomb Shiny Lipgloss Essence",
       "categorie": "luciu de buze",
       "volum": "10ml",
@@ -2796,7 +2796,7 @@
     {
       "id": 413,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_buze/product413.png",
+      "poza": "/assets/products/machiaj_buze/product413.png",
       "nume": "Hydra Kiss Lip Oil",
       "categorie": "luciu de buze",
       "volum": "4ml",
@@ -2827,7 +2827,7 @@
     {
       "id": 414,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_buze/product414.png",
+      "poza": "/assets/products/machiaj_buze/product414.png",
       "nume": "Extreme Shine Volume Lipgloss",
       "categorie": "luciu de buze",
       "volum": "5.5ml",
@@ -2858,7 +2858,7 @@
     {
       "id": 415,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_buze/product415.png",
+      "poza": "/assets/products/machiaj_buze/product415.png",
       "nume": "Glossin' Glow Tinted Lip Oil",
       "categorie": "luciu de buze",
       "volum": "3.2g",
@@ -2889,7 +2889,7 @@
     {
       "id": 416,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_buze/product416.png",
+      "poza": "/assets/products/machiaj_buze/product416.png",
       "nume": "Makeup Butter Gloss",
       "categorie": "luciu de buze",
       "volum": "7ml",
@@ -2920,7 +2920,7 @@
     {
       "id": 417,
       "promotie": "HIT",
-      "poza": "src/assets/products/machiaj_buze/product417.png",
+      "poza": "/assets/products/machiaj_buze/product417.png",
       "nume": "Lip Comfort Oil",
       "categorie": "luciu de buze",
       "volum": "7ml",

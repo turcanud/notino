@@ -1,13 +1,9 @@
-import {ProductCategories} from "@/types";
+"use server";
+import productsData from "@/data/produse.json";
+import {CategoryName, CharacteristicsForCategory, Product} from "@/types";
 
 export async function fetchAllProducts() {
-  const response = await fetch("src/data/produse.json");
-
-  if (!response.ok) {
-    throw new Error(`HTTP error! status: ${response.status}`);
-  }
-
-  const data: ProductCategories = await response.json();
+  const data = productsData;
   const allProductsArray = [
     ...data.par,
     ...data.parfumuri,
@@ -16,4 +12,11 @@ export async function fetchAllProducts() {
     ...data.machiaj_buze,
   ];
   return allProductsArray;
+}
+
+export async function fetchProducts<T extends CategoryName>(
+  category: T
+): Promise<Product<CharacteristicsForCategory<T>>[]> {
+  const data = productsData;
+  return data[category] as Product<CharacteristicsForCategory<T>>[];
 }

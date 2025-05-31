@@ -53,6 +53,10 @@ export interface Product<TCharacteristics extends BaseCharacteristics>
   caracteristici: TCharacteristics;
 }
 
+export type MakeupProduct =
+  | Product<MakeupLipsCharacteristics>
+  | Product<MakeupEyesCharacteristics>;
+
 export type HairProduct = Product<HairCharacteristics>;
 export type BodyProduct = Product<BodyCharacteristics>;
 export type PerfumeProduct = Product<PerfumeCharacteristics>;
