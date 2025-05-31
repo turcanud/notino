@@ -7,7 +7,7 @@ export default async function Home() {
   const products = (await fetchAllProducts()) as BaseProduct[];
 
   return (
-    <div className="flex flex-col items-center gap-5 mx-[70px]">
+    <div className="flex flex-col items-center gap-5 min-w-3/4">
       <Image
         src="/assets/main/main-pic.png"
         alt="Description"

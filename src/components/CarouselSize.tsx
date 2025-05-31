@@ -1,5 +1,4 @@
 import * as React from "react";
-
 import {
   Carousel,
   CarouselContent,
@@ -8,7 +7,7 @@ import {
   CarouselPrevious,
 } from "@/components/ui/carousel";
 import {BaseProduct} from "@/types";
-import ProductForCarousel from "./ProductForCarousel";
+import ProductCard from "./ProductCard";
 
 export function CarouselSize({
   products,
@@ -18,20 +17,28 @@ export function CarouselSize({
   promotion?: BaseProduct["promotie"];
 }) {
   return (
-    <Carousel className="min-w-full max-w-sm">
-      <CarouselContent className="-ml-1">
+    <Carousel
+      className="sm:w-[90%] w-[80%]"
+      opts={{
+        align: "start",
+        loop: false,
+        slidesToScroll: 1,
+      }}>
+      <CarouselContent className="">
         {products
           .filter((product) => product.promotie === promotion)
           .map((product) => (
-            <CarouselItem key={product.id} className="basis-1/6 select-none">
-              <div className="p-1">
-                <ProductForCarousel product={product} />
+            <CarouselItem
+              key={product.id}
+              className="pl-2 basis-[320px] min-w-[320px] select-none">
+              <div className="p-2">
+                <ProductCard product={product} />
               </div>
             </CarouselItem>
           ))}
       </CarouselContent>
-      <CarouselPrevious />
-      <CarouselNext />
+      <CarouselPrevious className="hidden sm:flex" />
+      <CarouselNext className="hidden sm:flex" />
     </Carousel>
   );
 }

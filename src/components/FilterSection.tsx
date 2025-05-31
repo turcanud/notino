@@ -18,24 +18,24 @@ import {
 import {MakeupProduct} from "@/types";
 
 const FormSchema = z.object({
-  brands: z.array(z.string()).optional(),
+  types: z.array(z.string()).optional(),
 });
 
 export function FilterSection({products}: {products: MakeupProduct[]}) {
-  // Group products by brand and count occurrences
-  const brandCounts = products.reduce((acc, product) => {
-    const brand = product.caracteristici.brand;
-    acc[brand] = (acc[brand] || 0) + 1;
+  // Group products by type and count occurrences
+  const typeCounts = products.reduce((acc, product) => {
+    const type = product.caracteristici.tip_produs;
+    acc[type] = (acc[type] || 0) + 1;
     return acc;
   }, {} as Record<string, number>);
 
-  // Get unique brands sorted alphabetically
-  const uniqueBrands = Object.keys(brandCounts).sort();
+  // Get unique types sorted alphabetically
+  const uniqueTypes = Object.keys(typeCounts).sort();
 
   const form = useForm<z.infer<typeof FormSchema>>({
     resolver: zodResolver(FormSchema),
     defaultValues: {
-      brands: [],
+      types: [],
     },
   });
 
@@ -44,8 +44,10 @@ export function FilterSection({products}: {products: MakeupProduct[]}) {
 
     toast("Filtre aplicate", {
       description: (
-        <pre className="mt-2 w-[320px] rounded-md bg-neutral-950 p-4">
-          <code className="text-white">{JSON.stringify(data, null, 2)}</code>
+        <pre className="mt-2 w-full max-w-[280px] sm:max-w-[320px] rounded-md bg-neutral-950 p-4">
+          <code className="text-white text-xs sm:text-sm">
+            {JSON.stringify(data, null, 2)}
+          </code>
         </pre>
       ),
     });
@@ -53,52 +55,55 @@ export function FilterSection({products}: {products: MakeupProduct[]}) {
 
   return (
     <Form {...form}>
-      <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-6">
+      <form
+        onSubmit={form.handleSubmit(onSubmit)}
+        className="space-y-4 sm:space-y-6 p-4 sm:p-6 bg-white rounded-lg shadow-sm">
         <FormField
           control={form.control}
-          name="brands"
+          name="types"
           render={() => (
             <FormItem>
-              <div className="mb-4">
-                <FormLabel className="text-base uppercase">Branduri</FormLabel>
+              <div className="mb-3 sm:mb-4">
+                <FormLabel className="text-sm sm:text-base uppercase font-semibold">
+                  Tipuri
+                </FormLabel>
               </div>
-              <div className="space-y-3">
-                {uniqueBrands.map((brand) => (
+              <div className="space-y-2 sm:space-y-3">
+                {uniqueTypes.map((type) => (
                   <FormField
-                    key={brand}
+                    key={type}
                     control={form.control}
-                    name="brands"
-                    render={({field}) => {
-                      return (
-                        <FormItem className="flex flex-row items-center justify-between gap-3">
-                          <div className="flex items-center gap-2">
-                            <FormControl>
-                              <Checkbox
-                                checked={field.value?.includes(brand)}
-                                onCheckedChange={(checked) => {
-                                  return checked
-                                    ? field.onChange([
-                                        ...(field.value ?? []),
-                                        brand,
-                                      ])
-                                    : field.onChange(
-                                        field.value?.filter(
-                                          (value) => value !== brand
-                                        )
-                                      );
-                                }}
-                              />
-                            </FormControl>
-                            <FormLabel className="text-sm font-normal cursor-pointer">
-                              {brand}
-                            </FormLabel>
-                          </div>
-                          <span className="text-xs text-gray-500">
-                            ({brandCounts[brand]})
-                          </span>
-                        </FormItem>
-                      );
-                    }}
+                    name="types"
+                    render={({field}) => (
+                      <FormItem className="flex flex-row items-center justify-between gap-2 sm:gap-3">
+                        <div className="flex items-center gap-2">
+                          <FormControl>
+                            <Checkbox
+                              checked={field.value?.includes(type)}
+                              onCheckedChange={(checked) => {
+                                return checked
+                                  ? field.onChange([
+                                      ...(field.value ?? []),
+                                      type,
+                                    ])
+                                  : field.onChange(
+                                      field.value?.filter(
+                                        (value) => value !== type
+                                      )
+                                    );
+                              }}
+                              className="h-5 w-5"
+                            />
+                          </FormControl>
+                          <FormLabel className="text-xs sm:text-sm font-normal cursor-pointer">
+                            {type}
+                          </FormLabel>
+                        </div>
+                        <span className="text-xs text-gray-500">
+                          ({typeCounts[type]})
+                        </span>
+                      </FormItem>
+                    )}
                   />
                 ))}
               </div>
@@ -106,7 +111,9 @@ export function FilterSection({products}: {products: MakeupProduct[]}) {
             </FormItem>
           )}
         />
-        <Button type="submit" className="w-full">
+        <Button
+          type="submit"
+          className="w-full text-sm sm:text-base py-2 sm:py-3 rounded-none">
           Aplică filtre
         </Button>
       </form>

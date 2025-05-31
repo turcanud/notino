@@ -7,46 +7,51 @@ import {Card, CardContent} from "./ui/card";
 
 export default function ProductCard({product}: {product: BaseProduct}) {
   return (
-    <Card key={product.id} className="select-none">
-      <CardContent className="w-[305px] flex flex-col justify-between shrink-0">
+    <Card key={product.id} className="select-none w-full max-w-[320px] mx-auto">
+      <CardContent className="flex flex-col justify-between p-4 sm:p-6">
         {product.promotie && (
-          <div className="px-4 pt-4">
+          <div className="mb-4">
             <span className="bg-red-100 text-red-800 text-xs font-semibold px-2.5 py-0.5 rounded">
               {product.promotie}
             </span>
           </div>
         )}
 
-        <div className="p-4 flex justify-center h-[270px]">
+        <div className="flex justify-center h-48 sm:h-64">
           <Image
             src={product.poza ?? "/placeholder.jpg"}
             alt={product.nume}
             width={200}
             height={200}
-            className="object-contain"
+            sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+            className="object-contain w-full h-full"
             loading="lazy"
           />
         </div>
 
-        <div className="p-3 flex flex-col justify-between">
-          <h2 className="text-lg font-bold truncate">{product.nume}</h2>
-          <h3 className="text-sm text-gray-400 mb-2">{product.categorie}</h3>
-          <div className="flex justify-between items-center">
-            <span className="text-md font-light">{product.volum}</span>
-            <span className="text-md font-medium">{product.pret}</span>
+        <div className="flex flex-col justify-between mt-4 gap-2">
+          <h2 className="text-base sm:text-lg font-bold truncate">
+            {product.nume}
+          </h2>
+          <h3 className="text-xs sm:text-sm text-gray-400">
+            {product.categorie}
+          </h3>
+          <div className="flex justify-between items-center text-sm sm:text-md">
+            <span className="font-light">{product.volum}</span>
+            <span className="font-medium">{product.pret}</span>
           </div>
 
           <Rating reviews={product.recenzii as Review[]} />
 
-          <div className="flex justify-between items-center">
-            <Button className="bg-[#9D182B] hover:bg-[#9D182B] text-white font-medium py-2 px-16 transition-colors duration-200 rounded-none cursor-pointer">
+          <div className="flex justify-between items-center gap-2">
+            <Button className="bg-[#9D182B] hover:bg-[#9D182B] text-white font-medium py-2 px-4 sm:px-6 w-3/4 transition-colors duration-200 rounded-none cursor-pointer">
               Adaugă
             </Button>
             <Button
               variant={"outline"}
               size={"icon"}
-              className="rounded-full cursor-pointer">
-              <Heart />
+              className="rounded-full cursor-pointer flex-shrink-0">
+              <Heart className="w-5 h-5" />
             </Button>
           </div>
         </div>
