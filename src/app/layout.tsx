@@ -25,6 +25,7 @@ export default function RootLayout({
           disableTransitionOnChange>
           <Navigation />
           {children}
+          <div className="h-30"></div>
           <Footer />
           <Toaster />
         </ThemeProvider>

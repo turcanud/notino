@@ -30,7 +30,7 @@ export default function ProductBrowser({
 
   return (
     <div className="w-full max-w-7xl px-4 sm:px-6 lg:px-16 flex flex-col lg:flex-row gap-6 lg:gap-10">
-      <div className="w-full lg:w-1/4">
+      <div className="w-full">
         <FilterSection products={products} onFilterChange={handleFilter} />
       </div>
       <Separator orientation="vertical" className="w-fit" />

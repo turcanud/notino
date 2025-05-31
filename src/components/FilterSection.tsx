@@ -51,9 +51,7 @@ export function FilterSection({
 
   return (
     <Form {...form}>
-      <form
-        // onSubmit={form.handleSubmit(onSubmit)}
-        className="space-y-4 sm:space-y-6 p-4 sm:p-6 rounded-lg shadow-sm">
+      <form className="rounded-lg shadow-sm px-6 sm:px-14 py-4 mt-1 sm:mt-11">
         <FormField
           control={form.control}
           name="types"
@@ -107,11 +105,6 @@ export function FilterSection({
             </FormItem>
           )}
         />
-        {/* <Button
-          type="submit"
-          className="w-full text-sm sm:text-base py-2 sm:py-3 rounded-none">
-          Aplică filtre
-        </Button> */}
       </form>
     </Form>
   );

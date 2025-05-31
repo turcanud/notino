@@ -3,7 +3,7 @@ import ProductCard from "./ProductCard";
 
 export function ProductGrid({products}: {products: MakeupProduct[]}) {
   return (
-    <div className="min-w-full">
+    <div className="sm:min-w-[90%] min-w-[70%]">
       <h2 className="text-lg font-semibold mb-4">
         {products.length} produse găsite
       </h2>

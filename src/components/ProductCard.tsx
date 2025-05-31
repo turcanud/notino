@@ -8,7 +8,7 @@ import {Card, CardContent} from "./ui/card";
 export default function ProductCard({product}: {product: BaseProduct}) {
   return (
     <Card key={product.id} className="select-none w-full max-w-[320px] mx-auto">
-      <CardContent className="flex flex-col justify-between p-4 sm:p-6">
+      <CardContent className="flex flex-col justify-between">
         {product.promotie && (
           <div className="mb-4">
             <span className="bg-red-100 text-red-800 text-xs font-semibold px-2.5 py-0.5 rounded">

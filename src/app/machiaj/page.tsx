@@ -12,7 +12,7 @@ export default async function Page() {
   const products: MakeupProduct[] = [...lipsMakeup, ...eyesMakeup];
 
   return (
-    <div className="px-4 sm:px-6 lg:px-16 flex flex-col gap-6 items-center min-h-screen">
+    <div className="px-4 sm:px-6 lg:px-16 flex flex-col gap-6 items-center">
       <div className="w-full max-w-5xl">
         <Image
           src="/assets/main/ochi-main.png"

@@ -3,6 +3,7 @@ import {SearchBox} from "./Navigation/SearchBox";
 import {ModeToggle} from "./Navigation/ModeToggle";
 import {ShoppingBag, Heart} from "lucide-react";
 import {Button} from "./ui/button";
+import NavLinks from "./Navigation/NavLinks";
 
 export default function Navigation() {
   return (
@@ -34,28 +35,7 @@ export default function Navigation() {
           </Link>
         </div>
       </div>
-      <div className="flex flex-wrap gap-3 sm:gap-4 lg:gap-6 uppercase text-sm sm:text-base font-bold">
-        <Link
-          href="/machiaj"
-          className="hover:text-gray-600 cursor-pointer transition-colors duration-200">
-          Machiaj
-        </Link>
-        <Link
-          href="/par"
-          className="hover:text-gray-600 cursor-pointer transition-colors duration-200">
-          Păr
-        </Link>
-        <Link
-          href="/corp"
-          className="hover:text-gray-600 cursor-pointer transition-colors duration-200">
-          Corp
-        </Link>
-        <Link
-          href="/parfumuri"
-          className="hover:text-gray-600 cursor-pointer transition-colors duration-200">
-          Parfumuri
-        </Link>
-      </div>
+      <NavLinks />
     </nav>
   );
 }
