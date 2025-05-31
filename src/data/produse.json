@@ -7,7 +7,7 @@
       "nume": "Balsam-spumă pentru neutralizarea tonurilor de galben",
       "categorie": "Conditioner",
       "volum": "250ml",
-      "pret": "301 MDL",
+      "pret": 301,
       "caracteristici": {
         "brand": "Fanola",
         "seria": "no yellow",
@@ -39,7 +39,7 @@
       "nume": "Balsam bifazic pentru neutralizarea culorilor de galben",
       "categorie": "Conditioner",
       "volum": "150ml",
-      "pret": "361 MDL",
+      "pret": 361,
       "caracteristici": {
         "brand": "Fanola",
         "seria": "no yellow",
@@ -71,7 +71,7 @@
       "nume": "Balsam nutritiv, color support pentru blond",
       "categorie": "Conditioner",
       "volum": "250ml",
-      "pret": "684 MDL",
+      "pret": 684,
 
       "caracteristici": {
         "brand": "Davines",
@@ -104,7 +104,7 @@
       "nume": "Soluție fără clătire pentru întărirea părului",
       "categorie": "Treatment",
       "volum": "150ml",
-      "pret": "688 MDL",
+      "pret": 688,
 
       "caracteristici": {
         "brand": "Matrix",
@@ -137,7 +137,7 @@
       "nume": "Balsam pentru păr blond și gri",
       "categorie": "Treatment",
       "volum": "250ml",
-      "pret": "699 MDL",
+      "pret": 699,
 
       "caracteristici": {
         "brand": "Rene Furterer",
@@ -170,7 +170,7 @@
       "nume": "Balsam pentru păr",
       "categorie": "Klorane Blond Highlights Conditioner",
       "volum": "200ml",
-      "pret": "386 MDL",
+      "pret": 386,
 
       "caracteristici": {
         "brand": "Klorane",
@@ -203,7 +203,7 @@
       "nume": "Șampon regenerant cu cheratină",
       "categorie": "Inebrya Ice Cream Keratin",
       "volum": "100ml",
-      "pret": "83 MDL",
+      "pret": 83,
 
       "caracteristici": {
         "brand": "inebrya",
@@ -236,7 +236,7 @@
       "nume": "Șampon-Scrub anti-mătreață pentru curățare profundă",
       "categorie": "Anti-Dandruff Scrub",
       "volum": "250ml",
-      "pret": "407 MDL",
+      "pret": 407,
 
       "caracteristici": {
         "brand": "Vichy",
@@ -269,7 +269,7 @@
       "nume": "Șampon intensiv regenerator",
       "categorie": "Intense Repair Shampoo",
       "volum": "250ml",
-      "pret": "222 MDL",
+      "pret": 222,
 
       "caracteristici": {
         "brand": "Wella Professionals",
@@ -302,7 +302,7 @@
       "nume": "Mască regenerantă cu extract de ovăz pentru păr",
       "categorie": "Brelil Numero Total Repair Mask",
       "volum": "300ml",
-      "pret": "125 MDL",
+      "pret": 125,
 
       "caracteristici": {
         "brand": "Brelil",
@@ -335,7 +335,7 @@
       "nume": "L'Oreal Professionnel Absolut Repair Gold",
       "categorie": "Mască de păr",
       "volum": "500ml",
-      "pret": "751 MDL",
+      "pret": 751,
 
       "caracteristici": {
         "brand": "L'Oreal Professionnel",
@@ -368,7 +368,7 @@
       "nume": "Șampon pentru păr vopsit",
       "categorie": "For Colored and Treated Hair",
       "volum": "300ml",
-      "pret": "215 MDL",
+      "pret": 215,
 
       "caracteristici": {
         "brand": "Echosline",
@@ -401,7 +401,7 @@
       "nume": "Șampon profesional pentru curățarea părului gras",
       "categorie": "Scalp Advanced Anti-Oiliness",
       "volum": "300ml",
-      "pret": "352 MDL",
+      "pret": 352,
 
       "caracteristici": {
         "brand": "L'Oreal Professionnel",
@@ -434,7 +434,7 @@
       "nume": "Șampon pentru păr gras și sensibil",
       "categorie": "Specifique Bain Divalent Shampoo",
       "volum": "250ml",
-      "pret": "499 MDL",
+      "pret": 499,
 
       "caracteristici": {
         "brand": "Kerastase",
@@ -467,7 +467,7 @@
       "nume": "Șampon pentru uz zilnic",
       "categorie": "American Crew Daily Cleansing",
       "volum": "450ml",
-      "pret": "378 MDL",
+      "pret": 378,
 
       "caracteristici": {
         "brand": "American Crew",
@@ -500,7 +500,7 @@
       "nume": "Șampon revigorant",
       "categorie": "CP-1 Cool Mint Shampoo",
       "volum": "100ml",
-      "pret": "97 MDL",
+      "pret": 97,
 
       "caracteristici": {
         "brand": "Esthetic House",
@@ -533,7 +533,7 @@
       "nume": "Bain Prevention Specifique Shampoo",
       "categorie": "Șampon",
       "volum": "250ml",
-      "pret": "688 MDL",
+      "pret": 688,
 
       "caracteristici": {
         "brand": "Kerastase",
@@ -566,7 +566,7 @@
       "nume": "Peeling Dixidox De Luxe N 1.3",
       "categorie": "Dixidox DeLuxe Antiseborrheic Peeling",
       "volum": "200ml",
-      "pret": "818 MDL",
+      "pret": 818,
 
       "caracteristici": {
         "brand": "Simone DSD De Luxe",
@@ -697,7 +697,7 @@
       "nume": "Gel de curățare pentru corp, cu acid salicilic",
       "categorie": "Gel de duș",
       "volum": "250ml",
-      "pret": "240 MDL",
+      "pret": 240,
 
       "caracteristici": {
         "brand": "Q+A",
@@ -729,7 +729,7 @@
       "nume": "Gel de duș parfumat Rose Wine",
       "categorie": "MAREVE",
       "volum": "250ml",
-      "pret": "140 MDL",
+      "pret": 140,
 
       "caracteristici": {
         "brand": "MAREVE",
@@ -761,7 +761,7 @@
       "nume": "Șampon și gel de duș, 2 în 1, cu fructe",
       "categorie": "Red Fruits Shampoo & Body Wash",
       "volum": "500ml",
-      "pret": "289 MDL",
+      "pret": 289,
 
       "caracteristici": {
         "brand": "Bioearth",
@@ -793,7 +793,7 @@
       "nume": "Scrub de corp cu acizi Exfoliator Body Scrub",
       "categorie": "face care",
       "volum": "250ml",
-      "pret": "302 MDL",
+      "pret": 302,
 
       "caracteristici": {
         "brand": "Q+A",
@@ -825,7 +825,7 @@
       "nume": "Scrub de stimulare pentru corp",
       "categorie": "Purify Stimulating Body Scrub",
       "volum": "250ml",
-      "pret": "325 MDL",
+      "pret": 325,
 
       "caracteristici": {
         "brand": "Alma K.",
@@ -857,7 +857,7 @@
       "nume": "Scrub de față și corp pentru îndepărtarea impurităților",
       "categorie": "Derma Skin Clear Anti-Blemish Scrub",
       "volum": "150ml",
-      "pret": "212 MDL",
+      "pret": 212,
 
       "caracteristici": {
         "brand": "NIVEA",
@@ -889,7 +889,7 @@
       "nume": "Rituals The Ritual of Ayurveda Body Scrub",
       "categorie": "scrub pentru corp",
       "volum": "300g",
-      "pret": "350 MDL",
+      "pret": 350,
 
       "caracteristici": {
         "brand": "Rituals",
@@ -921,7 +921,7 @@
       "nume": "Scrub de sare cu efect hidratant pentru corp",
       "categorie": "Body Scrub Salt",
       "volum": "250ml",
-      "pret": "140 MDL",
+      "pret": 140,
 
       "caracteristici": {
         "brand": "Energy of Vitamins",
@@ -953,7 +953,7 @@
       "nume": "Exfoliant pentru corp Tropical Glow",
       "categorie": "Tree Hut Firming Sugar Scrub",
       "volum": "510g",
-      "pret": "399 MDL",
+      "pret": 399,
 
       "caracteristici": {
         "brand": "Tree Hut",
@@ -987,7 +987,7 @@
       "nume": "Green Tea",
       "categorie": "Apa de parfum",
       "volum": "30ml",
-      "pret": "255 MDL",
+      "pret": 255,
 
       "caracteristici": {
         "brand": "Elizabeth Arden",
@@ -1021,7 +1021,7 @@
       "nume": "CK One",
       "categorie": "Apa de parfum",
       "volum": "100ml",
-      "pret": "954 MDL",
+      "pret": 954,
 
       "caracteristici": {
         "brand": "Calvin Klein",
@@ -1055,7 +1055,7 @@
       "nume": "Azzaro Chrome",
       "categorie": "Apa de toaletă",
       "volum": "30ml",
-      "pret": "840 MDL",
+      "pret": 840,
 
       "caracteristici": {
         "brand": "Azzaro",
@@ -1089,7 +1089,7 @@
       "nume": "Paloma Picasso",
       "categorie": "Apa de parfum",
       "volum": "30ml",
-      "pret": "513 MDL",
+      "pret": 513,
 
       "caracteristici": {
         "brand": "Azzaro",
@@ -1123,7 +1123,7 @@
       "nume": "Club De Nuit Untold",
       "categorie": "Apa de parfum",
       "volum": "105ml",
-      "pret": "1210 MDL",
+      "pret": 1210,
 
       "caracteristici": {
         "brand": "Armaf",
@@ -1157,7 +1157,7 @@
       "nume": "Voce Viva Intensa",
       "categorie": "Apa de parfum",
       "volum": "50ml",
-      "pret": "1471 MDL",
+      "pret": 1471,
 
       "caracteristici": {
         "brand": "Valentino",
@@ -1191,7 +1191,7 @@
       "nume": "Tommy Girl",
       "categorie": "Apa de toaletă",
       "volum": "30ml",
-      "pret": "407 MDL",
+      "pret": 407,
 
       "caracteristici": {
         "brand": "Tommy Hilfiger",
@@ -1230,7 +1230,7 @@
       "nume": "La Vie est Belle L'Elixir",
       "categorie": "Apa de parfum",
       "volum": "30ml",
-      "pret": "1580 MDL",
+      "pret": 1580,
 
       "caracteristici": {
         "brand": "Lancome",
@@ -1264,7 +1264,7 @@
       "nume": "Idole",
       "categorie": "Apa de parfum",
       "volum": "25ml",
-      "pret": "1175 MDL",
+      "pret": 1175,
 
       "caracteristici": {
         "brand": "Lancome",
@@ -1298,7 +1298,7 @@
       "nume": "Toy 2 Bubble Gum",
       "categorie": "Apa de toaletă",
       "volum": "30ml",
-      "pret": "1025 MDL",
+      "pret": 1025,
 
       "caracteristici": {
         "brand": "Moschino",
@@ -1332,7 +1332,7 @@
       "nume": "My Way Nectar",
       "categorie": "Apă de parfum",
       "volum": "30ml",
-      "pret": "1553 MDL",
+      "pret": 1553,
 
       "caracteristici": {
         "brand": "Giorgio Armani",
@@ -1366,7 +1366,7 @@
       "nume": "Bleu",
       "categorie": "Apă de parfum",
       "volum": "50ml",
-      "pret": "19075 MDL",
+      "pret": 19075,
 
       "caracteristici": {
         "brand": "Rubeus Milano",
@@ -1400,7 +1400,7 @@
       "nume": "Funny!",
       "categorie": "Apă de toaletă",
       "volum": "50ml",
-      "pret": "692 MDL",
+      "pret": 692,
 
       "caracteristici": {
         "brand": "Moschino",
@@ -1434,7 +1434,7 @@
       "nume": "This is Her!",
       "categorie": "Apă de parfum",
       "volum": "30ml",
-      "pret": "1395 MDL",
+      "pret": 1395,
 
       "caracteristici": {
         "brand": "Zadig & Voltaire",
@@ -1468,7 +1468,7 @@
       "nume": "Light Blue",
       "categorie": "Apă de toaletă",
       "volum": "25ml",
-      "pret": "927 MDL",
+      "pret": 927,
 
       "caracteristici": {
         "brand": "Dolce & Gabbana",
@@ -1502,7 +1502,7 @@
       "nume": "Nomade",
       "categorie": "Apă de parfum",
       "volum": "20ml",
-      "pret": "1174 MDL",
+      "pret": 1174,
 
       "caracteristici": {
         "brand": "Chloé",
@@ -1536,7 +1536,7 @@
       "nume": "Chloé",
       "categorie": "Apă de parfum",
       "volum": "30ml",
-      "pret": "1236 MDL",
+      "pret": 1236,
 
       "caracteristici": {
         "brand": "Chloé",
@@ -1570,7 +1570,7 @@
       "nume": "Montblanc Signature",
       "categorie": "Apă de parfum",
       "volum": "30ml",
-      "pret": "873 MDL",
+      "pret": 873,
 
       "caracteristici": {
         "brand": "Montblanc",
@@ -1606,7 +1606,7 @@
       "nume": "Pure Volume Magic Brown Mascara",
       "categorie": "Rimel",
       "volum": "10ml",
-      "pret": "158 MDL",
+      "pret": 158,
       "caracteristici": {
         "brand": "Catrice",
         "seria": "ochi",
@@ -1638,7 +1638,7 @@
       "nume": "Glam&Doll False Lashes Mascara",
       "categorie": "Rimel",
       "volum": "9.5ml",
-      "pret": "220 MDL",
+      "pret": 220,
 
       "caracteristici": {
         "brand": "Catrice",
@@ -1671,7 +1671,7 @@
       "nume": "Lash Sensational",
       "categorie": "Rimel",
       "volum": "9.5ml",
-      "pret": "195 MDL",
+      "pret": 195,
 
       "caracteristici": {
         "brand": "Maybelline New York",
@@ -1704,7 +1704,7 @@
       "nume": "Paris Telescopic Mascara",
       "categorie": "Rimel",
       "volum": "6.5ml",
-      "pret": "210 MDL",
+      "pret": 210,
 
       "caracteristici": {
         "brand": "L'Oreal",
@@ -1737,7 +1737,7 @@
       "nume": "Lash Sensational Sky High",
       "categorie": "Rimel",
       "volum": "10ml",
-      "pret": "220 MDL",
+      "pret": 220,
 
       "caracteristici": {
         "brand": "Maybelline New York",
@@ -1770,7 +1770,7 @@
       "nume": "Lash Idole Mascara",
       "categorie": "Rimel",
       "volum": "7ml",
-      "pret": "420 MDL",
+      "pret": 420,
 
       "caracteristici": {
         "brand": "Lancôme",
@@ -1803,7 +1803,7 @@
       "nume": "Division Re-loaded Palette",
       "categorie": "Paletă pentru machiaj",
       "volum": "12 culori",
-      "pret": "380 MDL",
+      "pret": 380,
 
       "caracteristici": {
         "brand": "Division",
@@ -1835,7 +1835,7 @@
       "nume": "The Rose Edition Eyeshadow Palette Essence",
       "categorie": "Paletă pentru machiaj",
       "volum": "15 culori",
-      "pret": "280 MDL",
+      "pret": 280,
 
       "caracteristici": {
         "brand": "Essence",
@@ -1867,7 +1867,7 @@
       "nume": "Brow Sculpt Kit Makeup Revolution",
       "categorie": "Kit sprâncene",
       "volum": "5g",
-      "pret": "180 MDL",
+      "pret": 180,
 
       "caracteristici": {
         "brand": "Makeup Revolution",
@@ -1899,7 +1899,7 @@
       "nume": "Forever Flawless Dynamic",
       "categorie": "Paletă pentru machiaj",
       "volum": "14 culori",
-      "pret": "350 MDL",
+      "pret": 350,
 
       "caracteristici": {
         "brand": "Makeup Revolution",
@@ -1931,7 +1931,7 @@
       "nume": "Pro Palette TopFace",
       "categorie": "Paletă pentru machiaj",
       "volum": "10 culori",
-      "pret": "320 MDL",
+      "pret": 320,
 
       "caracteristici": {
         "brand": "TopFace",
@@ -1963,7 +1963,7 @@
       "nume": "Masterpiece Nude Eyeshadow Palette",
       "categorie": "Paletă pentru machiaj",
       "volum": "12 culori",
-      "pret": "400 MDL",
+      "pret": 400,
 
       "caracteristici": {
         "brand": "Max Factor",
@@ -1995,7 +1995,7 @@
       "nume": "Calligraph Pro Precise 24h Matt Liner Waterproof",
       "categorie": "Eyeliner",
       "volum": "1.2ml",
-      "pret": "198 MDL",
+      "pret": 198,
 
       "caracteristici": {
         "brand": "Maybelline New York",
@@ -2027,7 +2027,7 @@
       "nume": "Lasting Drama Gel Eyeliner",
       "categorie": "Eyeliner",
       "volum": "2.5g",
-      "pret": "190 MDL",
+      "pret": 190,
 
       "caracteristici": {
         "brand": "Maybelline New York",
@@ -2059,7 +2059,7 @@
       "nume": "Waterproof Variete Eyeliner",
       "categorie": "Eyeliner",
       "volum": "4ml",
-      "pret": "120 MDL",
+      "pret": 120,
 
       "caracteristici": {
         "brand": "Eveline Cosmetics",
@@ -2091,7 +2091,7 @@
       "nume": "Renaissance Flick Eyeliner",
       "categorie": "Eyeliner",
       "volum": "1.8ml",
-      "pret": "165 MDL",
+      "pret": 165,
 
       "caracteristici": {
         "brand": "Makeup Revolution",
@@ -2123,7 +2123,7 @@
       "nume": "Cabaret Première Eyeliner",
       "categorie": "Eyeliner",
       "volum": "0.5ml",
-      "pret": "149 MDL",
+      "pret": 149,
 
       "caracteristici": {
         "brand": "Vivienne Sabó",
@@ -2155,7 +2155,7 @@
       "nume": "Celebrities Eyeliner",
       "categorie": "Eyeliner",
       "volum": "3ml",
-      "pret": "125 MDL",
+      "pret": 125,
 
       "caracteristici": {
         "brand": "Eveline Cosmetics",
@@ -2187,7 +2187,7 @@
       "nume": "Opal Eyeshadows Trio Perl Silk",
       "categorie": "Fard pentru ochi",
       "volum": "5g",
-      "pret": "90 MDL",
+      "pret": 90,
 
       "caracteristici": {
         "brand": "Paese",
@@ -2220,7 +2220,7 @@
       "nume": "Jumbo Eye Pencil",
       "categorie": "Fard pentru ochi",
       "volum": "5g",
-      "pret": "110 MDL",
+      "pret": 110,
 
       "caracteristici": {
         "brand": "NYX Professional Makeup",
@@ -2253,7 +2253,7 @@
       "nume": "Diorshow 5 Couleurs Eyeshadow Palette",
       "categorie": "Fard pentru ochi",
       "volum": "7g",
-      "pret": "2618 MDL",
+      "pret": 2618,
 
       "caracteristici": {
         "brand": "Dior",
@@ -2286,7 +2286,7 @@
       "nume": "Luxe Rich Sparkle Eye Shadow",
       "categorie": "Fard pentru ochi",
       "volum": "2.5g",
-      "pret": "869 MDL",
+      "pret": 869,
 
       "caracteristici": {
         "brand": "Bobbi Brown",
@@ -2319,7 +2319,7 @@
       "nume": "Kashmir Eyeshadow Mono Matt",
       "categorie": "Fard pentru ochi",
       "volum": "5g",
-      "pret": "86 MDL",
+      "pret": 86,
 
       "caracteristici": {
         "brand": "Kashmir",
@@ -2352,7 +2352,7 @@
       "nume": "Long-Wear Cream Shadow Stick Duo",
       "categorie": "Fard pentru ochi",
       "volum": "1.6g",
-      "pret": "854 MDL",
+      "pret": 854,
 
       "caracteristici": {
         "brand": "Bobbi Brown",
@@ -2387,7 +2387,7 @@
       "nume": "Rouge Volupte Candy Glaze",
       "categorie": "Balsam de buze",
       "volum": "3.2g",
-      "pret": "995 MDL",
+      "pret": 995,
 
       "caracteristici": {
         "brand": "Yves Saint Laurent",
@@ -2419,7 +2419,7 @@
       "nume": "Rouge Volupte Candy Glaze",
       "categorie": "Balsam de buze",
       "volum": "3.1g",
-      "pret": "905 MDL",
+      "pret": 905,
 
       "caracteristici": {
         "brand": "Yves Saint Laurent",
@@ -2451,7 +2451,7 @@
       "nume": "Lip Care Tint Balm",
       "categorie": "Balsam de buze",
       "volum": "4g",
-      "pret": "47 MDL",
+      "pret": 47,
 
       "caracteristici": {
         "brand": "Colour Intense",
@@ -2483,7 +2483,7 @@
       "nume": "Lip Gloss Ziaja",
       "categorie": "Gloss de buze",
       "volum": "12ml",
-      "pret": "94 MDL",
+      "pret": 94,
 
       "caracteristici": {
         "brand": "Ziaja",
@@ -2515,7 +2515,7 @@
       "nume": "Kiss Kiss Bee Glow Tint Balm",
       "categorie": "Balsam de buze",
       "volum": "3.2g",
-      "pret": "800 MDL",
+      "pret": 800,
 
       "caracteristici": {
         "brand": "Guerlain",
@@ -2547,7 +2547,7 @@
       "nume": "Lip Gloss Ziaja",
       "categorie": "Gloss de buze",
       "volum": "12ml",
-      "pret": "94 MDL",
+      "pret": 94,
 
       "caracteristici": {
         "brand": "Ziaja",
@@ -2579,7 +2579,7 @@
       "nume": "Lipfinity",
       "categorie": "ruj de buze",
       "volum": "3.2g",
-      "pret": "181 MDL",
+      "pret": 181,
 
       "caracteristici": {
         "brand": "Max Factor",
@@ -2611,7 +2611,7 @@
       "nume": "Paris Color Riche",
       "categorie": "ruj de buze",
       "volum": "3.5g",
-      "pret": "175 MDL",
+      "pret": 175,
 
       "caracteristici": {
         "brand": "L'Oreal",
@@ -2643,7 +2643,7 @@
       "nume": "Longstay Liquid Matte Lipstick",
       "categorie": "ruj de buze",
       "volum": "5.5ml",
-      "pret": "108 MDL",
+      "pret": 108,
 
       "caracteristici": {
         "brand": "Golden Rose",
@@ -2675,7 +2675,7 @@
       "nume": "Addict Refillable Lipstick",
       "categorie": "ruj de buze",
       "volum": "3.2g",
-      "pret": "728 MDL",
+      "pret": 728,
 
       "caracteristici": {
         "brand": "Dior",
@@ -2707,7 +2707,7 @@
       "nume": "Rouge Edition Velvet Lipstick",
       "categorie": "ruj de buze",
       "volum": "7.7ml",
-      "pret": "171 MDL",
+      "pret": 171,
       "caracteristici": {
         "brand": "Bourjois",
         "seria": "buze",
@@ -2738,7 +2738,7 @@
       "nume": "Velvet Matte Lipstick",
       "categorie": "ruj de buze",
       "volum": "4.2g",
-      "pret": "72 MDL",
+      "pret": 72,
       "caracteristici": {
         "brand": "Golden Rose",
         "seria": "buze",
@@ -2769,7 +2769,7 @@
       "nume": "Juicy Bomb Shiny Lipgloss Essence",
       "categorie": "luciu de buze",
       "volum": "10ml",
-      "pret": "55 MDL",
+      "pret": 55,
       "caracteristici": {
         "brand": "Essence",
         "seria": "buze",
@@ -2800,7 +2800,7 @@
       "nume": "Hydra Kiss Lip Oil",
       "categorie": "luciu de buze",
       "volum": "4ml",
-      "pret": "128 MDL",
+      "pret": 128,
       "caracteristici": {
         "brand": "Essence",
         "seria": "buze",
@@ -2831,7 +2831,7 @@
       "nume": "Extreme Shine Volume Lipgloss",
       "categorie": "luciu de buze",
       "volum": "5.5ml",
-      "pret": "95 MDL",
+      "pret": 95,
       "caracteristici": {
         "brand": "Extreme Shine",
         "seria": "buze",
@@ -2862,7 +2862,7 @@
       "nume": "Glossin' Glow Tinted Lip Oil",
       "categorie": "luciu de buze",
       "volum": "3.2g",
-      "pret": "166 MDL",
+      "pret": 166,
       "caracteristici": {
         "brand": "Catrice",
         "seria": "buze",
@@ -2893,7 +2893,7 @@
       "nume": "Makeup Butter Gloss",
       "categorie": "luciu de buze",
       "volum": "7ml",
-      "pret": "120 MDL",
+      "pret": 120,
       "caracteristici": {
         "brand": "NYX Professional Makeup",
         "seria": "buze",
@@ -2924,7 +2924,7 @@
       "nume": "Lip Comfort Oil",
       "categorie": "luciu de buze",
       "volum": "7ml",
-      "pret": "520 MDL",
+      "pret": 520,
       "caracteristici": {
         "brand": "Clarins",
         "seria": "buze",

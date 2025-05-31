@@ -2,10 +2,7 @@
 
 import {zodResolver} from "@hookform/resolvers/zod";
 import {useForm} from "react-hook-form";
-// import {toast} from "sonner";
 import {z} from "zod";
-
-// import {Button} from "@/components/ui/button";
 import {Checkbox} from "@/components/ui/checkbox";
 import {
   Form,
@@ -15,23 +12,32 @@ import {
   FormLabel,
   FormMessage,
 } from "@/components/ui/form";
-import {MakeupProduct} from "@/types";
-import {useEffect} from "react";
+import {Slider} from "./ui/slider";
+import {Button} from "./ui/button";
+import {CategoryName, CharacteristicsForCategory, Product} from "@/types";
 
 const FormSchema = z.object({
   types: z.array(z.string()).optional(),
+  priceRange: z.tuple([z.number(), z.number()]).optional(),
 });
 
-export function FilterSection({
+export function FilterSection<T extends CategoryName>({
   products,
   onFilterChange,
 }: {
-  products: MakeupProduct[];
-  onFilterChange: (selectedTypes: string[]) => void;
+  products: Product<CharacteristicsForCategory<T>>[];
+  onFilterChange: (
+    selectedTypes?: string[],
+    priceRange?: [number, number]
+  ) => void;
 }) {
+  const prices = products.map((p) => p.pret);
+  const minPrice = Math.min(...prices);
+  const maxPrice = Math.max(...prices);
+
   const form = useForm<z.infer<typeof FormSchema>>({
     resolver: zodResolver(FormSchema),
-    defaultValues: {types: []},
+    defaultValues: {types: [], priceRange: [minPrice, maxPrice]},
   });
 
   const typeCounts = products.reduce((acc, product) => {
@@ -42,16 +48,15 @@ export function FilterSection({
 
   const uniqueTypes = Object.keys(typeCounts).sort();
 
-  const watchedTypes = form.watch("types");
-
-  useEffect(() => {
-    const selectedTypes = watchedTypes || [];
-    onFilterChange(selectedTypes);
-  }, [watchedTypes, onFilterChange]);
+  function onSubmit(data: z.infer<typeof FormSchema>) {
+    onFilterChange(data.types || [], data.priceRange || [minPrice, maxPrice]);
+  }
 
   return (
     <Form {...form}>
-      <form className="rounded-lg shadow-md px-6 sm:px-14 py-4 mt-1 sm:mt-11 h-fit">
+      <form
+        onSubmit={form.handleSubmit(onSubmit)}
+        className="pr-6 sm:pr-14 pl-4 py-4 mt-1 sm:mt-11 h-fit">
         <FormField
           control={form.control}
           name="types"
@@ -59,7 +64,7 @@ export function FilterSection({
             <FormItem>
               <div className="mb-3 sm:mb-4">
                 <FormLabel className="text-sm sm:text-base uppercase font-semibold">
-                  Tipuri
+                  Gama de produse
                 </FormLabel>
               </div>
               <div className="space-y-2 sm:space-y-3">
@@ -105,6 +110,47 @@ export function FilterSection({
             </FormItem>
           )}
         />
+        <FormField
+          control={form.control}
+          name="priceRange"
+          render={({field}) => (
+            <FormItem>
+              <div className="my-3 sm:my-4">
+                <FormLabel className="text-sm sm:text-base uppercase font-semibold">
+                  Preț
+                </FormLabel>
+              </div>
+              <FormControl>
+                <div className="space-y-4 my-2">
+                  <Slider
+                    min={minPrice}
+                    max={maxPrice}
+                    value={field.value}
+                    onValueChange={field.onChange}
+                    className="w-full"
+                  />
+                  <div className="flex justify-between text-sm text-gray-600">
+                    <span>{field.value?.[0]} lei</span>
+                    <span>{field.value?.[1]} lei</span>
+                  </div>
+                </div>
+              </FormControl>
+              <FormMessage />
+            </FormItem>
+          )}
+        />
+        <div className="flex justify-between items-center w-full">
+          <Button type="submit" variant={"default"} className="w-[45%]">
+            Aplică filtre
+          </Button>
+          <Button
+            type="button"
+            variant="outline"
+            onClick={() => form.reset()}
+            className="w-[50%]">
+            Resetează filtre
+          </Button>
+        </div>
       </form>
     </Form>
   );

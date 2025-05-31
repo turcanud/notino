@@ -1,15 +1,13 @@
 import {fetchProducts} from "@/actions/products.actions";
-// import {FilterSection} from "@/components/FilterSection";
 import ProductBrowser from "@/components/ProductBrowser";
 import {Separator} from "@/components/ui/separator";
-// import ProductCard from "@/components/ProductCard";
-import {MakeupProduct} from "@/types";
+import {_MakeupProduct} from "@/types";
 import Image from "next/image";
 
 export default async function Page() {
   const lipsMakeup = await fetchProducts("machiaj_buze");
   const eyesMakeup = await fetchProducts("machiaj_ochi");
-  const products: MakeupProduct[] = [...lipsMakeup, ...eyesMakeup];
+  const products: _MakeupProduct[] = [...lipsMakeup, ...eyesMakeup];
 
   return (
     <div className="px-4 sm:px-6 lg:px-16 flex flex-col gap-6 items-center">

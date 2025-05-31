@@ -38,7 +38,7 @@ export default function ProductCard({product}: {product: BaseProduct}) {
           </h3>
           <div className="flex justify-between items-center text-sm sm:text-md">
             <span className="font-light">{product.volum}</span>
-            <span className="font-medium">{product.pret}</span>
+            <span className="font-medium">{product.pret} MDL</span>
           </div>
 
           <Rating reviews={product.recenzii as Review[]} />

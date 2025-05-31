@@ -5,7 +5,7 @@ export interface Review {
   comentariu: string;
 }
 
-interface BaseCharacteristics {
+export interface BaseCharacteristics {
   brand: string;
   seria: string;
   tip_produs: string;
@@ -20,7 +20,7 @@ export interface BaseProduct {
   nume: string;
   categorie: string;
   volum: string;
-  pret: string;
+  pret: number;
   recenzii?: Review[];
 }
 
@@ -53,9 +53,12 @@ export interface Product<TCharacteristics extends BaseCharacteristics>
   caracteristici: TCharacteristics;
 }
 
-export type MakeupProduct =
-  | Product<MakeupLipsCharacteristics>
-  | Product<MakeupEyesCharacteristics>;
+export type _MakeupProduct =
+  | Product<CharacteristicsForCategory<"machiaj_ochi">>
+  | Product<CharacteristicsForCategory<"machiaj_buze">>;
+export type _HairProduct = Product<CharacteristicsForCategory<"par">>;
+export type _BodyProduct = Product<CharacteristicsForCategory<"corp">>;
+export type _PerfumeProduct = Product<CharacteristicsForCategory<"parfumuri">>;
 
 export type HairProduct = Product<HairCharacteristics>;
 export type BodyProduct = Product<BodyCharacteristics>;
