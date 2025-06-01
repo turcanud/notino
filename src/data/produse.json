@@ -374,7 +374,7 @@
         "brand": "Echosline",
         "seria": "colorcarer",
         "scop": "nutriţie, revitalizare, întăriree",
-        "tip_produs": "şampon",
+        "tip_produs": "șampon",
         "volum": "300ml",
         "tip_de_par": "deteriorat",
         "tara": "Italia"
@@ -407,7 +407,7 @@
         "brand": "L'Oreal Professionnel",
         "seria": "scalp advanced",
         "scop": "purificare, revitalizare",
-        "tip_produs": "şampon",
+        "tip_produs": "șampon",
         "volum": "300ml",
         "tip_de_par": "creț",
         "tara": "Spania"
@@ -440,7 +440,7 @@
         "brand": "Kerastase",
         "seria": "scalp advanced",
         "scop": "purificare, revitalizare",
-        "tip_produs": "şampon",
+        "tip_produs": "șampon",
         "volum": "300ml",
         "tip_de_par": "creț",
         "tara": "Spania"
@@ -473,7 +473,7 @@
         "brand": "American Crew",
         "seria": "classic",
         "scop": "hidratare, purificare",
-        "tip_produs": "şampon",
+        "tip_produs": "șampon",
         "volum": "450ml",
         "tip_de_par": "creț",
         "tara": "SUA"
@@ -506,7 +506,7 @@
         "brand": "Esthetic House",
         "seria": "cp-1",
         "scop": "antimătreaţă, produse pentru strălucire, purificare, revitalizare, reîmprospătare, împotriva căderii părului, împotriva inflamaţiilor",
-        "tip_produs": "şampon",
+        "tip_produs": "șampon",
         "volum": "100ml",
         "tip_de_par": "creț",
         "tara": "Coreea de Sud"
@@ -539,7 +539,7 @@
         "brand": "Kerastase",
         "seria": "specifique",
         "scop": "împotriva căderii părului",
-        "tip_produs": "şampon",
+        "tip_produs": "șampon",
         "volum": "250ml",
         "tip_de_par": "creț",
         "tara": "Spania"
@@ -985,14 +985,14 @@
       "promotie": "HIT",
       "poza": "/assets/products/parfumuri/product200.png",
       "nume": "Green Tea",
-      "categorie": "Apa de parfum",
+      "categorie": "Apă de parfum",
       "volum": "30ml",
       "pret": 255,
 
       "caracteristici": {
         "brand": "Elizabeth Arden",
         "seria": "Green tea",
-        "tip_produs": "Apa de parfum",
+        "tip_produs": "Apă de parfum",
         "volum": "30ml",
         "tara": "SUA",
         "gen": "femei",
@@ -1019,7 +1019,7 @@
       "promotie": "HIT",
       "poza": "/assets/products/parfumuri/product201.png",
       "nume": "CK One",
-      "categorie": "Apa de parfum",
+      "categorie": "Apă de parfum",
       "volum": "100ml",
       "pret": 954,
 
@@ -1087,14 +1087,14 @@
       "promotie": "HIT",
       "poza": "/assets/products/parfumuri/product203.png",
       "nume": "Paloma Picasso",
-      "categorie": "Apa de parfum",
+      "categorie": "Apă de parfum",
       "volum": "30ml",
       "pret": 513,
 
       "caracteristici": {
         "brand": "Azzaro",
         "seria": "eau",
-        "tip_produs": "apă de parfum",
+        "tip_produs": "Apă de parfum",
         "volum": "30ml",
         "tara": "Franţa",
         "gen": "femei",
@@ -1121,14 +1121,14 @@
       "promotie": "NEW",
       "poza": "/assets/products/parfumuri/product204.png",
       "nume": "Club De Nuit Untold",
-      "categorie": "Apa de parfum",
+      "categorie": "Apă de parfum",
       "volum": "105ml",
       "pret": 1210,
 
       "caracteristici": {
         "brand": "Armaf",
         "seria": "club de nuit untold",
-        "tip_produs": "apă de parfum",
+        "tip_produs": "Apă de parfum",
         "volum": "105ml",
         "tara": "Emiraterele Arabe Unite",
         "gen": "bărbați",
@@ -1155,14 +1155,14 @@
       "promotie": "DEAL",
       "poza": "/assets/products/parfumuri/product205.png",
       "nume": "Voce Viva Intensa",
-      "categorie": "Apa de parfum",
+      "categorie": "Apă de parfum",
       "volum": "50ml",
       "pret": 1471,
 
       "caracteristici": {
         "brand": "Valentino",
         "seria": "voce viva intensa",
-        "tip_produs": "apă de parfum",
+        "tip_produs": "Apă de parfum",
         "volum": "50ml",
         "tara": "Italia",
         "gen": "femei",
@@ -1228,14 +1228,14 @@
       "promotie": "HIT",
       "poza": "/assets/products/parfumuri/product207.png",
       "nume": "La Vie est Belle L'Elixir",
-      "categorie": "Apa de parfum",
+      "categorie": "Apă de parfum",
       "volum": "30ml",
       "pret": 1580,
 
       "caracteristici": {
         "brand": "Lancome",
         "seria": "la vie est belle",
-        "tip_produs": "apă de parfum",
+        "tip_produs": "Apă de parfum",
         "volum": "30ml",
         "tara": "Franţa",
         "gen": "femei",
@@ -1262,14 +1262,14 @@
       "promotie": "HIT",
       "poza": "/assets/products/parfumuri/product208.png",
       "nume": "Idole",
-      "categorie": "Apa de parfum",
+      "categorie": "Apă de parfum",
       "volum": "25ml",
       "pret": 1175,
 
       "caracteristici": {
         "brand": "Lancome",
         "seria": "idole",
-        "tip_produs": "apă de parfum",
+        "tip_produs": "Apă de parfum",
         "volum": "25ml",
         "tara": "Franţa",
         "gen": "femei",
@@ -1303,7 +1303,7 @@
       "caracteristici": {
         "brand": "Moschino",
         "seria": "toy 2 bubble gum",
-        "tip_produs": "apă de toaletă",
+        "tip_produs": "Apă de toaletă",
         "volum": "30ml",
         "tara": "Italia",
         "gen": "femei",
@@ -1337,7 +1337,7 @@
       "caracteristici": {
         "brand": "Giorgio Armani",
         "seria": "My Way Nectar",
-        "tip_produs": "apă de parfum",
+        "tip_produs": "Apă de parfum",
         "volum": "30ml",
         "tara": "Italia",
         "gen": "femei",
@@ -1371,7 +1371,7 @@
       "caracteristici": {
         "brand": "Rubeus Milano",
         "seria": "Bleu",
-        "tip_produs": "apă de parfum",
+        "tip_produs": "Apă de parfum",
         "volum": "50ml",
         "tara": "Italia",
         "gen": "femei",
@@ -1405,7 +1405,7 @@
       "caracteristici": {
         "brand": "Moschino",
         "seria": "Funny!",
-        "tip_produs": "apă de toaletă",
+        "tip_produs": "Apă de toaletă",
         "volum": "50ml",
         "tara": "Italia",
         "gen": "femei",
@@ -1439,7 +1439,7 @@
       "caracteristici": {
         "brand": "Zadig & Voltaire",
         "seria": "This is Her!",
-        "tip_produs": "apă de parfum",
+        "tip_produs": "Apă de parfum",
         "volum": "30ml",
         "tara": "Franța",
         "gen": "femei",
@@ -1473,7 +1473,7 @@
       "caracteristici": {
         "brand": "Dolce & Gabbana",
         "seria": "Light Blue",
-        "tip_produs": "apă de toaletă",
+        "tip_produs": "Apă de toaletă",
         "volum": "25ml",
         "tara": "Italia",
         "gen": "femei",
@@ -1507,7 +1507,7 @@
       "caracteristici": {
         "brand": "Chloé",
         "seria": "Nomade",
-        "tip_produs": "apă de parfum",
+        "tip_produs": "Apă de parfum",
         "volum": "20ml",
         "tara": "Franța",
         "gen": "femei",
@@ -1541,7 +1541,7 @@
       "caracteristici": {
         "brand": "Chloé",
         "seria": "Chloé",
-        "tip_produs": "apă de parfum",
+        "tip_produs": "Apă de parfum",
         "volum": "30ml",
         "tara": "Franța",
         "gen": "femei",
@@ -1575,7 +1575,7 @@
       "caracteristici": {
         "brand": "Montblanc",
         "seria": "Signature",
-        "tip_produs": "apă de parfum",
+        "tip_produs": "Apă de parfum",
         "volum": "30ml",
         "tara": "Germania",
         "gen": "femei",
@@ -1872,7 +1872,7 @@
       "caracteristici": {
         "brand": "Makeup Revolution",
         "seria": "Brow Sculpt",
-        "tip_produs": "kit sprâncene",
+        "tip_produs": "sprâncene",
         "culori": "2 nuanțe",
         "tara": "UK",
         "scop": "definire, umplere, modelare sprâncene"
