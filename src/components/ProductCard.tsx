@@ -2,8 +2,8 @@ import {Button} from "./ui/button";
 import Rating from "./Rating";
 import {BaseProduct, Review} from "@/types";
 import Image from "next/image";
-import {Heart} from "lucide-react";
 import {Card, CardContent} from "./ui/card";
+import FavoriteButton from "./FavoriteButton";
 
 export default function ProductCard({product}: {product: BaseProduct}) {
   return (
@@ -47,12 +47,7 @@ export default function ProductCard({product}: {product: BaseProduct}) {
             <Button className="bg-[#9D182B] hover:bg-[#9D182B] text-white font-medium py-2 px-4 sm:px-6 w-3/4 transition-colors duration-200 rounded-none cursor-pointer">
               Adaugă
             </Button>
-            <Button
-              variant={"outline"}
-              size={"icon"}
-              className="rounded-full cursor-pointer flex-shrink-0">
-              <Heart className="w-5 h-5" />
-            </Button>
+            <FavoriteButton product={product} />
           </div>
         </div>
       </CardContent>

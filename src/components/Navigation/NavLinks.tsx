@@ -1,10 +1,9 @@
 "use client";
 import Link from "next/link";
 import {usePathname} from "next/navigation";
-import React from "react";
 
 export default function NavLinks() {
-  const pathname = usePathname(); // Get current route
+  const pathname = usePathname();
   // Define navigation links
   const navLinks = [
     {href: "/machiaj", label: "Machiaj"},

@@ -1,9 +1,8 @@
 import Link from "next/link";
 import {SearchBox} from "./Navigation/SearchBox";
 import {ModeToggle} from "./Navigation/ModeToggle";
-import {ShoppingBag, Heart} from "lucide-react";
-import {Button} from "./ui/button";
 import NavLinks from "./Navigation/NavLinks";
+import FavoritesAndBag from "./Navigation/FavoritesAndBag";
 
 export default function Navigation() {
   return (
@@ -17,22 +16,7 @@ export default function Navigation() {
         <div className="flex gap-3 sm:gap-5 lg:gap-7 items-center">
           <ModeToggle />
           <SearchBox />
-          <Link href="/favorites" aria-label="Favorites">
-            <Button
-              variant="outline"
-              size="icon"
-              className="rounded-full cursor-pointer h-9 w-9 sm:h-10 sm:w-10">
-              <Heart className="h-5 w-5" />
-            </Button>
-          </Link>
-          <Link href="/cart" aria-label="Shopping Cart">
-            <Button
-              variant="outline"
-              size="icon"
-              className="rounded-full cursor-pointer h-9 w-9 sm:h-10 sm:w-10">
-              <ShoppingBag className="h-5 w-5" />
-            </Button>
-          </Link>
+          <FavoritesAndBag />
         </div>
       </div>
       <NavLinks />

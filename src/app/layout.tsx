@@ -4,6 +4,7 @@ import Navigation from "@/components/Navigation";
 import Footer from "@/components/Footer";
 import {ThemeProvider} from "@/components/theme-provider";
 import {Toaster} from "@/components/ui/sonner";
+import {FavoritesProvider} from "@/components/FavoritesContext";
 
 export const metadata: Metadata = {
   title: "Notino",
@@ -18,17 +19,19 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <body className={`antialiased`}>
-        <ThemeProvider
-          attribute="class"
-          defaultTheme="system"
-          enableSystem
-          disableTransitionOnChange>
-          <Navigation />
-          {children}
-          <div className="h-30"></div>
-          <Footer />
-          <Toaster />
-        </ThemeProvider>
+        <FavoritesProvider>
+          <ThemeProvider
+            attribute="class"
+            defaultTheme="system"
+            enableSystem
+            disableTransitionOnChange>
+            <Navigation />
+            {children}
+            <div className="h-30"></div>
+            <Footer />
+            <Toaster />
+          </ThemeProvider>
+        </FavoritesProvider>
       </body>
     </html>
   );
