@@ -15,6 +15,7 @@ import {
   FormMessage,
 } from "@/components/ui/form";
 import {Input} from "@/components/ui/input";
+import {useCart} from "@/context/CartContext";
 
 const FormSchema = z.object({
   name_surname: z.string().min(2, {
@@ -23,8 +24,8 @@ const FormSchema = z.object({
   email: z.string().email({
     message: "Adresă de email invalidă.",
   }),
-  phone: z.string().min(10, {
-    message: "Numărul de telefon trebuie să aibă cel puțin 10 cifre.",
+  phone: z.string().min(8, {
+    message: "Numărul de telefon trebuie să aibă cel puțin 8 cifre.",
   }),
   address: z.string().min(5, {
     message: "Adresa trebuie să aibă cel puțin 5 caractere.",
@@ -50,6 +51,7 @@ const FormSchema = z.object({
 });
 
 export function CheckoutForm() {
+  const {clearCart} = useCart();
   const form = useForm<z.infer<typeof FormSchema>>({
     resolver: zodResolver(FormSchema),
     defaultValues: {
@@ -69,13 +71,16 @@ export function CheckoutForm() {
   function onSubmit(data: z.infer<typeof FormSchema>) {
     toast.success("Comanda a fost trimisă cu succes!");
     console.log("Submitted data:", data);
+    form.reset();
+    localStorage.removeItem("cart_items");
+    clearCart();
   }
 
   return (
     <Form {...form}>
       <form
         onSubmit={form.handleSubmit(onSubmit)}
-        className="order-2 sm:order-1 grid grid-cols-1 sm:grid-cols-2 gap-4">
+        className="order-2 sm:order-1 grid grid-cols-1 sm:grid-cols-2 gap-4 h-fit">
         {/* Personal Info */}
         <FormField
           control={form.control}

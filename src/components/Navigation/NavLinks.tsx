@@ -18,8 +18,8 @@ export default function NavLinks() {
         <Link
           key={href}
           href={href}
-          className={`hover:text-red-300 transition-colors duration-200 ${
-            pathname === href ? "text-red-500" : ""
+          className={`hover:text-[#788AA3] transition-colors duration-200 ${
+            pathname === href ? "text-[#824C71]" : ""
           }`}
           aria-current={pathname === href ? "page" : undefined}>
           {label}

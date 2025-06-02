@@ -21,8 +21,8 @@ export default function AddToCartBtn({product}: {product: BaseProduct}) {
       onClick={toggleCart}
       className={`w-3/4 sm:w-auto py-2 px-4 sm:px-6 text-white font-medium rounded-md transition-all duration-200 hover:scale-105 active:scale-95 focus:outline-none focus:ring-2 focus:ring-offset-2 ${
         cart
-          ? "bg-red-600 hover:bg-red-700 focus:ring-red-600"
-          : "bg-green-600 hover:bg-green-700 focus:ring-green-600"
+          ? "bg-[#DA2C38] hover:bg-red-700 focus:ring-[#DA2C38]"
+          : "bg-[#0A8754] hover:bg-green-700 focus:ring-[#0A8754]"
       }`}>
       {cart ? "Elimină" : "Adaugă"}
     </Button>

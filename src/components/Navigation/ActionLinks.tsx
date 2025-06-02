@@ -15,7 +15,7 @@ export default function ActionLinks() {
           size="icon"
           className="h-9 w-9 sm:h-10 sm:w-10 rounded-full">
           {pathname === "/search" ? (
-            <Search className="h-5 w-5" color="blue" />
+            <Search className="h-5 w-5" color="#7189FF" />
           ) : (
             <Search className="h-5 w-5" />
           )}
@@ -27,7 +27,7 @@ export default function ActionLinks() {
           size="icon"
           className="rounded-full cursor-pointer h-9 w-9 sm:h-10 sm:w-10">
           {pathname === "/favorites" ? (
-            <Heart className="h-5 w-5" color="red" fill="red" />
+            <Heart className="h-5 w-5" color="#EC4067" />
           ) : (
             <Heart className="h-5 w-5" />
           )}

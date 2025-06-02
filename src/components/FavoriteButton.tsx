@@ -21,7 +21,7 @@ export default function FavoriteButton({product}: {product: BaseProduct}) {
       size={"icon"}
       className="rounded-full cursor-pointer flex-shrink-0">
       {favorite ? (
-        <Heart className="w-5 h-5" fill="red" color="red" />
+        <Heart className="w-5 h-5" fill="#EC4067" color="#EC4067" />
       ) : (
         <Heart className="w-5 h-5" />
       )}

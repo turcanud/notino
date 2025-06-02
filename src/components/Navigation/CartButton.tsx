@@ -62,11 +62,10 @@ export default function CartButton() {
         <Button
           variant="outline"
           size="icon"
-          className="rounded-full cursor-pointer h-9 w-9 sm:h-10 sm:w-10"
-          disabled={pathname === "/checkout"}>
+          className="rounded-full cursor-pointer h-9 w-9 sm:h-10 sm:w-10">
           <ShoppingBag
             className="h-5 w-5"
-            color={pathname === "/checkout" ? "yellow" : undefined}
+            color={pathname === "/checkout" ? "#6DA34D" : undefined}
           />
         </Button>
       </DialogTrigger>
