@@ -59,15 +59,23 @@ export default function CartButton() {
   return (
     <Dialog>
       <DialogTrigger asChild>
-        <Button
-          variant="outline"
-          size="icon"
-          className="rounded-full cursor-pointer h-9 w-9 sm:h-10 sm:w-10">
-          <ShoppingBag
-            className="h-5 w-5"
-            color={pathname === "/checkout" ? "#6DA34D" : undefined}
-          />
-        </Button>
+        <div className="relative">
+          <Button
+            variant="outline"
+            size="icon"
+            className="rounded-full cursor-pointer h-9 w-9 sm:h-10 sm:w-10">
+            <ShoppingBag
+              className="h-5 w-5"
+              color={pathname === "/checkout" ? "#6DA34D" : undefined}
+            />
+          </Button>
+
+          {cart.length > 0 && (
+            <span className="absolute -top-1 -right-1 bg-[#6DA34D] text-white text-xs font-bold h-4 w-4 sm:h-5 sm:w-5 rounded-full flex items-center justify-center">
+              {cart.length}
+            </span>
+          )}
+        </div>
       </DialogTrigger>
 
       <DialogContent className="sm:max-w-[600px]">
