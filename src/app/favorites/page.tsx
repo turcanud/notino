@@ -1,5 +1,5 @@
 "use client";
-import {useFavorites} from "@/components/FavoritesContext";
+import {useFavorites} from "@/context/FavoritesContext";
 import ProductCard from "@/components/ProductCard";
 
 export default function Page() {

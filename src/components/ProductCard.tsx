@@ -1,9 +1,9 @@
-import {Button} from "./ui/button";
 import Rating from "./Rating";
 import {BaseProduct, Review} from "@/types";
 import Image from "next/image";
 import {Card, CardContent} from "./ui/card";
 import FavoriteButton from "./FavoriteButton";
+import AddToCartBtn from "./AddToCartBtn";
 
 export default function ProductCard({product}: {product: BaseProduct}) {
   return (
@@ -44,9 +44,7 @@ export default function ProductCard({product}: {product: BaseProduct}) {
           <Rating reviews={product.recenzii as Review[]} />
 
           <div className="flex justify-between items-center gap-2">
-            <Button className="bg-[#9D182B] hover:bg-[#9D182B] text-white font-medium py-2 px-4 sm:px-6 w-3/4 transition-colors duration-200 rounded-none cursor-pointer">
-              Adaugă
-            </Button>
+            <AddToCartBtn product={product} />
             <FavoriteButton product={product} />
           </div>
         </div>

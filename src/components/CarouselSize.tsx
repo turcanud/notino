@@ -1,3 +1,4 @@
+"use client";
 import * as React from "react";
 import {
   Carousel,
@@ -8,6 +9,7 @@ import {
 } from "@/components/ui/carousel";
 import {BaseProduct} from "@/types";
 import ProductCard from "./ProductCard";
+import Autoplay from "embla-carousel-autoplay";
 
 export function CarouselSize({
   products,
@@ -16,14 +18,9 @@ export function CarouselSize({
   products: BaseProduct[];
   promotion?: BaseProduct["promotie"];
 }) {
+  const plugin = React.useRef(Autoplay({delay: 3500, stopOnInteraction: true}));
   return (
-    <Carousel
-      className="sm:w-[90%] w-[80%]"
-      opts={{
-        align: "start",
-        loop: false,
-        slidesToScroll: 1,
-      }}>
+    <Carousel plugins={[plugin.current]} className="sm:w-[90%] w-[80%]">
       <CarouselContent className="">
         {products
           .filter((product) => product.promotie === promotion)

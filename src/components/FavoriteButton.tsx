@@ -2,14 +2,14 @@
 import {Button} from "./ui/button";
 import {Heart} from "lucide-react";
 import {BaseProduct} from "@/types";
-import {useFavorites} from "./FavoritesContext";
+import {useFavorites} from "../context/FavoritesContext";
 
 export default function FavoriteButton({product}: {product: BaseProduct}) {
   const {addToFavorites, removeFromFavorites, isFavorite} = useFavorites();
-  const favorite = isFavorite(product.id.toString());
+  const favorite = isFavorite(product.id);
   const toggleFavorite = () => {
     if (favorite) {
-      removeFromFavorites(product.id.toString());
+      removeFromFavorites(product.id);
     } else {
       addToFavorites(product);
     }

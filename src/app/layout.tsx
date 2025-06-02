@@ -4,7 +4,9 @@ import Navigation from "@/components/Navigation";
 import Footer from "@/components/Footer";
 import {ThemeProvider} from "@/components/theme-provider";
 import {Toaster} from "@/components/ui/sonner";
-import {FavoritesProvider} from "@/components/FavoritesContext";
+import {FavoritesProvider} from "@/context/FavoritesContext";
+import BackToTopButton from "@/components/BackToTopButton";
+import {CartProvider} from "@/context/CartContext";
 
 export const metadata: Metadata = {
   title: "Notino",
@@ -19,19 +21,22 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <body className={`antialiased`}>
-        <FavoritesProvider>
-          <ThemeProvider
-            attribute="class"
-            defaultTheme="system"
-            enableSystem
-            disableTransitionOnChange>
-            <Navigation />
-            {children}
-            <div className="h-30"></div>
-            <Footer />
-            <Toaster />
-          </ThemeProvider>
-        </FavoritesProvider>
+        <ThemeProvider
+          attribute="class"
+          defaultTheme="system"
+          enableSystem
+          disableTransitionOnChange>
+          <CartProvider>
+            <FavoritesProvider>
+              <Navigation />
+              {children}
+              <div className="h-30"></div>
+              <Footer />
+              <Toaster />
+              <BackToTopButton />
+            </FavoritesProvider>
+          </CartProvider>
+        </ThemeProvider>
       </body>
     </html>
   );

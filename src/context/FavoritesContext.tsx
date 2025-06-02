@@ -7,8 +7,8 @@ import {createContext, useContext, useEffect, useState} from "react";
 type FavoritesContextType = {
   favorites: BaseProduct[];
   addToFavorites: (product: BaseProduct) => void;
-  removeFromFavorites: (productId: string) => void;
-  isFavorite: (productId: string) => boolean;
+  removeFromFavorites: (productId: number) => void;
+  isFavorite: (productId: number) => boolean;
 };
 
 const FavoritesContext = createContext<FavoritesContextType | undefined>(
@@ -18,7 +18,6 @@ const FavoritesContext = createContext<FavoritesContextType | undefined>(
 export function FavoritesProvider({children}: {children: React.ReactNode}) {
   const [favorites, setFavorites] = useState<BaseProduct[]>([]);
 
-  // Load favorites from localStorage on mount
   useEffect(() => {
     const storedFavorites = localStorage.getItem("favorites");
     if (storedFavorites) {
@@ -26,14 +25,12 @@ export function FavoritesProvider({children}: {children: React.ReactNode}) {
     }
   }, []);
 
-  // Save to localStorage whenever favorites change
   useEffect(() => {
     localStorage.setItem("favorites", JSON.stringify(favorites));
   }, [favorites]);
 
   const addToFavorites = (product: BaseProduct) => {
     setFavorites((prev) => {
-      // Check if already in favorites
       if (prev.some((item) => item.id === product.id)) {
         return prev;
       }
@@ -41,14 +38,12 @@ export function FavoritesProvider({children}: {children: React.ReactNode}) {
     });
   };
 
-  const removeFromFavorites = (productId: string) => {
-    setFavorites((prev) =>
-      prev.filter((product) => product.id !== Number(productId))
-    );
+  const removeFromFavorites = (productId: number) => {
+    setFavorites((prev) => prev.filter((product) => product.id !== productId));
   };
 
-  const isFavorite = (productId: string) => {
-    return favorites.some((product) => product.id === Number(productId));
+  const isFavorite = (productId: number) => {
+    return favorites.some((product) => product.id === productId);
   };
 
   return (
