@@ -14,11 +14,12 @@ import {useCart} from "@/context/CartContext";
 import {ShoppingBag, Plus, Minus, Trash2} from "lucide-react";
 import Image from "next/image";
 import {useEffect, useState} from "react";
-import {useRouter} from "next/navigation";
+import {usePathname, useRouter} from "next/navigation";
 
 const QUANTITY_KEY = "cart_quantities";
 
 export default function CartButton() {
+  const pathname = usePathname();
   const router = useRouter();
   const {cart, removeFromCart} = useCart();
 
@@ -61,8 +62,12 @@ export default function CartButton() {
         <Button
           variant="outline"
           size="icon"
-          className="rounded-full cursor-pointer h-9 w-9 sm:h-10 sm:w-10">
-          <ShoppingBag className="h-5 w-5" />
+          className="rounded-full cursor-pointer h-9 w-9 sm:h-10 sm:w-10"
+          disabled={pathname === "/checkout"}>
+          <ShoppingBag
+            className="h-5 w-5"
+            color={pathname === "/checkout" ? "yellow" : undefined}
+          />
         </Button>
       </DialogTrigger>
 
@@ -84,8 +89,8 @@ export default function CartButton() {
                 <Image
                   src={item.poza ?? "/placeholder.jpg"}
                   alt={item.nume}
-                  width={50}
-                  height={50}
+                  width={40}
+                  height={40}
                   className="rounded object-contain"
                 />
                 <div>

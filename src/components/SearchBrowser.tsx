@@ -1,17 +1,34 @@
 "use client";
 
-import {BaseProduct} from "@/types";
+import {CategoryName, CharacteristicsForCategory, Product} from "@/types";
 import {useCallback, useState} from "react";
 import ProductCard from "./ProductCard";
 import {SearchBox} from "./Navigation/SearchBox";
 
-export default function SearchBrowser({products}: {products: BaseProduct[]}) {
+const removeDiacritics = (str: string) => {
+  return str
+    .normalize("NFD") // Normalize to decomposed form (e.g., 'ș' → 's' + '̧')
+    .replace(/[\u0300-\u036f]/g, "") // Remove combining diacritical marks
+    .toLowerCase();
+};
+
+export default function SearchBrowser<T extends CategoryName>({
+  products,
+}: {
+  products: Product<CharacteristicsForCategory<T>>[];
+}) {
   const [searchedProducts, setSearchedProducts] = useState(products);
 
   const handleSearch = useCallback(
     (searchTerm: string) => {
-      const filteredProducts = products.filter((product) =>
-        product.nume.toLowerCase().includes(searchTerm.toLowerCase())
+      const normalizedSearchTerm = removeDiacritics(searchTerm);
+      const filteredProducts = products.filter(
+        (product) =>
+          removeDiacritics(product.nume).includes(normalizedSearchTerm) ||
+          removeDiacritics(product.categorie).includes(normalizedSearchTerm) ||
+          removeDiacritics(product.caracteristici.tip_produs).includes(
+            normalizedSearchTerm
+          )
       );
       setSearchedProducts(filteredProducts);
     },

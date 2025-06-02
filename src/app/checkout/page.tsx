@@ -1,11 +1,9 @@
 "use client";
 
 import {useCart} from "@/context/CartContext";
-import {Input} from "@/components/ui/input";
-import {Label} from "@/components/ui/label";
-import {Button} from "@/components/ui/button";
 import Image from "next/image";
 import {useEffect, useState} from "react";
+import {CheckoutForm} from "@/components/CheckoutForm";
 
 const QUANTITY_KEY = "cart_quantities";
 
@@ -34,29 +32,10 @@ export default function CheckoutPage() {
   return (
     <div className="max-w-6xl mx-auto px-4 py-8 grid grid-cols-1 lg:grid-cols-2 gap-8">
       {/* Left side: User Form */}
-      <div className="space-y-6">
-        <h2 className="text-2xl font-bold">Date de livrare</h2>
-
-        <div className="space-y-3">
-          <Label htmlFor="name">Nume complet</Label>
-          <Input id="name" placeholder="Ion Popescu" />
-        </div>
-
-        <div className="space-y-3">
-          <Label htmlFor="email">Email</Label>
-          <Input id="email" placeholder="ion@example.com" type="email" />
-        </div>
-
-        <div className="space-y-3">
-          <Label htmlFor="address">Adresă de livrare</Label>
-          <Input id="address" placeholder="Strada Principală 123, Chișinău" />
-        </div>
-
-        <Button className="mt-4 w-full">Plasează comanda</Button>
-      </div>
+      <CheckoutForm />
 
       {/* Right side: Cart Summary */}
-      <div className="space-y-6">
+      <div className="space-y-6 order-1 sm:order-2">
         <h2 className="text-2xl font-bold">Rezumat comandă</h2>
 
         {cart.length === 0 ? (
@@ -69,12 +48,14 @@ export default function CheckoutPage() {
                   <Image
                     src={item.poza ?? "/placeholder.jpg"}
                     alt={item.nume}
-                    width={60}
-                    height={60}
-                    className="rounded object-contain"
+                    width={40}
+                    height={40}
+                    className="rounded object-contain h-[90px]"
                   />
                   <div>
-                    <p className="font-semibold">{item.nume}</p>
+                    <p className="font-semibold truncate max-w-[200px]">
+                      {item.nume}
+                    </p>
                     <p className="text-sm text-muted-foreground">
                       {getQuantity(item.id)} x {item.pret} MDL
                     </p>

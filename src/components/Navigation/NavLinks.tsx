@@ -13,13 +13,13 @@ export default function NavLinks() {
   ];
 
   return (
-    <div className="flex flex-wrap gap-3 sm:gap-4 lg:gap-6 uppercase text-sm sm:text-base font-bold">
+    <div className="flex flex-wrap gap-3 sm:gap-4 lg:gap-6 uppercase text-sm sm:text-base font-bold w-full justify-center sm:justify-start">
       {navLinks.map(({href, label}) => (
         <Link
           key={href}
           href={href}
-          className={`hover:text-gray-600 transition-colors duration-200 ${
-            pathname === href ? "text-red-600" : ""
+          className={`hover:text-red-300 transition-colors duration-200 ${
+            pathname === href ? "text-red-500" : ""
           }`}
           aria-current={pathname === href ? "page" : undefined}>
           {label}
