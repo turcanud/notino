@@ -1,8 +1,7 @@
 import Link from "next/link";
-import {SearchBox} from "./Navigation/SearchBox";
 import {ModeToggle} from "./Navigation/ModeToggle";
 import NavLinks from "./Navigation/NavLinks";
-import FavoritesAndBag from "./Navigation/FavoritesAndBag";
+import ActionLinks from "./Navigation/ActionLinks";
 
 export default function Navigation() {
   return (
@@ -15,8 +14,7 @@ export default function Navigation() {
         </Link>
         <div className="flex gap-3 sm:gap-5 lg:gap-7 items-center">
           <ModeToggle />
-          <SearchBox />
-          <FavoritesAndBag />
+          <ActionLinks />
         </div>
       </div>
       <NavLinks />
