@@ -1,12 +1,26 @@
-// app/context/FavoritesContext.tsx
 "use client";
 
-import {BaseProduct} from "@/types";
+import {
+  BodyCharacteristics,
+  HairCharacteristics,
+  MakeupEyesCharacteristics,
+  MakeupLipsCharacteristics,
+  PerfumeCharacteristics,
+  Product,
+} from "@/types";
 import {createContext, useContext, useEffect, useState} from "react";
 
+type GeneralProduct = Product<
+  | HairCharacteristics
+  | BodyCharacteristics
+  | PerfumeCharacteristics
+  | MakeupEyesCharacteristics
+  | MakeupLipsCharacteristics
+>;
+
 type FavoritesContextType = {
-  favorites: BaseProduct[];
-  addToFavorites: (product: BaseProduct) => void;
+  favorites: GeneralProduct[];
+  addToFavorites: (product: GeneralProduct) => void;
   removeFromFavorites: (productId: number) => void;
   isFavorite: (productId: number) => boolean;
 };
@@ -16,7 +30,7 @@ const FavoritesContext = createContext<FavoritesContextType | undefined>(
 );
 
 export function FavoritesProvider({children}: {children: React.ReactNode}) {
-  const [favorites, setFavorites] = useState<BaseProduct[]>([]);
+  const [favorites, setFavorites] = useState<GeneralProduct[]>([]);
 
   useEffect(() => {
     const storedFavorites = localStorage.getItem("favorites");
@@ -29,7 +43,7 @@ export function FavoritesProvider({children}: {children: React.ReactNode}) {
     localStorage.setItem("favorites", JSON.stringify(favorites));
   }, [favorites]);
 
-  const addToFavorites = (product: BaseProduct) => {
+  const addToFavorites = (product: GeneralProduct) => {
     setFavorites((prev) => {
       if (prev.some((item) => item.id === product.id)) {
         return prev;
