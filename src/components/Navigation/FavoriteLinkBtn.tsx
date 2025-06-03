@@ -15,7 +15,7 @@ export default function FavoriteLinkBtn() {
         <Button
           variant="outline"
           size="icon"
-          className="rounded-full cursor-pointer h-9 w-9 sm:h-10 sm:w-10">
+          className="rounded-full cursor-pointer h-9 w-9 sm:h-10 sm:w-10 transition-all duration-200 hover:scale-105 active:scale-95">
           {pathname === "/favorites" ? (
             <Heart className="h-5 w-5" color="#EC4067" />
           ) : (
@@ -23,7 +23,7 @@ export default function FavoriteLinkBtn() {
           )}
         </Button>
         {favorites.length > 0 && (
-          <span className="absolute -top-1 -right-1 bg-[#EC4067] text-white text-xs font-bold h-4 w-4 sm:h-5 sm:w-5 rounded-full flex items-center justify-center">
+          <span className="absolute -top-1 -right-1 bg-[#EC4067] text-white text-xs font-bold h-4 w-4 sm:h-5 sm:w-5 rounded-full flex items-center justify-center transition-all duration-200 hover:scale-105 active:scale-95">
             {favorites.length}
           </span>
         )}

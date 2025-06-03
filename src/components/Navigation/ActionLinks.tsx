@@ -14,7 +14,7 @@ export default function ActionLinks() {
         <Button
           variant="outline"
           size="icon"
-          className="h-9 w-9 sm:h-10 sm:w-10 rounded-full">
+          className="h-9 w-9 sm:h-10 sm:w-10 rounded-full transition-all duration-200 hover:scale-105 active:scale-95">
           {pathname === "/search" ? (
             <Search className="h-5 w-5" color="#7189FF" />
           ) : (

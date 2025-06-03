@@ -21,7 +21,7 @@ export function ModeToggle() {
         <Button
           variant="outline"
           size="icon"
-          className="rounded-full h-9 w-9 sm:h-10 sm:w-10">
+          className="rounded-full h-9 w-9 sm:h-10 sm:w-10 transition-all duration-200 hover:scale-105 active:scale-95">
           <Sun className="h-[2rem] w-[2rem] scale-100 rotate-0 transition-all dark:scale-0 dark:-rotate-90" />
           <Moon className="absolute h-[2rem] w-[2rem] scale-0 rotate-90 transition-all dark:scale-100 dark:rotate-0" />
           <span className="sr-only">Toggle theme</span>

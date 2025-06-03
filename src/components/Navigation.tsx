@@ -9,7 +9,7 @@ export default function Navigation() {
       <div className="flex items-center justify-between min-h-[60px] sm:min-h-[72px]">
         <Link
           href="/"
-          className="uppercase text-lg sm:text-xl lg:text-2xl tracking-widest font-bold select-none cursor-pointer">
+          className="notino-link uppercase text-lg sm:text-xl lg:text-2xl tracking-widest font-bold select-none cursor-pointer">
           Notino
         </Link>
         <div className="flex gap-3 sm:gap-5 lg:gap-7 items-center">

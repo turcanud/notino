@@ -120,3 +120,26 @@
     @apply bg-background text-foreground;
   }
 }
+.notino-link {
+  background: linear-gradient(-45deg, #788aa3, #aab8c8, #788aa3, #d3dde7);
+  background-size: 400% 400%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transition: background-position 0.5s ease;
+}
+
+.notino-link:hover {
+  animation: waveGradient 2s linear infinite;
+}
+
+@keyframes waveGradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}

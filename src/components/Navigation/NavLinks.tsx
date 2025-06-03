@@ -18,11 +18,17 @@ export default function NavLinks() {
         <Link
           key={href}
           href={href}
-          className={`hover:text-[#788AA3] transition-colors duration-200 ${
-            pathname === href ? "text-[#824C71]" : ""
-          }`}
-          aria-current={pathname === href ? "page" : undefined}>
-          {label}
+          className={`relative group hover:text-[#788AA3] transition-all duration-300`}>
+          <span className="block group-hover:-translate-y-0.5 transition-all duration-400">
+            {label}
+          </span>
+          <span
+            className={`
+      absolute left-0 right-0 -bottom-1 h-0.5 bg-[#824C71] 
+      transition-all duration-300 origin-left
+      ${pathname === href ? "scale-x-100" : "scale-x-0 group-hover:scale-x-100"}
+    `}
+          />
         </Link>
       ))}
     </div>
