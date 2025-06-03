@@ -1,7 +1,7 @@
-import {BaseProduct} from "@/types";
+import {GeneralProduct} from "@/types";
 import ProductCard from "./ProductCard";
 
-export function ProductGrid({products}: {products: BaseProduct[]}) {
+export function ProductGrid({products}: {products: GeneralProduct[]}) {
   return (
     <div className="">
       <h2 className="text-lg font-semibold mb-4">

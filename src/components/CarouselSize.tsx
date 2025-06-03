@@ -7,7 +7,7 @@ import {
   CarouselNext,
   CarouselPrevious,
 } from "@/components/ui/carousel";
-import {BaseProduct} from "@/types";
+import {GeneralProduct} from "@/types";
 import ProductCard from "./ProductCard";
 import Autoplay from "embla-carousel-autoplay";
 
@@ -15,8 +15,8 @@ export function CarouselSize({
   products,
   promotion,
 }: {
-  products: BaseProduct[];
-  promotion?: BaseProduct["promotie"];
+  products: GeneralProduct[];
+  promotion?: GeneralProduct["promotie"];
 }) {
   const plugin = React.useRef(Autoplay({delay: 3500, stopOnInteraction: true}));
   return (

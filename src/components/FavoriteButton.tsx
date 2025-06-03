@@ -1,11 +1,11 @@
 "use client";
 import {Button} from "./ui/button";
 import {Heart} from "lucide-react";
-import {BaseProduct} from "@/types";
+import {GeneralProduct} from "@/types";
 import {useFavorites} from "../context/FavoritesContext";
 import {toast} from "sonner";
 
-export default function FavoriteButton({product}: {product: BaseProduct}) {
+export default function FavoriteButton({product}: {product: GeneralProduct}) {
   const {addToFavorites, removeFromFavorites, isFavorite} = useFavorites();
   const favorite = isFavorite(product.id);
   const toggleFavorite = () => {

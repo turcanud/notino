@@ -1,10 +1,10 @@
 import {CarouselSize} from "@/components/CarouselSize";
 import Image from "next/image";
 import {fetchAllProducts} from "@/actions/products.actions";
-import {BaseProduct} from "@/types";
+import {GeneralProduct} from "@/types";
 
 export default async function Home() {
-  const products = (await fetchAllProducts()) as BaseProduct[];
+  const products = (await fetchAllProducts()) as GeneralProduct[];
 
   return (
     <div className="flex flex-col items-center gap-5 min-w-[70%]">

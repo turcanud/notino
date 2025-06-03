@@ -1,22 +1,7 @@
 "use client";
 
-import {
-  BodyCharacteristics,
-  HairCharacteristics,
-  MakeupEyesCharacteristics,
-  MakeupLipsCharacteristics,
-  PerfumeCharacteristics,
-  Product,
-} from "@/types";
+import {GeneralProduct} from "@/types";
 import {createContext, useContext, useEffect, useState} from "react";
-
-type GeneralProduct = Product<
-  | HairCharacteristics
-  | BodyCharacteristics
-  | PerfumeCharacteristics
-  | MakeupEyesCharacteristics
-  | MakeupLipsCharacteristics
->;
 
 type FavoritesContextType = {
   favorites: GeneralProduct[];

@@ -74,6 +74,14 @@ export interface ProductCategories {
   machiaj_buze: MakeupLipsProduct[];
 }
 
+export type GeneralProduct = Product<
+  | HairCharacteristics
+  | BodyCharacteristics
+  | PerfumeCharacteristics
+  | MakeupEyesCharacteristics
+  | MakeupLipsCharacteristics
+>;
+
 // Type-safe category access
 export type CategoryName = keyof ProductCategories;
 
